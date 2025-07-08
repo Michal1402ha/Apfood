@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a72cf5ba-febd-4013-8d90-66b51cde5856"
+      }
+    },
+    "android": {
+      "package": "com.michalhajn.apfood"
+    }
+  }
+}
