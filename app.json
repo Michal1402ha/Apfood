@@ -1,12 +1,37 @@
 {
   "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "a72cf5ba-febd-4013-8d90-66b51cde5856"
+    "name": "Apfood",
+    "slug": "apfood",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "updates": { "enabled": false },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Kamera slouží ke skenování EAN kódů potravin v Apfood."
       }
     },
     "android": {
-      "package": "com.michalhajn.apfood"
-    }
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.apfood.mobile",
+      "versionCode": 1
+    },
+    "web": { "favicon": "./assets/favicon.png" },
+    "extra": {
+      "eas": { "projectId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" }
+    },
+    "plugins": ["expo-barcode-scanner"]
   }
 }
+

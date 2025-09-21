@@ -1,11 +1,4 @@
-const express = require('express');
-const app = express();
-const port = 3000;
+import { registerRootComponent } from 'expo';
+import App from './App';
 
-app.get('/', (req, res) => {
-  res.send('Apfood funguje!');
-});
-
-app.listen(port, () => {
-  console.log(`Server běží na http://localhost:${port}`);
-});
+registerRootComponent(App);
