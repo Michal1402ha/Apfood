@@ -1,0 +1,42 @@
+[
+  {
+    "ean": "8591234567893",
+    "name": "Test položka A (český jogurt bílý)",
+    "brand": "Apfood Seed",
+    "per100g": { "kcal": 62, "protein": 3.5, "carbs": 4.7, "fats": 2.9 },
+    "source": "SEED",
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001234567",
+    "name": "Tesco Tvaroh měkký",
+    "brand": "Tesco",
+    "per100g": { "kcal": 85, "protein": 12.0, "carbs": 3.5, "fats": 2.5 },
+    "source": "SEED",
+    "schemaVersion": 1
+  },
+  {
+    "ean": "12345670",
+    "name": "Lidl Salám paprikáš (test EAN-8)",
+    "brand": "Lidl",
+    "per100g": { "kcal": 315, "protein": 18.5, "carbs": 1.2, "fats": 26.0 },
+    "source": "SEED",
+    "schemaVersion": 1
+  },
+  {
+    "ean": "42123453",
+    "name": "K-Classic Arašídové máslo 350 g (EAN-8)",
+    "brand": "K-Classic",
+    "per100g": { "kcal": 598, "protein": 25.0, "carbs": 14.0, "fats": 46.0 },
+    "source": "SEED",
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4006381333931",
+    "name": "STAEDTLER Pen (demo non-food pro test EAN-13)",
+    "brand": "Staedtler",
+    "per100g": { "kcal": 0, "protein": 0, "carbs": 0, "fats": 0 },
+    "source": "SEED",
+    "schemaVersion": 1
+  }
+]
