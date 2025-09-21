@@ -1212,6 +1212,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "2133406003493",
+    "name": "Sváteční Koláč Meruňkový",
+    "brand": "Globus",
+    "per100g": {
+      "kcal": 316,
+      "protein": 6.9,
+      "carbs": 50.6,
+      "fats": 9.1
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "2140082008223",
     "name": "Trampské Cigáro",
     "brand": "Globus",
@@ -2052,6 +2065,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4049727010486",
+    "name": "šunka",
+    "brand": "jarmark",
+    "per100g": {
+      "kcal": 123,
+      "protein": 16.5,
+      "carbs": 1.5,
+      "fats": 5.5
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "4049727017508",
     "name": "Korbáčiky Uzene",
     "brand": "Kaufland",
@@ -2482,6 +2508,19 @@
       "fats": 19.5
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "4056489467298",
+    "name": "Frozen fruit mix for sangria",
+    "brand": "Lidl",
+    "per100g": {
+      "kcal": 49,
+      "protein": 0.7,
+      "carbs": 9.6,
+      "fats": 0.1
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "4056489491279",
@@ -3382,6 +3421,19 @@
       "fats": 21
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "4335896499420",
+    "name": "crazy wolf energy drink",
+    "brand": "Kaufland",
+    "per100g": {
+      "kcal": 47,
+      "protein": 0.5,
+      "carbs": 11,
+      "fats": 0.5
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "4335896692500",
@@ -4440,6 +4492,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051007105699",
+    "name": "Smetana Trvanlivá 10%",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 120,
+      "protein": 3.1,
+      "carbs": 4.3,
+      "fats": 10
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "5051007105927",
     "name": "Parmazán",
     "brand": "Tesco",
@@ -4510,6 +4575,19 @@
       "fats": 46
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "5051007119368",
+    "name": "spinachi lasagne",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 138,
+      "protein": 6,
+      "carbs": 16,
+      "fats": 5.4
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "5051007122078",
@@ -5088,6 +5166,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051701083330",
+    "name": "Swiss emmental",
+    "brand": "tesco finest",
+    "per100g": {
+      "kcal": 402,
+      "protein": 29,
+      "carbs": 0,
+      "fats": 32
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "5052109943899",
     "name": "Italian tomato passata",
     "brand": "Tesco",
@@ -5280,6 +5371,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5059944690902",
+    "name": "Ham And Egg Sandwiches",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 223,
+      "protein": 9.2,
+      "carbs": 21,
+      "fats": 11
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "5059944690971",
     "name": "Coated Peanuts Roasted With Paprika",
     "brand": "Tesco",
@@ -5338,6 +5442,32 @@
       "fats": 35
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "5059944692227",
+    "name": "Turkey Ham",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 83,
+      "protein": 17,
+      "carbs": 1.4,
+      "fats": 0.9
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
+    "ean": "5059944692357",
+    "name": "Meatballs With Grafy And Mashed Potatoes",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 113,
+      "protein": 5.3,
+      "carbs": 6.9,
+      "fats": 6.4
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "5059944692463",
@@ -6144,6 +6274,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5904405403983",
+    "name": "Wheat flour tortillas",
+    "brand": "Mexilla",
+    "per100g": {
+      "kcal": 310,
+      "protein": 8.5,
+      "carbs": 52,
+      "fats": 6.9
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "5908230530265",
     "name": "Vege Story Snack Original",
     "brand": "SNACK!T",
@@ -6887,6 +7030,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586017254671",
+    "name": "Uzené tofu Linter",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 138,
+      "protein": 14,
+      "carbs": 1.9,
+      "fats": 8
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "8586017254923",
     "name": "Natural tofu",
     "brand": "Lunter",
@@ -7568,6 +7724,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421043349",
+    "name": "Čočkový burger",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 225,
+      "protein": 9,
+      "carbs": 34,
+      "fats": 5.8
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "8590421044025",
     "name": "Tvaroh tučný",
     "brand": "albert",
@@ -7794,6 +7963,19 @@
       "fats": 4.9
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "8590421053300",
+    "name": "Piškoty",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 384,
+      "protein": 11,
+      "carbs": 73,
+      "fats": 4.9
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "8590421055250",
@@ -8540,6 +8722,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421335598",
+    "name": "Krupička",
+    "brand": "GoodMills",
+    "per100g": {
+      "kcal": 343,
+      "protein": 11,
+      "carbs": 71,
+      "fats": 1.2
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "8590421336106",
     "name": "Kyška",
     "brand": "Albert",
@@ -9020,6 +9215,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594003212017",
+    "name": "Choceňské tradiční pomazánkové neochucené",
+    "brand": "Choceňská mlékárna",
+    "per100g": {
+      "kcal": 310,
+      "protein": 3.3,
+      "carbs": 5.5,
+      "fats": 31
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "8594003461606",
     "name": "Tradizionale spaghetti",
     "brand": "adriana",
@@ -9440,6 +9648,19 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594199940473",
+    "name": "Maxi combo sushi",
+    "brand": "Billa",
+    "per100g": {
+      "kcal": 162,
+      "protein": 5.1,
+      "carbs": 30,
+      "fats": 2.2
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
     "ean": "8594404005096",
     "name": "Kozel 11*",
     "brand": "Plzeňský prazdroj",
@@ -9465,6 +9686,19 @@
       "kcal": 42
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "8595002101173",
+    "name": "Activia sladká bílá",
+    "brand": "Danone",
+    "per100g": {
+      "kcal": 87,
+      "protein": 4.2,
+      "carbs": 10.7,
+      "fats": 3.1
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "8595002108813",
@@ -9633,6 +9867,19 @@
       "fats": 18
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "8595237415014",
+    "name": "Rýže jasmínová",
+    "brand": "Menu Gold",
+    "per100g": {
+      "kcal": 352,
+      "protein": 5.4,
+      "carbs": 82,
+      "fats": 0.5
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "8595241502243",
@@ -10879,6 +11126,32 @@
       "fats": 27.2
     },
     "schemaVersion": 1
+  },
+  {
+    "ean": "9120025833603",
+    "name": "Penny Prajitura cu umplutura de lapte si glazura de cacao",
+    "brand": "Penny",
+    "per100g": {
+      "kcal": 488,
+      "protein": 5.3,
+      "carbs": 53,
+      "fats": 27.9
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
+  },
+  {
+    "ean": "9120025833610",
+    "name": "Penny Prajitura cu umplutura de cocos si glazura de cacao",
+    "brand": "Penny",
+    "per100g": {
+      "kcal": 475,
+      "protein": 5.4,
+      "carbs": 44.6,
+      "fats": 30
+    },
+    "schemaVersion": 1,
+    "source": "SEED"
   },
   {
     "ean": "95510729",
