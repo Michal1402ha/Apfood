@@ -83,6 +83,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "0093856994692",
+    "name": "Vegan Calamari",
+    "brand": "Nature's charm",
+    "per100g": {
+      "kcal": 10,
+      "protein": 1,
+      "carbs": 1,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "0093856995095",
     "name": "Vegan scallops",
     "brand": "Nature's Charm",
@@ -119,6 +131,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "05235490",
+    "name": "Gain Bolic 6000",
+    "brand": "Olimp",
+    "per100g": {
+      "kcal": 376,
+      "protein": 15,
+      "carbs": 75,
+      "fats": 1.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "0637793000957",
     "name": "MACKAYS - Marmalade with Whisky",
     "brand": "Mackays",
@@ -139,6 +163,18 @@
       "protein": 8,
       "carbs": 22,
       "fats": 6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "0715235567418",
+    "name": "Tiqle sticks boisson goût fraise",
+    "brand": "Tiqle",
+    "per100g": {
+      "kcal": 28.6,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -202,6 +238,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "15940278",
+    "name": "Brigit tyčinka s kokosovou příchutí",
+    "brand": "čoko klasik družstvo",
+    "per100g": {
+      "kcal": 495,
+      "protein": 21,
+      "carbs": 35,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "1605061720004",
     "name": "Lättlagat",
     "brand": "IKEA",
@@ -226,6 +274,16 @@
     "schemaVersion": 1
   },
   {
+    "ean": "19117089",
+    "name": "Cukier Bialy",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 400,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "2000000416069",
     "name": "Zálivka medovo-hořčičná",
     "brand": "Vitana",
@@ -246,6 +304,18 @@
       "protein": 8.7,
       "carbs": 68,
       "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20002497",
+    "name": "Fusilli Bucati Corti Pasta di Gragnano IGP",
+    "brand": "Italiamo",
+    "per100g": {
+      "kcal": 353,
+      "protein": 14,
+      "carbs": 70,
+      "fats": 1.2
     },
     "schemaVersion": 1
   },
@@ -310,6 +380,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20035648",
+    "name": "pan carré",
+    "brand": "Combino",
+    "per100g": {
+      "kcal": 264,
+      "protein": 8.4,
+      "carbs": 48,
+      "fats": 3.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20036249",
     "name": "Marcipánové brambory",
     "brand": "Lidl",
@@ -334,6 +416,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20081621",
+    "name": "KAMIN-WURZERL",
+    "brand": "GREISINGER Ihr Fleischermeister",
+    "per100g": {
+      "kcal": 445,
+      "protein": 29,
+      "carbs": 1,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20104382",
+    "name": "Hořčice kremžská",
+    "brand": "kania",
+    "per100g": {
+      "kcal": 140,
+      "protein": 4.9,
+      "carbs": 17.2,
+      "fats": 5.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20105013",
     "name": "Vídeňské Párky",
     "brand": "Pikok Pure",
@@ -346,6 +452,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20105242",
+    "name": "Irish whiskey marmalade",
+    "brand": "Natirgut",
+    "per100g": {
+      "kcal": 250,
+      "protein": 0.6,
+      "carbs": 61,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20107567",
     "name": "Oatmeal cinnamon & apple",
     "brand": "Crownfield",
@@ -354,6 +472,18 @@
       "protein": 8.7692307692308,
       "carbs": 67.692307692308,
       "fats": 7.0769230769231
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20107826",
+    "name": "Hummus s římským kmínem",
+    "brand": "chef select",
+    "per100g": {
+      "kcal": 280,
+      "protein": 5.9,
+      "carbs": 11.8,
+      "fats": 22.8
     },
     "schemaVersion": 1
   },
@@ -382,6 +512,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20116309",
+    "name": "Runner",
+    "brand": "Excelsior",
+    "per100g": {
+      "kcal": 456,
+      "protein": 4.1,
+      "carbs": 64.9,
+      "fats": 19.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20117573",
     "name": "Parboiled Langkornreis",
     "brand": "THE HOUSE OF RICE",
@@ -390,6 +532,30 @@
       "protein": 8.6,
       "carbs": 75.1,
       "fats": 1.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20117894",
+    "name": "Bandnudeln",
+    "brand": "mutters Beste",
+    "per100g": {
+      "kcal": 361,
+      "protein": 13,
+      "carbs": 70,
+      "fats": 2.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20118655",
+    "name": "Banánky v čokoládě",
+    "brand": "Vita",
+    "per100g": {
+      "kcal": 379,
+      "protein": 1.3,
+      "carbs": 76.1,
+      "fats": 6.7
     },
     "schemaVersion": 1
   },
@@ -430,6 +596,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20141363",
+    "name": "Erdbeer Joghurt",
+    "brand": "Landfein",
+    "per100g": {
+      "kcal": 86,
+      "protein": 2.9,
+      "carbs": 12,
+      "fats": 2.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20150846",
+    "name": "Brezeln",
+    "brand": "Pfiff",
+    "per100g": {
+      "kcal": 402,
+      "protein": 11,
+      "carbs": 70,
+      "fats": 7.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20160128",
     "name": "Dosentomaten",
     "brand": "Villa Gusto",
@@ -466,6 +656,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20171292",
+    "name": "Hühner-Nudeltopf",
+    "brand": "MEINE MAHLZEIT",
+    "per100g": {
+      "kcal": 59,
+      "protein": 2.7,
+      "carbs": 6.6,
+      "fats": 2.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20171421",
+    "name": "Erbseneintopf",
+    "brand": "MEINE MAHLZEIT",
+    "per100g": {
+      "kcal": 109,
+      "protein": 0.2,
+      "carbs": 25.8,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20171438",
+    "name": "Kartoffel-Eintopf",
+    "brand": "MEINE MAHLZEIT",
+    "per100g": {
+      "kcal": 89,
+      "protein": 3.4,
+      "carbs": 5.9,
+      "fats": 5.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20179397",
     "name": "Puding v prášku s čokoládovou příchutí",
     "brand": "Belbake",
@@ -474,6 +700,30 @@
       "protein": 3.2,
       "carbs": 16.6,
       "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20182656",
+    "name": "Weißkrautsalat American Style",
+    "brand": "Excellent Buffet",
+    "per100g": {
+      "kcal": 249,
+      "protein": 0.9,
+      "carbs": 13,
+      "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20192068",
+    "name": "Curry Gewürz Ketchup",
+    "brand": "Sunred",
+    "per100g": {
+      "kcal": 143,
+      "protein": 0.4,
+      "carbs": 34,
+      "fats": 0.2
     },
     "schemaVersion": 1
   },
@@ -490,6 +740,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20196080",
+    "name": "Nürnberger Oblaten-Lebkuchen Bitterschokolade",
+    "brand": "Goldora",
+    "per100g": {
+      "kcal": 391,
+      "protein": 7.9,
+      "carbs": 59,
+      "fats": 13.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20196868",
     "name": "Cornichons épicés",
     "brand": "Ernte KRONE",
@@ -498,6 +760,30 @@
       "protein": 0.4,
       "carbs": 3.8,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20197254",
+    "name": "Sellerie in Scheiben (leicht sauer)",
+    "brand": "Ernte KRONE",
+    "per100g": {
+      "kcal": 26,
+      "protein": 0.6,
+      "carbs": 5.1,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20197636",
+    "name": "Dominosteine Zartbitterschokolade",
+    "brand": "Goldora",
+    "per100g": {
+      "kcal": 394,
+      "protein": 4.6,
+      "carbs": 64,
+      "fats": 12.5
     },
     "schemaVersion": 1
   },
@@ -522,6 +808,18 @@
       "protein": 23,
       "carbs": 0.5,
       "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20202606",
+    "name": "Bayerischer Limburger nimm's leicht",
+    "brand": "Cremisée",
+    "per100g": {
+      "kcal": 187,
+      "protein": 26,
+      "carbs": 0.5,
+      "fats": 9
     },
     "schemaVersion": 1
   },
@@ -558,6 +856,30 @@
       "protein": 21,
       "carbs": 18.8,
       "fats": 48.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20205164",
+    "name": "Bayerischer Emmentaler",
+    "brand": "Leckerrom",
+    "per100g": {
+      "kcal": 373,
+      "protein": 28,
+      "carbs": 0.1,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20205430",
+    "name": "Bayerischer Emmentaler",
+    "brand": "Leckerrom",
+    "per100g": {
+      "kcal": 366,
+      "protein": 28,
+      "carbs": 0,
+      "fats": 28
     },
     "schemaVersion": 1
   },
@@ -610,6 +932,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20212414",
+    "name": "Nudelsalat",
+    "brand": "EXCELLENT Buffet",
+    "per100g": {
+      "kcal": 187,
+      "protein": 2.9,
+      "carbs": 16,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20214425",
     "name": "Jus d'orange  avec pulpe",
     "brand": "Trimm",
@@ -618,6 +952,18 @@
       "protein": 0.7,
       "carbs": 8.5,
       "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20217136",
+    "name": "Maasdamer",
+    "brand": "Leckerrom",
+    "per100g": {
+      "kcal": 333,
+      "protein": 25.1,
+      "carbs": 0.5,
+      "fats": 25.8
     },
     "schemaVersion": 1
   },
@@ -670,6 +1016,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20233532",
+    "name": "Geschnetzeltes Züricher Art",
+    "brand": "Meine Mahlzeit",
+    "per100g": {
+      "kcal": 105,
+      "protein": 4,
+      "carbs": 8.3,
+      "fats": 5.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20236373",
+    "name": "Schokolade Alpenvollmilch Haselnuss",
+    "brand": "Excelsior",
+    "per100g": {
+      "kcal": 558,
+      "protein": 7.9,
+      "carbs": 49,
+      "fats": 36
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20241278",
     "name": "Butter Spritzgebäck",
     "brand": "Delicia",
@@ -718,6 +1088,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20274672",
+    "name": "fantasmas",
+    "brand": "Halloween",
+    "per100g": {
+      "kcal": 468,
+      "protein": 3.7,
+      "carbs": 65.1,
+      "fats": 20.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20275280",
     "name": "Thai Jasmin Premium Long Grain Rice",
     "brand": "Golden sun",
@@ -738,6 +1120,18 @@
       "protein": 20.7,
       "carbs": 0,
       "fats": 10.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20275891",
+    "name": "Sonnenblumen Margarine",
+    "brand": "frisan",
+    "per100g": {
+      "kcal": 720,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 80
     },
     "schemaVersion": 1
   },
@@ -774,6 +1168,18 @@
       "protein": 9.7,
       "carbs": 69,
       "fats": 4.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20412012",
+    "name": "Sirup multivitamin",
+    "brand": "Solevita",
+    "per100g": {
+      "kcal": 307,
+      "protein": 0.1,
+      "carbs": 75.1,
+      "fats": 0.1
     },
     "schemaVersion": 1
   },
@@ -1006,6 +1412,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20592530",
+    "name": "Kečup",
+    "brand": "Kania",
+    "per100g": {
+      "kcal": 156,
+      "protein": 1.6,
+      "carbs": 34.4,
+      "fats": 0.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20628895",
     "name": "Irské hovězí maso Vysoký roštěnec bez kosti",
     "brand": "Inisvale",
@@ -1014,6 +1432,18 @@
       "protein": 22.6,
       "carbs": 0.05,
       "fats": 7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20654566",
+    "name": "Sezamová tyčinka",
+    "brand": "Crownfield",
+    "per100g": {
+      "kcal": 578,
+      "protein": 18,
+      "carbs": 33.3,
+      "fats": 40
     },
     "schemaVersion": 1
   },
@@ -1066,6 +1496,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20809553",
+    "name": "Asian Style Fruit Mix Lychee/Papaya",
+    "brand": "Lidl",
+    "per100g": {
+      "kcal": 41,
+      "protein": 0.7,
+      "carbs": 7.7,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20836863",
     "name": "Chia Kaše Borůvky",
     "brand": "Crownfield",
@@ -1102,6 +1544,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20837433",
+    "name": "Vysočina",
+    "brand": "Pikok",
+    "per100g": {
+      "kcal": 454,
+      "protein": 21.5,
+      "carbs": 2.7,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20837525",
     "name": "Parenica uzená",
     "brand": "Pilos",
@@ -1126,6 +1580,29 @@
     "schemaVersion": 1
   },
   {
+    "ean": "20839451",
+    "name": "Ovesná kaše s jablky a skořicí",
+    "brand": "Crownfield",
+    "per100g": {
+      "kcal": 381,
+      "protein": 8.8,
+      "fats": 7.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20847326",
+    "name": "Bio bylinný fenyklový čaj",
+    "brand": "Lord Nelson",
+    "per100g": {
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0.2,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "20864842",
     "name": "Trattoria Alfredo Pizza Deliziosa Vegan Verdura",
     "brand": "Trattoria Alfredo",
@@ -1134,6 +1611,54 @@
       "protein": 4.9,
       "carbs": 24.3,
       "fats": 2.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20913717",
+    "name": "Sýrová bageta s vejcem a sýrem s koprovými dresinkem",
+    "brand": "deli",
+    "per100g": {
+      "kcal": 303,
+      "protein": 11.5,
+      "carbs": 30.1,
+      "fats": 15.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20919429",
+    "name": "Schokoladenkuchen",
+    "brand": "Confiserie Firenze",
+    "per100g": {
+      "kcal": 430,
+      "protein": 5.1,
+      "carbs": 50.5,
+      "fats": 22.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20934835",
+    "name": "Mouka polohrubá pšeničná",
+    "brand": "Castello",
+    "per100g": {
+      "kcal": 355,
+      "protein": 9.3,
+      "carbs": 76,
+      "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "20964795",
+    "name": "Sušené a slazené brusinky",
+    "brand": "Mcennedy",
+    "per100g": {
+      "kcal": 329,
+      "protein": 0.4,
+      "carbs": 75.9,
+      "fats": 0.8
     },
     "schemaVersion": 1
   },
@@ -1282,6 +1807,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "2909049002007",
+    "name": "Zeleninové tofu",
+    "brand": "Sunfood",
+    "per100g": {
+      "kcal": 139,
+      "protein": 15,
+      "carbs": 2.5,
+      "fats": 7.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "29205585",
     "name": "Double Chocolate Cookies",
     "brand": "M&S Food",
@@ -1338,6 +1875,18 @@
       "protein": 13,
       "carbs": 7.3,
       "fats": 6.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "2981824001481",
+    "name": "Čerstvý ovčí sýr",
+    "brand": "Statek Horní dvorce",
+    "per100g": {
+      "kcal": 315,
+      "protein": 19,
+      "carbs": 1.7,
+      "fats": 20
     },
     "schemaVersion": 1
   },
@@ -1402,6 +1951,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "3073781090215",
+    "name": "Vache Qui Rit",
+    "brand": "Veselá Kráva",
+    "per100g": {
+      "kcal": 287,
+      "protein": 11.3,
+      "carbs": 6,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "3073781090925",
+    "name": "Топено сирене с ементал",
+    "brand": "Veselá kráva",
+    "per100g": {
+      "kcal": 169,
+      "protein": 13,
+      "carbs": 4.5,
+      "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "3083680481878",
+    "name": "Bonduelle",
+    "brand": "Bonduelle",
+    "per100g": {
+      "kcal": 48,
+      "protein": 2.7,
+      "carbs": 6.5,
+      "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "3083680605878",
     "name": "Mexiko mix",
     "brand": "Bonduelle",
@@ -1414,6 +1999,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "3083680715409",
+    "name": "Créatif Texas",
+    "brand": "Bonduelle",
+    "per100g": {
+      "kcal": 86,
+      "protein": 3.6,
+      "carbs": 11.5,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "3083681081022",
     "name": "Těstoviny z hrachu a cukety",
     "brand": "Bonduelle",
@@ -1422,6 +2019,18 @@
       "protein": 21.5,
       "carbs": 55.3,
       "fats": 1.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "3083681101157",
+    "name": "Řepa strouhaná",
+    "brand": "Bonduelle",
+    "per100g": {
+      "kcal": 43,
+      "protein": 1,
+      "carbs": 7.2,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -1486,6 +2095,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "3289470013117",
+    "name": "No bull steak burgers",
+    "brand": "Iceland",
+    "per100g": {
+      "kcal": 266,
+      "protein": 23,
+      "carbs": 8.7,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "3415581153835",
     "name": "Pralines & cream",
     "brand": "Häagen-Dazs",
@@ -1494,6 +2115,18 @@
       "protein": 4,
       "carbs": 28.1,
       "fats": 14.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "3700133907432",
+    "name": "La saucisse sèche",
+    "brand": "Brocéliande",
+    "per100g": {
+      "kcal": 447,
+      "protein": 28,
+      "carbs": 2.5,
+      "fats": 36.1
     },
     "schemaVersion": 1
   },
@@ -1578,6 +2211,18 @@
       "protein": 0.1,
       "carbs": 10.6,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4000194240752",
+    "name": "blonde VEGAN",
+    "brand": "frankonia",
+    "per100g": {
+      "kcal": 552,
+      "protein": 4,
+      "carbs": 64,
+      "fats": 31
     },
     "schemaVersion": 1
   },
@@ -1690,6 +2335,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4002309008998",
+    "name": "Hazelnut cocoa",
+    "brand": "Chocola",
+    "per100g": {
+      "kcal": 558,
+      "protein": 6.1,
+      "carbs": 51.9,
+      "fats": 35.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4002334115302",
     "name": "Planzlich aus kokosmilch mango-vanille",
     "brand": "Mövenpick",
@@ -1714,6 +2371,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4002575422092",
+    "name": "Marzipan balls",
+    "brand": "Zentis",
+    "per100g": {
+      "kcal": 427,
+      "protein": 6.2,
+      "carbs": 68,
+      "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4002971306903",
+    "name": "Pudink slaný karamel",
+    "brand": "Ehrmann",
+    "per100g": {
+      "kcal": 117,
+      "protein": 0.9,
+      "carbs": 14,
+      "fats": 6.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4003082007857",
     "name": "Bihun suppe",
     "brand": "BUSS Fertiggerichte GmbH",
@@ -1722,6 +2403,18 @@
       "protein": 1.5,
       "carbs": 5.7,
       "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4003160265605",
+    "name": "Gefüllte Lebkuchenherzen",
+    "brand": "Weiss",
+    "per100g": {
+      "kcal": 366,
+      "protein": 4.2,
+      "carbs": 65.9,
+      "fats": 8.6
     },
     "schemaVersion": 1
   },
@@ -1750,6 +2443,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4003880138050",
+    "name": "Bramborové plátky",
+    "brand": "Agrar FROST",
+    "per100g": {
+      "kcal": 127,
+      "protein": 2.5,
+      "carbs": 20,
+      "fats": 3.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4005292405638",
     "name": "Intact banán",
     "brand": "Sanotact",
@@ -1758,6 +2463,18 @@
       "protein": 0,
       "carbs": 85,
       "fats": 0.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4005394283073",
+    "name": "Pilz-sauce champignon-kräftig",
+    "brand": "biovegan",
+    "per100g": {
+      "kcal": 287,
+      "protein": 12,
+      "carbs": 55,
+      "fats": 1.1
     },
     "schemaVersion": 1
   },
@@ -1786,6 +2503,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4010442413258",
+    "name": "Kaki",
+    "brand": "Farmer's Snack",
+    "per100g": {
+      "kcal": 298,
+      "protein": 2.2,
+      "carbs": 63,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4011800412975",
     "name": "Flapjack",
     "brand": "Corny",
@@ -1798,6 +2527,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4011800553111",
+    "name": "milk nuts",
+    "brand": "Corny",
+    "per100g": {
+      "kcal": 470,
+      "protein": 6,
+      "carbs": 58.1,
+      "fats": 22.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4012263009894",
+    "name": "Ibis Baguette Brötchen",
+    "brand": "Ibis",
+    "per100g": {
+      "kcal": 246,
+      "protein": 8,
+      "carbs": 49.4,
+      "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4013222923121",
     "name": "Kořeněné brambory na grilování",
     "brand": "Friweika",
@@ -1806,6 +2559,18 @@
       "protein": 2,
       "carbs": 10,
       "fats": 3.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4013900864104",
+    "name": "Želé s hroznovou šťávou z koncentrátu, obalené v cukru",
+    "brand": "Friedel",
+    "per100g": {
+      "kcal": 316,
+      "protein": 0,
+      "carbs": 79,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -1834,6 +2599,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4014500509525",
+    "name": "Zottarella s bazalkou",
+    "brand": "Zott",
+    "per100g": {
+      "kcal": 248,
+      "protein": 17.5,
+      "carbs": 1.5,
+      "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4014500512075",
     "name": "Jogobella",
     "brand": "Zott",
@@ -1854,6 +2631,18 @@
       "protein": 3.5,
       "carbs": 11.2,
       "fats": 2.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4014500514451",
+    "name": "Vanilkový puding se šlehačkou Cremore DUO",
+    "brand": "Zott",
+    "per100g": {
+      "kcal": 128,
+      "protein": 2.6,
+      "carbs": 15,
+      "fats": 6.2
     },
     "schemaVersion": 1
   },
@@ -1954,6 +2743,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4023600013368",
+    "name": "Creme vega",
+    "brand": "Dr. Oetker",
+    "per100g": {
+      "kcal": 287,
+      "protein": 2.4,
+      "carbs": 1.7,
+      "fats": 30
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4023600013948",
+    "name": "Rostlinný pudding bourbon vanilka",
+    "brand": "Dr. Oetker",
+    "per100g": {
+      "kcal": 102,
+      "protein": 0.8,
+      "carbs": 13,
+      "fats": 5.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4025500175016",
     "name": "mlijeko",
     "brand": "Pragolaktos",
@@ -1961,6 +2774,18 @@
       "kcal": 47,
       "protein": 3.4,
       "carbs": 4.9,
+      "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4025500257828",
+    "name": "müllermilch mapel syrup walnut",
+    "brand": "müller",
+    "per100g": {
+      "kcal": 72,
+      "protein": 3.2,
+      "carbs": 11.4,
       "fats": 1.5
     },
     "schemaVersion": 1
@@ -1974,6 +2799,30 @@
       "protein": 3.6,
       "carbs": 9.3,
       "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4038934403587",
+    "name": "Mango slices",
+    "brand": "Nutwork",
+    "per100g": {
+      "kcal": 341,
+      "protein": 2.9,
+      "carbs": 74,
+      "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4044889002539",
+    "name": "Mandel Orange Chocolate Bar",
+    "brand": "Vivani",
+    "per100g": {
+      "kcal": 568,
+      "protein": 3,
+      "carbs": 54.9,
+      "fats": 36.6
     },
     "schemaVersion": 1
   },
@@ -2050,6 +2899,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4049727009725",
+    "name": "Jogurt bílý",
+    "brand": "K-Jarmark",
+    "per100g": {
+      "kcal": 67,
+      "protein": 3.8,
+      "carbs": 4.6,
+      "fats": 3.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4049727009824",
     "name": "acidofilní mléko",
     "brand": "K-Jarmark",
@@ -2086,6 +2947,66 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4049727012640",
+    "name": "Jogurt bílý",
+    "brand": "K-Jarmark",
+    "per100g": {
+      "kcal": 68,
+      "protein": 3.8,
+      "carbs": 4.6,
+      "fats": 3.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4049729000478",
+    "name": "Vícezrnný toastový chléb, 4zrnný, s pšeničným kváskem (5%)",
+    "brand": "Piekarnia Oskroba",
+    "per100g": {
+      "kcal": 280,
+      "protein": 10,
+      "carbs": 46,
+      "fats": 5.4000000953674
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489010234",
+    "name": "Tomaten Basis",
+    "brand": "Harvest House",
+    "per100g": {
+      "kcal": 38,
+      "protein": 1.9,
+      "carbs": 5.8,
+      "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489013280",
+    "name": "Früchte Punsch",
+    "brand": "Hermann PF Getränke",
+    "per100g": {
+      "kcal": 48,
+      "protein": 0.5,
+      "carbs": 11,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489019176",
+    "name": "Sacher Torte",
+    "brand": "Alpen Fest",
+    "per100g": {
+      "kcal": 419,
+      "protein": 5.6,
+      "carbs": 51.2,
+      "fats": 20.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4056489063544",
     "name": "Česká šunka od kosti",
     "brand": "Náš kraj",
@@ -2094,6 +3015,18 @@
       "protein": 18.5,
       "carbs": 0.3,
       "fats": 11.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489063766",
+    "name": "Müsli chia, goji a quinoa",
+    "brand": "Crownfield",
+    "per100g": {
+      "kcal": 459,
+      "protein": 8.1,
+      "carbs": 65,
+      "fats": 17
     },
     "schemaVersion": 1
   },
@@ -2170,6 +3103,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4056489157335",
+    "name": "Houstičky",
+    "brand": "Grafschafter",
+    "per100g": {
+      "kcal": 260,
+      "protein": 8,
+      "carbs": 51,
+      "fats": 2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4056489161387",
     "name": "Halloween těstoviny",
     "brand": "Halloween",
@@ -2194,6 +3139,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4056489169819",
+    "name": "Coco & Caramelo",
+    "brand": "Gelatelli",
+    "per100g": {
+      "kcal": 337,
+      "protein": 2.7,
+      "carbs": 34.6,
+      "fats": 19.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4056489169833",
     "name": "Sándwich con crema de coco",
     "brand": "Gelatelli",
@@ -2202,6 +3159,18 @@
       "protein": 4.4,
       "carbs": 44.2,
       "fats": 9.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489182900",
+    "name": "Rebarborový nektar",
+    "brand": "Solevita",
+    "per100g": {
+      "kcal": 46,
+      "protein": 0.3,
+      "carbs": 10.1,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -2242,6 +3211,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4056489258377",
+    "name": "High Protein Sour Cherry",
+    "brand": "Milbona",
+    "per100g": {
+      "kcal": 65,
+      "protein": 10,
+      "carbs": 6,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4056489267287",
     "name": "Směs želé bonbonů s ovocnou příchutí",
     "brand": "Lidl",
@@ -2250,6 +3231,18 @@
       "protein": 0.1,
       "carbs": 80,
       "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489319597",
+    "name": "BIO sójový dezert s kakaem a agávovým sirupem",
+    "brand": "Milbona",
+    "per100g": {
+      "kcal": 116,
+      "protein": 7.3,
+      "carbs": 12.2,
+      "fats": 4.2
     },
     "schemaVersion": 1
   },
@@ -2274,6 +3267,30 @@
       "protein": 0.2,
       "carbs": 34.7,
       "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489363910",
+    "name": "Hroznovo citronovo pomerančový sorbet",
+    "brand": "Lidl",
+    "per100g": {
+      "kcal": 124,
+      "protein": 0.3,
+      "carbs": 30.4,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4056489389484",
+    "name": "Veganský koláč s vanilkovou příchutí",
+    "brand": "Firenze",
+    "per100g": {
+      "kcal": 387,
+      "protein": 4.3,
+      "carbs": 49.4,
+      "fats": 18.7
     },
     "schemaVersion": 1
   },
@@ -2386,6 +3403,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4058172324123",
+    "name": "Ravioli",
+    "brand": "DmBio",
+    "per100g": {
+      "kcal": 83,
+      "protein": 2,
+      "carbs": 13,
+      "fats": 2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4058172487163",
     "name": "Smoothie mit Kokoswasser",
     "brand": "DmBio",
@@ -2442,6 +3471,18 @@
       "protein": 12,
       "carbs": 66.7,
       "fats": 6.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4063367013522",
+    "name": "75% frucht erdbeere",
+    "brand": "Kaufland",
+    "per100g": {
+      "kcal": 178,
+      "protein": 0.6,
+      "carbs": 42,
+      "fats": 0.3
     },
     "schemaVersion": 1
   },
@@ -2697,6 +3738,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4106060074510",
+    "name": "Bio isis nápoj z bílého čaje bez cukru",
+    "brand": "Isis",
+    "per100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "42099697",
     "name": "Vanilla",
     "brand": "Coca-Cola",
@@ -2717,6 +3770,42 @@
       "protein": 8.4,
       "carbs": 56.4,
       "fats": 30.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "42402565",
+    "name": "Rostlinné mléko barista",
+    "brand": "Harvest Moon",
+    "per100g": {
+      "kcal": 51,
+      "protein": 0.8,
+      "carbs": 5.3,
+      "fats": 2.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4250073455702",
+    "name": "Glace",
+    "brand": "Followfood",
+    "per100g": {
+      "kcal": 122,
+      "protein": 0.62,
+      "carbs": 29.5,
+      "fats": 0.21
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4250073456525",
+    "name": "Gemüse-Frucht-Sorbet Orange & Karotte",
+    "brand": "Followfood",
+    "per100g": {
+      "kcal": 104,
+      "protein": 0.5,
+      "carbs": 25.7,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -2793,6 +3882,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4260213077770",
+    "name": "Ovocná tyčinka s příchutí borůvek",
+    "brand": "I am organic",
+    "per100g": {
+      "kcal": 372,
+      "protein": 4.7,
+      "carbs": 57.2,
+      "fats": 11.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260248512918",
+    "name": "Bio Lupinen Pasta",
+    "brand": "Made with luve",
+    "per100g": {
+      "kcal": 329,
+      "protein": 15.1,
+      "carbs": 59.7,
+      "fats": 2.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260248512925",
+    "name": "Bio Lupinen Pasta",
+    "brand": "Made with luve",
+    "per100g": {
+      "kcal": 329,
+      "protein": 15.10000038147,
+      "carbs": 59.700000762939,
+      "fats": 2.5999999046326
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4260286030030",
     "name": "Michelberger's Fountain of Youth",
     "per100g": {
@@ -2812,6 +3937,30 @@
       "protein": 0.6,
       "carbs": 15,
       "fats": 4.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260289420494",
+    "name": "Ovesný jogurt lesní směs",
+    "brand": "The Vegan Cow",
+    "per100g": {
+      "kcal": 103,
+      "protein": 0.7,
+      "carbs": 16,
+      "fats": 4.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260402486772",
+    "name": "Marmorkeks",
+    "brand": "Veganz",
+    "per100g": {
+      "kcal": 500,
+      "protein": 6.2,
+      "carbs": 63,
+      "fats": 24
     },
     "schemaVersion": 1
   },
@@ -2884,6 +4033,30 @@
       "protein": 3.6,
       "carbs": 36,
       "fats": 43
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260402489926",
+    "name": "Veganne pizza",
+    "brand": "Veganz",
+    "per100g": {
+      "kcal": 162,
+      "protein": 5,
+      "carbs": 28,
+      "fats": 2.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4260456730326",
+    "name": "Matcha tea with peach flavor",
+    "brand": "Seicha",
+    "per100g": {
+      "kcal": 26,
+      "protein": 0,
+      "carbs": 6.4,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -2967,6 +4140,18 @@
       "protein": 2.8,
       "carbs": 28,
       "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4300175670746",
+    "name": "Mandarinky, celé měsíčky, loupané, kompot",
+    "brand": "KClassic",
+    "per100g": {
+      "kcal": 68,
+      "protein": 0.5,
+      "carbs": 15,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -3103,6 +4288,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4305615678375",
+    "name": "Apfel Ringe",
+    "brand": "Ener Bio",
+    "per100g": {
+      "kcal": 300,
+      "protein": 1.6,
+      "carbs": 70,
+      "fats": 0.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4305615852379",
     "name": "Tortellini Gemüse",
     "brand": "Ener Bio",
@@ -3115,6 +4312,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4306188002949",
+    "name": "Červená řepa",
+    "brand": "My price",
+    "per100g": {
+      "kcal": 60,
+      "protein": 0.5,
+      "carbs": 13.1,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4311501697528",
     "name": "Matjesfilets nach nordirischer Art mit Sauce nach Sylter Art",
     "brand": "Edeka",
@@ -3123,6 +4332,42 @@
       "protein": 12.4,
       "carbs": 1.8,
       "fats": 8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4316268552691",
+    "name": "Chili Con Carne",
+    "brand": "Pote",
+    "per100g": {
+      "kcal": 97,
+      "protein": 5.4,
+      "carbs": 10.9,
+      "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4316734163161",
+    "name": "Organic shirataki",
+    "brand": "Bio asia",
+    "per100g": {
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 0.8,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4335896295206",
+    "name": "peanuts spicy",
+    "brand": "Kaufland",
+    "per100g": {
+      "kcal": 597,
+      "protein": 26,
+      "carbs": 16,
+      "fats": 46
     },
     "schemaVersion": 1
   },
@@ -3146,6 +4391,18 @@
       "kcal": 244,
       "protein": 0.5,
       "carbs": 60,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4335896499307",
+    "name": "sugar free",
+    "brand": "Crazy Wolf",
+    "per100g": {
+      "kcal": 3,
+      "protein": 0.5,
+      "carbs": 0.5,
       "fats": 0.5
     },
     "schemaVersion": 1
@@ -3223,6 +4480,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4337185340604",
+    "name": "K-take it veggie Vegane Bällchen",
+    "brand": "K-take it veggie",
+    "per100g": {
+      "kcal": 224,
+      "protein": 17.5,
+      "carbs": 14.9,
+      "fats": 9.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185340628",
+    "name": "Veganský řízek",
+    "brand": "K-take it veggie",
+    "per100g": {
+      "kcal": 259,
+      "protein": 14.3,
+      "carbs": 22.2,
+      "fats": 12.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4337185342899",
     "name": "Pražené lískové ořechy v extra mléčné čokoládě",
     "brand": "K-CLASSIC",
@@ -3231,6 +4512,30 @@
       "protein": 7.9,
       "carbs": 44,
       "fats": 40
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185423666",
+    "name": "Tomato Ketchup Mild",
+    "brand": "K-Classic",
+    "per100g": {
+      "kcal": 110,
+      "protein": 2.3,
+      "carbs": 22,
+      "fats": 0.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185441493",
+    "name": "Pšeničné bagety",
+    "brand": "K-Classic",
+    "per100g": {
+      "kcal": 249,
+      "protein": 8.7,
+      "carbs": 50,
+      "fats": 1
     },
     "schemaVersion": 1
   },
@@ -3259,6 +4564,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4337185473074",
+    "name": "Pizza Stone Baked - Prosciutto",
+    "brand": "HASA GmbH",
+    "per100g": {
+      "kcal": 201,
+      "protein": 10,
+      "carbs": 28,
+      "fats": 5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4337185475511",
     "name": "Lachsforelle",
     "brand": "K-Classic",
@@ -3267,6 +4584,30 @@
       "protein": 20,
       "carbs": 0.5,
       "fats": 8.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185477294",
+    "name": "celozrnný žitný chléb",
+    "brand": "k-classic",
+    "per100g": {
+      "kcal": 200,
+      "protein": 5,
+      "carbs": 36,
+      "fats": 1.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185499630",
+    "name": "Halsbonbon Kraeuter",
+    "brand": "Kaufland Classic",
+    "per100g": {
+      "kcal": 392,
+      "protein": 0.5,
+      "carbs": 96,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -3307,6 +4648,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4337185576751",
+    "name": "Mini-Puten-Wiener",
+    "brand": "K-Classic",
+    "per100g": {
+      "kcal": 225,
+      "protein": 14.3,
+      "carbs": 1,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4337185596551",
     "name": "Oplatky s náplní (79%) s lískovými oříšky",
     "brand": "K - classic",
@@ -3343,6 +4696,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4337185731983",
+    "name": "Napój jogurtowy o smaku truskawkowym.",
+    "brand": "Kaufland",
+    "per100g": {
+      "kcal": 66,
+      "protein": 3,
+      "carbs": 11,
+      "fats": 0.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185792779",
+    "name": "biscuit",
+    "brand": "K Classic",
+    "per100g": {
+      "kcal": 379,
+      "protein": 10,
+      "carbs": 77,
+      "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185796548",
+    "name": "Veganer Cocogurt Mango-Maracuja",
+    "brand": "K-take it veggie",
+    "per100g": {
+      "kcal": 133,
+      "protein": 1,
+      "carbs": 9.7,
+      "fats": 9.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185806711",
+    "name": "Rajčata, nahrubo nakrájená s bazalkou",
+    "brand": "K-CLASSIC",
+    "per100g": {
+      "kcal": 44,
+      "protein": 2.3,
+      "carbs": 7,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4337185826474",
     "name": "Bio cizrna",
     "brand": "LA Food s.r.o.",
@@ -3355,6 +4756,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4337185826559",
+    "name": "Bio hrachová polévka s kukuřicí a kokosovým mlékem",
+    "brand": "Kaufland",
+    "per100g": {
+      "kcal": 58,
+      "protein": 2.5,
+      "carbs": 7.4,
+      "fats": 1.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4337185826818",
     "name": "Bio sušené plody goji",
     "brand": "K-Bio",
@@ -3363,6 +4776,30 @@
       "protein": 11,
       "carbs": 64,
       "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185828201",
+    "name": "K-take it veggie Organic Bread Spread Tomato Basil 180g",
+    "brand": "K-take it veggie",
+    "per100g": {
+      "kcal": 245,
+      "protein": 5.2,
+      "carbs": 9.7,
+      "fats": 20
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4337185832840",
+    "name": "K-take it veggie Bio Sojadrink gesüßt",
+    "brand": "K-take it veggie",
+    "per100g": {
+      "kcal": 40,
+      "protein": 3,
+      "carbs": 2.5,
+      "fats": 1.9
     },
     "schemaVersion": 1
   },
@@ -3496,6 +4933,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4607087940357",
+    "name": "Hummus classic - Tajemství východu",
+    "brand": "AMfood",
+    "per100g": {
+      "kcal": 192,
+      "protein": 6,
+      "carbs": 14,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4607087941231",
+    "name": "Hummus s houbami",
+    "brand": "AMfood",
+    "per100g": {
+      "kcal": 194,
+      "protein": 6,
+      "carbs": 14,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4607087941651",
+    "name": "Hummus s rajčaty a provensálským kořením",
+    "brand": "AMfood",
+    "per100g": {
+      "kcal": 182,
+      "protein": 6,
+      "carbs": 13,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4680020591137",
+    "name": "Pasta z drcených slunečnicových semínek s houbami",
+    "brand": "amfood",
+    "per100g": {
+      "kcal": 414,
+      "protein": 9,
+      "carbs": 7,
+      "fats": 39
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4710597100828",
     "name": "Plat Végétarien Canard",
     "brand": "Wu Chung Brand",
@@ -3528,6 +5013,18 @@
       "protein": 1.2,
       "carbs": 80.4,
       "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4714221131219",
+    "name": "Japanese Style Taro Mochi",
+    "brand": "BAMBOO HOUSE",
+    "per100g": {
+      "kcal": 377.3,
+      "protein": 1.7,
+      "carbs": 91.5,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -3580,6 +5077,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4770190078702",
+    "name": "Gyoza with vegetables",
+    "brand": "viči",
+    "per100g": {
+      "kcal": 146,
+      "protein": 5.1,
+      "carbs": 26,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4771085204015",
+    "name": "Instant Oat Flakes",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 365,
+      "protein": 13.8,
+      "carbs": 67.5,
+      "fats": 6.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4771085204923",
+    "name": "Apricot and banana oatmeal",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 356,
+      "protein": 9.9,
+      "carbs": 62.6,
+      "fats": 5.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "4771085204947",
     "name": "Apple & Raspberry Oatmeal",
     "brand": "Auga",
@@ -3600,6 +5133,102 @@
       "protein": 10,
       "carbs": 25,
       "fats": 45
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039730221",
+    "name": "Champignons",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 14,
+      "protein": 1.6,
+      "carbs": 1.7,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039730252",
+    "name": "Beetroots",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 42,
+      "protein": 0.9,
+      "carbs": 9.5,
+      "fats": 0.06
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039730269",
+    "name": "Beetroots in Apple Juice",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 50,
+      "protein": 0.9,
+      "carbs": 11.5,
+      "fats": 0.06
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039730313",
+    "name": "Beetroot Soup",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 49,
+      "protein": 0.8,
+      "carbs": 6.1,
+      "fats": 2.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039730382",
+    "name": "Chilli Beans",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 93,
+      "protein": 6,
+      "carbs": 16.6,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039731716",
+    "name": "Ready-To-Eat Chickpeas",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 158,
+      "protein": 9,
+      "carbs": 20,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039731730",
+    "name": "Ready-To-Eat Brown Lentils",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 176,
+      "protein": 13,
+      "carbs": 28,
+      "fats": 0.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "4779039731754",
+    "name": "Ready-To-Eat Black Beans",
+    "brand": "Auga",
+    "per100g": {
+      "kcal": 140,
+      "protein": 9.5,
+      "carbs": 21,
+      "fats": 0.6
     },
     "schemaVersion": 1
   },
@@ -3652,6 +5281,17 @@
     "schemaVersion": 1
   },
   {
+    "ean": "4958325000761",
+    "name": "Mořské řasy nori plátky",
+    "per100g": {
+      "kcal": 308,
+      "protein": 41,
+      "carbs": 7.2,
+      "fats": 5.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5000112652451",
     "name": "Coca Cola vanille",
     "brand": "Coca-Cola",
@@ -3672,6 +5312,54 @@
       "protein": 9.5,
       "carbs": 3.4,
       "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5000243800578",
+    "name": "Almond flat white",
+    "brand": "Nestlé",
+    "per100g": {
+      "kcal": 443,
+      "protein": 6.1,
+      "carbs": 68.5,
+      "fats": 14.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5010034007055",
+    "name": "Zlatá rýže se zeleninkou",
+    "brand": "Uncle Ben's",
+    "per100g": {
+      "kcal": 152,
+      "protein": 3.3,
+      "carbs": 29,
+      "fats": 2.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5010482504946",
+    "name": "Spaghetti & meatballs",
+    "brand": "Iceland",
+    "per100g": {
+      "kcal": 102,
+      "protein": 3.4,
+      "carbs": 14.2,
+      "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5010482508210",
+    "name": "Spaghetti bolognese",
+    "brand": "Iceland",
+    "per100g": {
+      "kcal": 115,
+      "protein": 44,
+      "carbs": 14.2,
+      "fats": 18.2
     },
     "schemaVersion": 1
   },
@@ -3712,6 +5400,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5016778196048",
+    "name": "Hot Mustard Pork Crackling",
+    "brand": "The Real Pork Crackling Company",
+    "per100g": {
+      "kcal": 659,
+      "protein": 44.5,
+      "carbs": 1,
+      "fats": 53.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5017840007668",
     "name": "Cocoa flapjack",
     "brand": "Tomm's",
@@ -3720,6 +5420,30 @@
       "protein": 6.4,
       "carbs": 56,
       "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5020322000538",
+    "name": "No bull pasties",
+    "brand": "The Nomeat company",
+    "per100g": {
+      "kcal": 235,
+      "protein": 5.7,
+      "carbs": 24.2,
+      "fats": 12.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5031416220336",
+    "name": "Mletý koriandr",
+    "brand": "Heera",
+    "per100g": {
+      "kcal": 296,
+      "protein": 12,
+      "carbs": 55,
+      "fats": 18
     },
     "schemaVersion": 1
   },
@@ -3748,6 +5472,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5034467000919",
+    "name": "Salchicas con tomate picante",
+    "brand": "The Tofoo Co.",
+    "per100g": {
+      "kcal": 208,
+      "protein": 11.2,
+      "carbs": 13.1,
+      "fats": 11.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "50357734",
     "name": "Fisherman's Friend Eukalyptus",
     "brand": "Fisherman's Friend",
@@ -3756,6 +5492,30 @@
       "protein": 0.3,
       "carbs": 94.69,
       "fats": 0.02
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007092067",
+    "name": "Czekolada biała",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 540,
+      "protein": 5.1,
+      "carbs": 62,
+      "fats": 30
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007092081",
+    "name": "TESCO Mliečna čokoláda s lieskovými orieškami.",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 558,
+      "protein": 7.7,
+      "carbs": 49,
+      "fats": 36
     },
     "schemaVersion": 1
   },
@@ -3783,6 +5543,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051007104180",
+    "name": "trhané vepřové",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 216,
+      "protein": 10,
+      "carbs": 26,
+      "fats": 7.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007106542",
+    "name": "Skyr strawberry",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 91,
+      "protein": 9.6,
+      "carbs": 12.9,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5051007107082",
     "name": "Kakaový prášek",
     "brand": "Tesco",
@@ -3803,6 +5587,42 @@
       "protein": 9.2307692307692,
       "carbs": 65.076923076923,
       "fats": 11.076923076923
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007108492",
+    "name": "Muesli with fruits, nuts & seeds",
+    "brand": "Stockwelle",
+    "per100g": {
+      "kcal": 372,
+      "protein": 10.7,
+      "carbs": 54.1,
+      "fats": 10.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007109222",
+    "name": "Chips spring onion",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 538,
+      "protein": 5.6,
+      "carbs": 48,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007109284",
+    "name": "Chipsy ziemniaczane o smaku bekonowym.",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 540,
+      "protein": 5.7,
+      "carbs": 48.4,
+      "fats": 35
     },
     "schemaVersion": 1
   },
@@ -3867,6 +5687,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051007120418",
+    "name": "Hummus & falafel",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 236,
+      "protein": 7.1,
+      "carbs": 17,
+      "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5051007121361",
     "name": "Coated Peanuts roasted with paprika",
     "brand": "tesco",
@@ -3915,6 +5747,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051007130134",
+    "name": "Jogurt owoce leśne",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 92,
+      "protein": 3.2,
+      "carbs": 13,
+      "fats": 2.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007130288",
+    "name": "Napój jogurtowy jagodowy",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 65,
+      "protein": 2.3,
+      "carbs": 12.1,
+      "fats": 0.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5051007131964",
     "name": "Pečené fazole v rajčatové omáčce",
     "brand": "Tesco",
@@ -3935,6 +5791,18 @@
       "protein": 13,
       "carbs": 70,
       "fats": 1.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5051007139090",
+    "name": "Tesco drink",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 45,
+      "protein": 0.5,
+      "carbs": 10,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -4143,6 +6011,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5051701034257",
+    "name": "Drink carrot, banana & apple",
+    "brand": "Tesco",
+    "per100g": {
+      "kcal": 47,
+      "protein": 0.5,
+      "carbs": 12.3,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5051701058789",
     "name": "Deep Pan pizza base topped with tomato sauce, formed ham, mozzarella cheese, mushroom and red onion.",
     "brand": "Tesco",
@@ -4179,6 +6059,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5060103393732",
+    "name": "Mexican Chilli Con Carne Sauce",
+    "brand": "Attkins & Potts",
+    "per100g": {
+      "kcal": 62,
+      "protein": 1.4,
+      "carbs": 8.6,
+      "fats": 2.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5060120285232",
     "name": "Berry Date & Nut Bar",
     "brand": "Rude health",
@@ -4203,6 +6095,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5060139434942",
+    "name": "pure fruit Yoyos ovocná dřeň jahoda",
+    "brand": "Bear",
+    "per100g": {
+      "kcal": 280,
+      "protein": 1.9,
+      "carbs": 63,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5060139435413",
+    "name": "Fruit Minis",
+    "brand": "Bear",
+    "per100g": {
+      "kcal": 314,
+      "protein": 1.4,
+      "carbs": 71,
+      "fats": 0.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5060170809914",
     "name": "Tomato & Ricota Pasta Sauce",
     "brand": "Jamie Oliver",
@@ -4211,6 +6127,18 @@
       "protein": 2.1052631578947,
       "carbs": 6.6165413533835,
       "fats": 3.3082706766917
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5060213780217",
+    "name": "100% ovocná tyčinka",
+    "brand": "Perry Court Farm",
+    "per100g": {
+      "kcal": 38,
+      "protein": 0.3,
+      "carbs": 9.8,
+      "fats": 0.1
     },
     "schemaVersion": 1
   },
@@ -4263,6 +6191,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5060263760610",
+    "name": "Oatie Dairy Free Drink",
+    "brand": "Nurture",
+    "per100g": {
+      "kcal": 22,
+      "protein": 1.02,
+      "carbs": 7.3,
+      "fats": 2.46
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5060308360942",
     "name": "Strawberry vegan mallows",
     "brand": "Free from fellows",
@@ -4287,6 +6227,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5060376691719",
+    "name": "Mylk barista",
+    "brand": "Rebel kitchen",
+    "per100g": {
+      "kcal": 56,
+      "protein": 0.5,
+      "carbs": 6.4,
+      "fats": 3.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5060462261475",
     "name": "Peanut butter cups",
     "brand": "Peanut   Butter Cups",
@@ -4307,6 +6259,18 @@
       "protein": 16,
       "carbs": 36,
       "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5201041022760",
+    "name": "Salt Nut Bars With Honey",
+    "brand": "Jannis",
+    "per100g": {
+      "kcal": 548,
+      "protein": 20,
+      "carbs": 33,
+      "fats": 36
     },
     "schemaVersion": 1
   },
@@ -4359,6 +6323,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5201704002535",
+    "name": "Vegan slices",
+    "brand": "Kolios",
+    "per100g": {
+      "kcal": 312,
+      "protein": 0,
+      "carbs": 24,
+      "fats": 24
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5201704058549",
+    "name": "Veganská alternativa sýru",
+    "brand": "Koliós",
+    "per100g": {
+      "kcal": 279,
+      "protein": 0,
+      "carbs": 15.7,
+      "fats": 24
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5202390017063",
     "name": "Mozzarella Geschmack scheiben",
     "brand": "Violife",
@@ -4367,6 +6355,30 @@
       "protein": 0,
       "carbs": 20,
       "fats": 23
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5202390021138",
+    "name": "Krémová pomazánka s bylinkami",
+    "brand": "Violife",
+    "per100g": {
+      "kcal": 249,
+      "protein": 0.7,
+      "carbs": 4.8,
+      "fats": 25
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5202390023217",
+    "name": "Gouda flavour grated",
+    "brand": "Violife",
+    "per100g": {
+      "kcal": 289,
+      "protein": 0,
+      "carbs": 21,
+      "fats": 24
     },
     "schemaVersion": 1
   },
@@ -4418,6 +6430,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5310192000142",
+    "name": "Croissant s kakaovou náplní",
+    "brand": "Bustó",
+    "per100g": {
+      "kcal": 423,
+      "protein": 6.3,
+      "carbs": 49.6,
+      "fats": 20.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5319990172228",
     "name": "Bas Ajvas mild",
     "brand": "DIEM-GP",
@@ -4438,6 +6462,18 @@
       "protein": 0.5,
       "carbs": 7.6,
       "fats": 1.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5410126016130",
+    "name": "Originální karamelizovaná sušenka",
+    "brand": "Lotus",
+    "per100g": {
+      "kcal": 484,
+      "protein": 4.9,
+      "carbs": 72.6,
+      "fats": 19
     },
     "schemaVersion": 1
   },
@@ -4498,6 +6534,42 @@
       "protein": 0.4,
       "carbs": 4.9,
       "fats": 0.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5411188131502",
+    "name": "Absolutely coconut pineapple",
+    "brand": "Alpro",
+    "per100g": {
+      "kcal": 95,
+      "protein": 0.5,
+      "carbs": 11.7,
+      "fats": 4.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5411188134312",
+    "name": "Fermentovaný mandlový výrobek",
+    "brand": "Alpro",
+    "per100g": {
+      "kcal": 64,
+      "protein": 1.5,
+      "carbs": 6.3,
+      "fats": 3.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5411361064306",
+    "name": "Zeleninové hranolky",
+    "brand": "Ardo",
+    "per100g": {
+      "kcal": 121,
+      "protein": 1.8,
+      "carbs": 13,
+      "fats": 5.7
     },
     "schemaVersion": 1
   },
@@ -4598,6 +6670,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5701977000547",
+    "name": "Capriciosa Plant Based Pizza",
+    "brand": "Naturli",
+    "per100g": {
+      "kcal": 185,
+      "protein": 5.8,
+      "carbs": 26,
+      "fats": 6.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5701977000554",
     "name": "Veggie balls",
     "brand": "Naturli'",
@@ -4646,6 +6730,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "58485118",
+    "name": "mixitka borůvka",
+    "brand": "Mixit",
+    "per100g": {
+      "kcal": 314,
+      "protein": 4.9,
+      "carbs": 64,
+      "fats": 6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5900020032096",
     "name": "Alphabet Céréales Petit Déjeuner",
     "brand": "Nestlé",
@@ -4654,6 +6750,30 @@
       "protein": 9.7,
       "carbs": 73,
       "fats": 2.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900125007029",
+    "name": "Wafle kukurydziane",
+    "brand": "Good Food",
+    "per100g": {
+      "kcal": 381,
+      "protein": 9.5,
+      "carbs": 75,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900130031996",
+    "name": "Kaktus 8+1",
+    "brand": "Nestlé",
+    "per100g": {
+      "kcal": 133,
+      "protein": 0.5,
+      "carbs": 25,
+      "fats": 3.4
     },
     "schemaVersion": 1
   },
@@ -4718,6 +6838,66 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5900397735897",
+    "name": "SOS Spaghetti",
+    "brand": "Culineo",
+    "per100g": {
+      "kcal": 95,
+      "protein": 1.8,
+      "carbs": 19,
+      "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900749618922",
+    "name": "BA! Energy bar",
+    "brand": "Bakalland",
+    "per100g": {
+      "kcal": 478,
+      "protein": 12,
+      "carbs": 55,
+      "fats": 23
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900749618991",
+    "name": "BA! Energy bar banán",
+    "brand": "Bakalland",
+    "per100g": {
+      "kcal": 172,
+      "protein": 1.8,
+      "carbs": 28,
+      "fats": 5.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900749650977",
+    "name": "BA! Energy bar",
+    "brand": "Bakalland",
+    "per100g": {
+      "kcal": 401,
+      "protein": 6.5,
+      "carbs": 61,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5900749650984",
+    "name": "Energy Bar - Cherry",
+    "brand": "Bakalland",
+    "per100g": {
+      "kcal": 373.33333333333,
+      "protein": 5.6666666666667,
+      "carbs": 76.666666666667,
+      "fats": 4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5900972007869",
     "name": "Karbanátky s brokolicí a květákem",
     "brand": "Frosta",
@@ -4750,6 +6930,30 @@
       "protein": 0,
       "carbs": 0.4,
       "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5901104004534",
+    "name": "Sour Cream ŚmietaNOVA",
+    "brand": "Planton",
+    "per100g": {
+      "kcal": 159,
+      "protein": 1,
+      "carbs": 4.9,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5901104004671",
+    "name": "Vegangurt malina a klikva",
+    "brand": "Vemondo",
+    "per100g": {
+      "kcal": 95,
+      "protein": 0.7,
+      "carbs": 13.1,
+      "fats": 4.4
     },
     "schemaVersion": 1
   },
@@ -4802,6 +7006,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5901537003142",
+    "name": "Pizza głęboko mrożona z szynką i pieczarkami.",
+    "brand": "MaxTop Sławków",
+    "per100g": {
+      "kcal": 240,
+      "protein": 8,
+      "carbs": 34,
+      "fats": 8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5901774002830",
+    "name": "Lizak liliput",
+    "brand": "Cukiernicza Roksana",
+    "per100g": {
+      "kcal": 388,
+      "protein": 0,
+      "carbs": 97,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5901882019508",
     "name": "Dark Soy Sauce",
     "brand": "Vifon",
@@ -4826,6 +7054,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5901888014842",
+    "name": "Veggie",
+    "brand": "zaklady przemysľu Cukiemiczego OTMUCHÓW",
+    "per100g": {
+      "kcal": 332,
+      "protein": 1.8,
+      "carbs": 70,
+      "fats": 3.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5902162113336",
     "name": "Pizza z szynką wieprzową, na podpieczonym spodzie.",
     "brand": "Iglotex",
@@ -4838,6 +7078,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5902884463535",
+    "name": "Müsli povzbuzení",
+    "brand": "One day more",
+    "per100g": {
+      "kcal": 390,
+      "protein": 12.1,
+      "carbs": 56.9,
+      "fats": 10.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5905186420855",
     "name": "Veganský párkový snack",
     "brand": "Plenty reasons",
@@ -4846,6 +7098,18 @@
       "protein": 26,
       "carbs": 18,
       "fats": 9.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5906041030233",
+    "name": "Napój kawowy na bazie pełnego mleka i śmietanki",
+    "brand": "PKN Orlen",
+    "per100g": {
+      "kcal": 67,
+      "protein": 1.5,
+      "carbs": 8.3,
+      "fats": 3.2
     },
     "schemaVersion": 1
   },
@@ -4874,6 +7138,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5906207660076",
+    "name": "Camembert president light",
+    "brand": "Président",
+    "per100g": {
+      "kcal": 197,
+      "protein": 22,
+      "carbs": 0.4,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5906747308742",
+    "name": "Čoko piškoty malinové",
+    "brand": "Figaro",
+    "per100g": {
+      "kcal": 358,
+      "protein": 3.3,
+      "carbs": 70,
+      "fats": 7.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5906747319892",
+    "name": "Čoko piškoty s příchutí lesního ovoce",
+    "brand": "Figaro",
+    "per100g": {
+      "kcal": 361,
+      "protein": 3.2,
+      "carbs": 70,
+      "fats": 7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5906874505526",
     "name": "Cranberry fudges",
     "brand": "Super fudgio",
@@ -4886,6 +7186,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5907517809704",
+    "name": "Hummus sušené rajče",
+    "brand": "Perla",
+    "per100g": {
+      "kcal": 267,
+      "protein": 7,
+      "carbs": 13,
+      "fats": 20
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5907713370039",
     "name": "Adventní kalendář čokoládový",
     "brand": "Super fudgio",
@@ -4894,6 +7206,18 @@
       "protein": 2.6,
       "carbs": 48,
       "fats": 42
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5941021005832",
+    "name": "Grand'or Walnuts",
+    "brand": "Heidi",
+    "per100g": {
+      "kcal": 537,
+      "protein": 7.4,
+      "carbs": 50,
+      "fats": 37
     },
     "schemaVersion": 1
   },
@@ -4944,6 +7268,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "5996358020591",
+    "name": "Lody o smaku tiramisu z sosem kawowym",
+    "brand": "Carte D'Or",
+    "per100g": {
+      "kcal": 190,
+      "protein": 3,
+      "carbs": 29,
+      "fats": 7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "5997347541189",
+    "name": "caramoon",
+    "brand": "Mogyi",
+    "per100g": {
+      "kcal": 459,
+      "protein": 2.8,
+      "carbs": 73,
+      "fats": 17
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "5999887547164",
     "name": "Mini grill klobása",
     "brand": "Vegán manufaktura",
@@ -4963,6 +7311,18 @@
       "kcal": 75,
       "protein": 1.3,
       "carbs": 17.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "6921665733321",
+    "name": "Dumplings cabbage and beancurd",
+    "brand": "Synear",
+    "per100g": {
+      "kcal": 174,
+      "protein": 6.8000001907349,
+      "carbs": 21,
+      "fats": 7
     },
     "schemaVersion": 1
   },
@@ -5051,6 +7411,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "7501013100051",
+    "name": "broskev",
+    "brand": "Jumex",
+    "per100g": {
+      "kcal": 50,
+      "protein": 0,
+      "carbs": 12.4,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7501013101355",
+    "name": "Nectar de Durazno",
+    "brand": "Jumex",
+    "per100g": {
+      "kcal": 48,
+      "protein": 0,
+      "carbs": 12,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7501013101430",
+    "name": "brusinka",
+    "brand": "Jumex",
+    "per100g": {
+      "kcal": 37,
+      "protein": 0,
+      "carbs": 9.2,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "7501013102185",
     "name": "Jablečný nápoj",
     "brand": "Jumex",
@@ -5058,6 +7454,18 @@
       "kcal": 45,
       "protein": 0,
       "carbs": 11.5,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7501013118063",
+    "name": "Guava",
+    "brand": "Jumex",
+    "per100g": {
+      "kcal": 45,
+      "protein": 0,
+      "carbs": 11.2,
       "fats": 0
     },
     "schemaVersion": 1
@@ -5087,6 +7495,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "7613036347785",
+    "name": "Raspberry",
+    "brand": "Nestea",
+    "per100g": {
+      "kcal": 19,
+      "protein": 0.5,
+      "carbs": 4.8,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "7613036562287",
     "name": "Beetroot and Apple Fruit Bar",
     "brand": "Ohhh Yes!",
@@ -5111,6 +7531,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "7613287141132",
+    "name": "Lentilky",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 471,
+      "protein": 6.3,
+      "carbs": 67.8,
+      "fats": 18.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "7613287431608",
     "name": "Veganské nugetky",
     "brand": "Garden Gourmet",
@@ -5119,6 +7551,18 @@
       "protein": 14,
       "carbs": 15,
       "fats": 10
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7613287460691",
+    "name": "Piccolinis se špenátem",
+    "brand": "Buitoni",
+    "per100g": {
+      "kcal": 227,
+      "protein": 5.8,
+      "carbs": 29.3,
+      "fats": 9.1
     },
     "schemaVersion": 1
   },
@@ -5159,6 +7603,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "7622210136251",
+    "name": "Zlaté polomáčené Mini hořké",
+    "brand": "Mondeléz",
+    "per100g": {
+      "kcal": 520,
+      "protein": 5.8,
+      "carbs": 61,
+      "fats": 27
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "7622210266972",
     "name": "Opavia Vanilkové",
     "brand": "Mondelez",
@@ -5167,6 +7623,30 @@
       "protein": 5.7,
       "carbs": 62,
       "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7622210309969",
+    "name": "oplatka s lískooříškovou náplní, mléčná čokoláda",
+    "brand": "Siesta",
+    "per100g": {
+      "kcal": 525.714285714286,
+      "protein": 6.57142843518938,
+      "carbs": 60,
+      "fats": 28.0000005449568
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7622210364234",
+    "name": "Figaro jahody",
+    "brand": "Mondeléz",
+    "per100g": {
+      "kcal": 510,
+      "protein": 4.2,
+      "carbs": 60,
+      "fats": 28
     },
     "schemaVersion": 1
   },
@@ -5195,6 +7675,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "7622210653147",
+    "name": "Moments",
+    "brand": "Milka",
+    "per100g": {
+      "kcal": 549,
+      "protein": 5.4,
+      "carbs": 57,
+      "fats": 33
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "7622210679673",
     "name": "BeBe Dobré ráno mazané s kakaem a oříšky",
     "brand": "Opavia",
@@ -5203,6 +7695,18 @@
       "protein": 7.2,
       "carbs": 68,
       "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "7622210694065",
+    "name": "Wafel z orzechowo-kokosowym nadzieniem pokryty orzechami laskowymi, oblany czekoladą mleczną z mleka alpejskiego 30%.",
+    "brand": "Milka",
+    "per100g": {
+      "kcal": 547,
+      "protein": 6.9,
+      "carbs": 54,
+      "fats": 33
     },
     "schemaVersion": 1
   },
@@ -5255,6 +7759,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8000506014107",
+    "name": "Gnocchi di patate",
+    "brand": "Cucina Italiana",
+    "per100g": {
+      "kcal": 153,
+      "protein": 4,
+      "carbs": 34,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8000846002031",
     "name": "Farina per polenta bramata",
     "brand": "Molino Riva",
@@ -5279,6 +7795,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8002580255681",
+    "name": "Yogurt intero alla vaniglia",
+    "brand": "Parmalat",
+    "per100g": {
+      "kcal": 75.2,
+      "protein": 3.2,
+      "carbs": 12.8,
+      "fats": 3.28
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8002590057763",
     "name": "Toastový chléb",
     "brand": "Colussi",
@@ -5287,6 +7815,18 @@
       "protein": 8.3,
       "carbs": 46,
       "fats": 5.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8003180000770",
+    "name": "SOIA",
+    "brand": "OraSì",
+    "per100g": {
+      "kcal": 240,
+      "protein": 1.1,
+      "carbs": 5.3,
+      "fats": 23
     },
     "schemaVersion": 1
   },
@@ -5327,6 +7867,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8004030271258",
+    "name": "Tuna Al Naturale",
+    "brand": "Rio Mare",
+    "per100g": {
+      "kcal": 93,
+      "protein": 22,
+      "carbs": 0,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8006070074714",
+    "name": "fondente 62%",
+    "brand": "ICAM",
+    "per100g": {
+      "kcal": 571,
+      "protein": 6.8,
+      "carbs": 43.1,
+      "fats": 39.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8006291010188",
+    "name": "Gorgonzola dolce",
+    "brand": "Bassi",
+    "per100g": {
+      "kcal": 306,
+      "protein": 19,
+      "carbs": 1.7,
+      "fats": 25
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8013108000133",
     "name": "Hazelnut chocolate spread",
     "brand": "Lindt",
@@ -5347,6 +7923,30 @@
       "protein": 6,
       "carbs": 53,
       "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8016042050882",
+    "name": "Le Preziose",
+    "brand": "Le Preziose",
+    "per100g": {
+      "kcal": 344,
+      "protein": 0.5,
+      "carbs": 85,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8016042050899",
+    "name": "Le Preziose, Gelées con succhi di frutta",
+    "brand": "Le Preziose",
+    "per100g": {
+      "kcal": 344,
+      "protein": 0.5,
+      "carbs": 85,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -5375,6 +7975,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8027890010942",
+    "name": "miniburger zeleninový se špenátem",
+    "brand": "Verde Amore",
+    "per100g": {
+      "kcal": 238,
+      "protein": 11,
+      "carbs": 13,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8029175097709",
+    "name": "Pesto alla genovese",
+    "brand": "Naturello",
+    "per100g": {
+      "kcal": 546,
+      "protein": 5.5,
+      "carbs": 7.2,
+      "fats": 54.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8032523372380",
     "name": "Pesto salsa melanzane e peperoni",
     "brand": "Macè",
@@ -5383,6 +8007,18 @@
       "protein": 0.9,
       "carbs": 6,
       "fats": 27
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8032618610427",
+    "name": "Vegetarian Hard Cheese",
+    "brand": "Brazzale",
+    "per100g": {
+      "kcal": 378,
+      "protein": 31,
+      "carbs": 0.6,
+      "fats": 28
     },
     "schemaVersion": 1
   },
@@ -5411,6 +8047,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8032891760055",
+    "name": "Těstoviny",
+    "brand": "Girolomoni",
+    "per100g": {
+      "kcal": 358,
+      "protein": 11.5,
+      "carbs": 73,
+      "fats": 1.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8033087770124",
+    "name": "Il poeta gnocchi di patate impastati a caldo",
+    "brand": "Ciemme",
+    "per100g": {
+      "kcal": 155,
+      "protein": 5.22,
+      "carbs": 32.6,
+      "fats": 0.41
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8033087770223",
+    "name": "Potato Mini Gnocchi",
+    "brand": "Ciemme",
+    "per100g": {
+      "kcal": 158,
+      "protein": 5.22,
+      "carbs": 32.6,
+      "fats": 0.41
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8033520535655",
+    "name": "Gran moravia",
+    "brand": "Brazzale",
+    "per100g": {
+      "kcal": 378,
+      "protein": 31,
+      "carbs": 0.6,
+      "fats": 28
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8052742980425",
     "name": "Cipolle Borettane",
     "brand": "Bella Vita",
@@ -5419,6 +8103,17 @@
       "protein": 0.8,
       "carbs": 7.6,
       "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8054188463623",
+    "name": "Taralli multicereali",
+    "per100g": {
+      "kcal": 497,
+      "protein": 12,
+      "carbs": 60,
+      "fats": 22
     },
     "schemaVersion": 1
   },
@@ -5435,6 +8130,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8410171004639",
+    "name": "Three citrus fruits juice",
+    "brand": "Limenita",
+    "per100g": {
+      "kcal": 42,
+      "protein": 0.7,
+      "carbs": 9.6,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8410171006374",
     "name": "Pomarančový džus",
     "brand": "Limenita",
@@ -5442,6 +8149,18 @@
       "kcal": 35,
       "protein": 0.6,
       "carbs": 8.1,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8410171009085",
+    "name": "Bio pomerančový džus",
+    "brand": "Limenita",
+    "per100g": {
+      "kcal": 41,
+      "protein": 0.6,
+      "carbs": 9.3,
       "fats": 0
     },
     "schemaVersion": 1
@@ -5495,6 +8214,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8410791013561",
+    "name": "Black olives pitted",
+    "brand": "penny",
+    "per100g": {
+      "kcal": 133,
+      "protein": 0.5,
+      "carbs": 2.2,
+      "fats": 13.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8413385022000",
     "name": "Mini palmeritas de hojaldre",
     "brand": "Virgen Brezo",
@@ -5503,6 +8234,18 @@
       "protein": 2.1,
       "carbs": 16.7,
       "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8421826410019",
+    "name": "Mochi ice cream tropicale",
+    "brand": "Wao",
+    "per100g": {
+      "kcal": 199,
+      "protein": 0.5,
+      "carbs": 47,
+      "fats": 0.9
     },
     "schemaVersion": 1
   },
@@ -5579,6 +8322,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8584002003594",
+    "name": "Rýžová kaše meruňka",
+    "brand": "Dr. Oetker",
+    "per100g": {
+      "kcal": 401,
+      "protein": 8.8,
+      "carbs": 77,
+      "fats": 6.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8584002008018",
     "name": "Škrob kukuřičný",
     "brand": "Natura",
@@ -5599,6 +8354,18 @@
       "protein": 8,
       "carbs": 49,
       "fats": 36
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8584004010521",
+    "name": "Kakaové rezy extra kakao",
+    "brand": "I.D.C. Holding",
+    "per100g": {
+      "kcal": 548,
+      "protein": 9,
+      "carbs": 49,
+      "fats": 34
     },
     "schemaVersion": 1
   },
@@ -5639,6 +8406,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8584004024207",
+    "name": "Kruchy wafelek z kremowym nadzieniem (58%) mlecznym w polewie mleczno-kakaowej",
+    "brand": "I.D.C. Holding",
+    "per100g": {
+      "kcal": 550,
+      "protein": 7,
+      "carbs": 51,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8584004025112",
+    "name": "Milk Wafer",
+    "brand": "SEDITA",
+    "per100g": {
+      "kcal": 550,
+      "protein": 7,
+      "carbs": 51,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8584004113567",
+    "name": "Sušienky bazové s kúskami amerických brusnic",
+    "brand": "Verbena",
+    "per100g": {
+      "kcal": 453,
+      "protein": 9,
+      "carbs": 50,
+      "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8584004113574",
     "name": "Levandulové sušenky s kouskami borůvek",
     "brand": "Verbena",
@@ -5647,6 +8450,30 @@
       "protein": 10,
       "carbs": 49,
       "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8584004150197",
+    "name": "Princezky",
+    "brand": "Sedita",
+    "per100g": {
+      "kcal": 469.646271510516,
+      "protein": 7,
+      "carbs": 68,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8584126822477",
+    "name": "Fit deň Večerny chlebik",
+    "brand": "Penam",
+    "per100g": {
+      "kcal": 274,
+      "protein": 28,
+      "carbs": 6,
+      "fats": 13
     },
     "schemaVersion": 1
   },
@@ -5783,6 +8610,17 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8585002507044",
+    "name": "Barista Mléko 3,5%",
+    "brand": "Meggle",
+    "per100g": {
+      "kcal": 64,
+      "carbs": 4.8,
+      "fats": 3.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8585002507297",
     "name": "Tvaroh bez laktózy",
     "brand": "Meggle",
@@ -5827,6 +8665,18 @@
       "protein": 11,
       "carbs": 48,
       "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586000048614",
+    "name": "Pološtiepok na gril s brusinkovou omáčkou",
+    "brand": "Liptov",
+    "per100g": {
+      "kcal": 348,
+      "protein": 1,
+      "carbs": 82,
+      "fats": 1.4
     },
     "schemaVersion": 1
   },
@@ -5891,6 +8741,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586000984714",
+    "name": "lišácké jablko hruška",
+    "brand": "heineken",
+    "per100g": {
+      "kcal": 54,
+      "protein": 0.5,
+      "carbs": 7.2,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586000987579",
     "name": "zlatý bažant extra horke 0%",
     "brand": "Zlaty Bažant",
@@ -5913,6 +8775,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586001010672",
+    "name": "Francouzská rostlinná pomazánka",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 144,
+      "protein": 7.5,
+      "carbs": 7,
+      "fats": 9.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586001012577",
     "name": "Tofu krémová rostlinná pomazánka s česnekem",
     "brand": "Lunter",
@@ -5921,6 +8795,18 @@
       "protein": 5,
       "carbs": 0.4,
       "fats": 25
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586001017763",
+    "name": "Veggie medaillon",
+    "brand": "Goody Foody",
+    "per100g": {
+      "kcal": 191,
+      "protein": 21.3,
+      "carbs": 5.2,
+      "fats": 8.6
     },
     "schemaVersion": 1
   },
@@ -5961,6 +8847,41 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586001018036",
+    "name": "Kostky na guláš",
+    "brand": "Goody Foody",
+    "per100g": {
+      "kcal": 127,
+      "protein": 19.5,
+      "carbs": 7.7,
+      "fats": 0.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586001018043",
+    "name": "Rezance nudličky",
+    "brand": "Goody Foody",
+    "per100g": {
+      "kcal": 123,
+      "protein": 20,
+      "carbs": 6.8,
+      "fats": 0.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586001070300",
+    "name": "Kukuričné piškóty",
+    "brand": "Ravita",
+    "per100g": {
+      "kcal": 407,
+      "carbs": 77.3,
+      "fats": 6.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586001540599",
     "name": "Bánovecký cream yoghurt Strawberry",
     "brand": "Milsy",
@@ -5969,6 +8890,18 @@
       "protein": 2.8,
       "carbs": 11.8,
       "fats": 8.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586001542913",
+    "name": "Bánovecká smotanová pomazánka",
+    "brand": "Milsy",
+    "per100g": {
+      "kcal": 309,
+      "protein": 4.19999980926514,
+      "carbs": 7.30000019073486,
+      "fats": 29.2999992370605
     },
     "schemaVersion": 1
   },
@@ -6031,6 +8964,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586008101168",
+    "name": "Cerealka",
+    "brand": "Nature line",
+    "per100g": {
+      "kcal": 461,
+      "protein": 10,
+      "carbs": 52,
+      "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586008101274",
+    "name": "Piškóty celozrnné",
+    "brand": "Nature Line",
+    "per100g": {
+      "kcal": 386,
+      "protein": 11,
+      "carbs": 71,
+      "fats": 5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586008105180",
+    "name": "Celozrnná čakanka",
+    "brand": "Nature line",
+    "per100g": {
+      "kcal": 486,
+      "protein": 7.7,
+      "carbs": 62,
+      "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586008107313",
     "name": "Celozrnná arónia",
     "brand": "Nature line",
@@ -6067,6 +9036,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586009856456",
+    "name": "Fresh 100% pineapple",
+    "brand": "RIO",
+    "per100g": {
+      "kcal": 51,
+      "protein": 0.4,
+      "carbs": 11.6,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586009858733",
     "name": "Zeleninové smoothie",
     "brand": "Rio",
@@ -6075,6 +9056,30 @@
       "protein": 0.1,
       "carbs": 5.5,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586009859211",
+    "name": "100% pomeranč",
+    "brand": "Rio",
+    "per100g": {
+      "kcal": 45,
+      "protein": 0.2,
+      "carbs": 11.2,
+      "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586011330333",
+    "name": "neperlivá minerální voda Pampeliška",
+    "brand": "Rajec",
+    "per100g": {
+      "kcal": 16,
+      "protein": 0.5,
+      "carbs": 3.90000009536743,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -6127,6 +9132,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586012827450",
+    "name": "Arašídy pražené solené",
+    "brand": "ENSA",
+    "per100g": {
+      "kcal": 600,
+      "protein": 29,
+      "carbs": 18.6,
+      "fats": 50
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586013542024",
+    "name": "Květový med",
+    "brand": "Zlatý úl",
+    "per100g": {
+      "kcal": 333,
+      "protein": 0.3,
+      "carbs": 81.7,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586015172663",
+    "name": "BIO karotkové pyré",
+    "brand": "Ovko",
+    "per100g": {
+      "kcal": 16,
+      "protein": 0.76,
+      "carbs": 5.58,
+      "fats": 0.17
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586017255685",
     "name": "Krémová nátierka s cesnakom",
     "brand": "Lunter",
@@ -6147,6 +9188,30 @@
       "protein": 4,
       "carbs": 3,
       "fats": 25
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586017256354",
+    "name": "Plant drink čokoláda",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 87,
+      "protein": 3,
+      "carbs": 12,
+      "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586017256392",
+    "name": "Plant drink jahoda",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 78,
+      "protein": 3,
+      "carbs": 13,
+      "fats": 1.5
     },
     "schemaVersion": 1
   },
@@ -6199,6 +9264,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8586017257122",
+    "name": "Tofu pikantní párky",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 225,
+      "protein": 12,
+      "carbs": 2.7,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8586017257771",
     "name": "Tofu na pánev Toscana",
     "brand": "Lunter",
@@ -6207,6 +9284,30 @@
       "protein": 13,
       "carbs": 2.5,
       "fats": 8.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586017257979",
+    "name": "Tofu uzené",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 139,
+      "protein": 14,
+      "carbs": 1.9,
+      "fats": 8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586017258013",
+    "name": "Poctivé marinované Tofu",
+    "brand": "Lunter",
+    "per100g": {
+      "kcal": 133,
+      "protein": 13,
+      "carbs": 1.8,
+      "fats": 8
     },
     "schemaVersion": 1
   },
@@ -6255,6 +9356,18 @@
       "protein": 6.9,
       "carbs": 28.3,
       "fats": 5.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8586018185714",
+    "name": "Pečené kaštany (jedlé) loupané, sterlizované",
+    "brand": "Dr. Ensa",
+    "per100g": {
+      "kcal": 187,
+      "protein": 4,
+      "carbs": 37,
+      "fats": 1
     },
     "schemaVersion": 1
   },
@@ -6379,6 +9492,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8588000526758",
+    "name": "Sea salt",
+    "brand": "BioSaurus",
+    "per100g": {
+      "kcal": 450,
+      "protein": 6.5,
+      "carbs": 58.4,
+      "fats": 20.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8588000604128",
     "name": "Saláma plátky",
     "brand": "Preto",
@@ -6403,6 +9528,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8588002767180",
+    "name": "Tempeh marinovaný",
+    "brand": "sojaprodukt",
+    "per100g": {
+      "kcal": 227,
+      "protein": 23,
+      "carbs": 8.1,
+      "fats": 13
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8588002767661",
     "name": "Tofu bílé",
     "brand": "Sojaprodukt",
@@ -6411,6 +9548,18 @@
       "protein": 16.12,
       "carbs": 0.81,
       "fats": 9.87
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8588002767678",
+    "name": "Tofu",
+    "brand": "Sojaprodukt",
+    "per100g": {
+      "kcal": 126.52,
+      "protein": 14.42,
+      "carbs": 0.11,
+      "fats": 7.6
     },
     "schemaVersion": 1
   },
@@ -6459,6 +9608,18 @@
       "protein": 18.3,
       "carbs": 28.9,
       "fats": 42.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8588005602013",
+    "name": "Tavenýr originál",
+    "brand": "Soy ´ n ´ health",
+    "per100g": {
+      "kcal": 192,
+      "protein": 3,
+      "carbs": 8.7,
+      "fats": 13.7
     },
     "schemaVersion": 1
   },
@@ -6547,6 +9708,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8588008200001",
+    "name": "Fermentovaný výrobek - malina",
+    "brand": "Novex food",
+    "per100g": {
+      "kcal": 93,
+      "protein": 0.7,
+      "carbs": 18,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8588008200018",
+    "name": "Fermentovaný rýžový výrobek - borůvka",
+    "brand": "Novex food",
+    "per100g": {
+      "kcal": 97,
+      "protein": 0.7,
+      "carbs": 18,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8588008200025",
+    "name": "Fermentovaný výrobek s višněmi",
+    "brand": "Novex food",
+    "per100g": {
+      "kcal": 92,
+      "protein": 0.7,
+      "carbs": 18,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8588008200032",
+    "name": "Fermentovaný rýžový výrobek - lesní směs",
+    "brand": "Novex food",
+    "per100g": {
+      "kcal": 87,
+      "protein": 0.7,
+      "carbs": 18,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8588008200049",
     "name": "Ricegurt čokoláda",
     "brand": "Novex food",
@@ -6631,6 +9840,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590014821750",
+    "name": "Višeň",
+    "brand": "Hello",
+    "per100g": {
+      "kcal": 40,
+      "protein": 0.1,
+      "carbs": 10,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590014821767",
     "name": "Broskev",
     "brand": "Hello",
@@ -6650,6 +9871,18 @@
       "kcal": 40,
       "protein": 0.1,
       "carbs": 9.8,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590014839120",
+    "name": "Ovocná přesnídávka s meruňkami",
+    "brand": "Hello",
+    "per100g": {
+      "kcal": 75,
+      "protein": 0.1,
+      "carbs": 18.5,
       "fats": 0.1
     },
     "schemaVersion": 1
@@ -6679,6 +9912,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590077921527",
+    "name": "Slunečnicový chléb celozrnný",
+    "brand": "Penam",
+    "per100g": {
+      "kcal": 248,
+      "protein": 8,
+      "carbs": 33,
+      "fats": 7.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590077921541",
+    "name": "Fit Chléb žitný celozrnný",
+    "brand": "Penam",
+    "per100g": {
+      "kcal": 194,
+      "protein": 5.1,
+      "carbs": 37,
+      "fats": 1.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590079004655",
     "name": "Okurky delikates 3-6cm",
     "brand": "Efko",
@@ -6686,6 +9943,18 @@
       "kcal": 30,
       "protein": 0.5,
       "carbs": 6.6,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590079731230",
+    "name": "Apfel + Himbeer Frucht snack",
+    "brand": "efko",
+    "per100g": {
+      "kcal": 66,
+      "protein": 0.5,
+      "carbs": 14,
       "fats": 0.5
     },
     "schemaVersion": 1
@@ -6811,6 +10080,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590345410340",
+    "name": "Wok čína",
+    "brand": "Billa",
+    "per100g": {
+      "kcal": 30,
+      "protein": 1.5,
+      "carbs": 4.2,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590345410630",
     "name": "Hummus natur",
     "brand": "Billa",
@@ -6859,6 +10140,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421022306",
+    "name": "Pomazánka z tofu",
+    "brand": "Nature's promise",
+    "per100g": {
+      "kcal": 111,
+      "protein": 12,
+      "carbs": 3.2,
+      "fats": 5.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421022320",
+    "name": "Bio tempeh uzený",
+    "brand": "Nature's promise",
+    "per100g": {
+      "kcal": 291,
+      "protein": 20,
+      "carbs": 10,
+      "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421030868",
     "name": "Obilné čtverečky se skořicí",
     "brand": "Kitbis",
@@ -6883,6 +10188,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421031094",
+    "name": "Feferony jemné",
+    "brand": "Česká chuť",
+    "per100g": {
+      "kcal": 24,
+      "protein": 0.4,
+      "carbs": 5.5,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421031711",
+    "name": "Protein Yogurt Drink",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 72,
+      "protein": 6.8,
+      "carbs": 10.3,
+      "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421034279",
     "name": "Cappelletti s omáčkou alá toscana",
     "brand": "Nature's Promise",
@@ -6891,6 +10220,18 @@
       "protein": 3,
       "carbs": 15.6,
       "fats": 1.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421034446",
+    "name": "Bio pomazánka s rajčaty a bazalkou",
+    "brand": "Nature's Promise",
+    "per100g": {
+      "kcal": 246,
+      "protein": 11,
+      "carbs": 7.8,
+      "fats": 18
     },
     "schemaVersion": 1
   },
@@ -6976,6 +10317,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421036266",
+    "name": "Tvaroh odtučněný",
+    "brand": "Nature´s promise",
+    "per100g": {
+      "kcal": 67,
+      "protein": 12,
+      "carbs": 4,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421036815",
+    "name": "Ovesné zapékané müsli",
+    "brand": "Nature's Promise",
+    "per100g": {
+      "kcal": 433,
+      "protein": 9,
+      "carbs": 62,
+      "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421036860",
+    "name": "Ovesné lupínky celozrnné křupavé",
+    "brand": "Nature's Promise",
+    "per100g": {
+      "kcal": 393,
+      "protein": 16,
+      "carbs": 63,
+      "fats": 6.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421036884",
     "name": "Buckwheat porridge",
     "brand": "Nature’s promise",
@@ -7047,6 +10424,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421039458",
+    "name": "Sypané müsli s ovocem",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 348,
+      "protein": 8.2,
+      "carbs": 66,
+      "fats": 3.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421039496",
+    "name": "Mandle natural",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 631,
+      "protein": 18.3,
+      "carbs": 19.2,
+      "fats": 52
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421039533",
     "name": "Eidam 45% polotvrdý",
     "brand": "Albert",
@@ -7055,6 +10456,30 @@
       "protein": 24,
       "carbs": 0,
       "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421040584",
+    "name": "niva",
+    "brand": "mlékárna otinoves",
+    "per100g": {
+      "kcal": 352,
+      "protein": 21.3,
+      "carbs": 1.5,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421040591",
+    "name": "Mix Vivace",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 29,
+      "protein": 1.3,
+      "carbs": 4.5,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -7083,6 +10508,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421041857",
+    "name": "Bio vital burger s červenými fazolemi",
+    "brand": "Nature's promise",
+    "per100g": {
+      "kcal": 235,
+      "protein": 15,
+      "carbs": 17,
+      "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421041925",
+    "name": "Albert Madeland light plátky",
+    "brand": "Madeta",
+    "per100g": {
+      "kcal": 286,
+      "protein": 30,
+      "carbs": 1,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421042106",
     "name": "Trvanlivé polotučné mléko bez laktózy",
     "brand": "Nature's Promise",
@@ -7091,6 +10540,42 @@
       "protein": 3.4,
       "carbs": 4.9,
       "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421042168",
+    "name": "Krémová polévka ze zeleného chřestu",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 47,
+      "protein": 0.9,
+      "carbs": 6.2,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421042205",
+    "name": "Tomatová polévka s italským sýrem",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 68,
+      "protein": 1.2,
+      "carbs": 4.8,
+      "fats": 4.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421042212",
+    "name": "Krémová polévka z dýně a mrkviček",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 49,
+      "protein": 0.5,
+      "carbs": 5.4,
+      "fats": 2.6
     },
     "schemaVersion": 1
   },
@@ -7131,6 +10616,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421044612",
+    "name": "Smetana ke šlehání 33%",
+    "brand": "moravia lacto",
+    "per100g": {
+      "kcal": 316,
+      "protein": 2.1,
+      "carbs": 2.7,
+      "fats": 33
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421045732",
     "name": "Tortelloni s ricottou a špenátem",
     "brand": "Verse pasta",
@@ -7151,6 +10648,18 @@
       "protein": 1.3,
       "carbs": 3.8,
       "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421047903",
+    "name": "Hummus s červenou řepou",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 215,
+      "protein": 6.5,
+      "carbs": 14,
+      "fats": 14
     },
     "schemaVersion": 1
   },
@@ -7191,6 +10700,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421051214",
+    "name": "Exotická polévka se zeleninou a houbami shitake",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 21,
+      "protein": 0.9,
+      "carbs": 0.6,
+      "fats": 1.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421051221",
+    "name": "Exotická polévka s cizrnou a kokosovým mlékem",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 70,
+      "protein": 2.8,
+      "carbs": 7.2,
+      "fats": 2.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421051528",
+    "name": "Bio lasagne a lá Bolognese",
+    "brand": "Nature's promise",
+    "per100g": {
+      "kcal": 128,
+      "protein": 6,
+      "carbs": 12,
+      "fats": 6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421051696",
+    "name": "Ovesné vločky celozrnné",
+    "brand": "Albert",
+    "per100g": {
+      "kcal": 364,
+      "protein": 12,
+      "carbs": 62,
+      "fats": 5.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421053232",
     "name": "Burger veggano",
     "brand": "Albert",
@@ -7223,6 +10780,18 @@
       "protein": 2.6,
       "carbs": 20,
       "fats": 5.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421054116",
+    "name": "Semolinové těstoviny s brokolicí a cuketou",
+    "brand": "Albert bistro",
+    "per100g": {
+      "kcal": 138,
+      "protein": 6.7,
+      "carbs": 17,
+      "fats": 4.5
     },
     "schemaVersion": 1
   },
@@ -7299,6 +10868,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8590421331422",
+    "name": "džus pomeranč 100 %",
+    "brand": "linea nivnice",
+    "per100g": {
+      "kcal": 45,
+      "protein": 0.5,
+      "carbs": 10.5,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8590421334195",
     "name": "Chléb lámankový",
     "brand": "Albertovo Pekařství",
@@ -7331,6 +10912,18 @@
       "protein": 10,
       "carbs": 3.5,
       "fats": 3.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8590421338049",
+    "name": "sójový špalek",
+    "brand": "Chocoland",
+    "per100g": {
+      "kcal": 421,
+      "protein": 11,
+      "carbs": 58,
+      "fats": 15
     },
     "schemaVersion": 1
   },
@@ -7431,6 +11024,27 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8591036550154",
+    "name": "jedenáctka",
+    "brand": "Zlatopramen",
+    "per100g": {
+      "kcal": 169
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8591036551502",
+    "name": "Tmavý",
+    "brand": "Breznak",
+    "per100g": {
+      "kcal": 35,
+      "protein": 0.25,
+      "carbs": 2.6,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8591119004482",
     "name": "Smoothie Strawberry",
     "brand": "Deva",
@@ -7491,6 +11105,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8592061077432",
+    "name": "Slepičí s nudlemi do hrnečku",
+    "brand": "Penny",
+    "per100g": {
+      "kcal": 344,
+      "protein": 9.3,
+      "carbs": 63,
+      "fats": 5.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8592061077470",
+    "name": "Hrášková do hrnečku",
+    "brand": "Penny",
+    "per100g": {
+      "kcal": 378,
+      "protein": 16,
+      "carbs": 49,
+      "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8592061077784",
     "name": "Rajčatová omáčka s bazalkou. Pasterizovaná.",
     "brand": "TuttoGusto",
@@ -7511,6 +11149,17 @@
       "protein": 6.2,
       "carbs": 65.4,
       "fats": 14.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8592084413668",
+    "name": "Sunárek do ručičky Jablko borůvka",
+    "brand": "hero",
+    "per100g": {
+      "kcal": 50,
+      "carbs": 11,
+      "fats": 0.2
     },
     "schemaVersion": 1
   },
@@ -7571,6 +11220,18 @@
       "protein": 7.7,
       "carbs": 47,
       "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8592368100420",
+    "name": "Moskevský chléb krájený",
+    "brand": "Odkolek",
+    "per100g": {
+      "kcal": 230,
+      "protein": 6.2,
+      "carbs": 45,
+      "fats": 1
     },
     "schemaVersion": 1
   },
@@ -7647,6 +11308,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8592711006775",
+    "name": "Ananasová šťáva",
+    "brand": "Globus",
+    "per100g": {
+      "kcal": 44,
+      "protein": 0.1,
+      "carbs": 11,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8592711006782",
     "name": "Jablečná šťáva",
     "brand": "Globus",
@@ -7707,6 +11380,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8592809002733",
+    "name": "RAW ovocné plátky jablko a švestka",
+    "brand": "ovocnak.cz",
+    "per100g": {
+      "kcal": 327.5,
+      "protein": 1.62,
+      "carbs": 79.11,
+      "fats": 0.51
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "85930599",
+    "name": "Termix maxi s příchutí pistácie",
+    "brand": "Mlékárna Kunín",
+    "per100g": {
+      "kcal": 119,
+      "protein": 6.7,
+      "carbs": 18.6,
+      "fats": 2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "85934023",
     "name": "Ovofit tvarohový dezert jahodový",
     "brand": "Milko",
@@ -7763,6 +11460,30 @@
       "protein": 20,
       "carbs": 1.8,
       "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593803314297",
+    "name": "balkánský sýr pikant",
+    "brand": "madeta",
+    "per100g": {
+      "kcal": 258,
+      "protein": 20,
+      "carbs": 1.8,
+      "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593803316048",
+    "name": "Blaťácké zlato",
+    "brand": "Madeta",
+    "per100g": {
+      "kcal": 329,
+      "protein": 21,
+      "carbs": 1.1,
+      "fats": 27
     },
     "schemaVersion": 1
   },
@@ -7935,6 +11656,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593807122553",
+    "name": "bílý jogurtový nápoj",
+    "brand": "Olma",
+    "per100g": {
+      "kcal": 60,
+      "protein": 3.2,
+      "carbs": 4,
+      "fats": 3.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593807210502",
+    "name": "Naše čerstvé bio mléko",
+    "brand": "Olma",
+    "per100g": {
+      "kcal": 68,
+      "protein": 3.3,
+      "carbs": 4.8,
+      "fats": 4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593807230814",
     "name": "Puding vanilka",
     "brand": "olma",
@@ -8095,6 +11840,30 @@
       "protein": 1,
       "carbs": 9.4,
       "fats": 1.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593807628376",
+    "name": "Oat vegan drink",
+    "brand": "Green Day",
+    "per100g": {
+      "kcal": 46,
+      "protein": 1,
+      "carbs": 6.6,
+      "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593807651022",
+    "name": "olmín pepř",
+    "brand": "olma",
+    "per100g": {
+      "kcal": 250,
+      "protein": 15,
+      "carbs": 1,
+      "fats": 21
     },
     "schemaVersion": 1
   },
@@ -8315,6 +12084,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593837260102",
+    "name": "Kuskus a červená čočka",
+    "brand": "Vitana",
+    "per100g": {
+      "kcal": 110,
+      "protein": 4.5,
+      "carbs": 19.9,
+      "fats": 1.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593837261680",
+    "name": "Rýžovo kukuřičná kaše",
+    "brand": "Vitana",
+    "per100g": {
+      "kcal": 212,
+      "protein": 4.7,
+      "carbs": 46,
+      "fats": 0.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593837268023",
     "name": "Mladý hrášek",
     "brand": "Znojmia",
@@ -8351,6 +12144,17 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593838918309",
+    "name": "Gurmánská hořčice",
+    "brand": "Hellmann’s",
+    "per100g": {
+      "kcal": 114,
+      "protein": 5.2,
+      "fats": 5.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593861269010",
     "name": "Tomato ketchup chilli",
     "brand": "Kand",
@@ -8359,6 +12163,18 @@
       "protein": 1.9,
       "carbs": 24,
       "fats": 0.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593861484000",
+    "name": "hořčice plnotučná",
+    "brand": "malva",
+    "per100g": {
+      "kcal": 100,
+      "protein": 5.6,
+      "carbs": 7.3,
+      "fats": 5.3
     },
     "schemaVersion": 1
   },
@@ -8384,6 +12200,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593868002832",
+    "name": "Non-alcoholic beer",
+    "brand": "Staropramen",
+    "per100g": {
+      "kcal": 12,
+      "protein": 0.8,
+      "carbs": 2.2,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593868004126",
     "name": "Cool Grep",
     "brand": "Staropramen",
@@ -8391,6 +12219,18 @@
       "kcal": 21,
       "protein": 0.5,
       "carbs": 4.9,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593868004768",
+    "name": "Nealko",
+    "brand": "Staropramen",
+    "per100g": {
+      "kcal": 12,
+      "protein": 0.788,
+      "carbs": 2.21,
       "fats": 0
     },
     "schemaVersion": 1
@@ -8431,6 +12271,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593893003736",
+    "name": "milánská směs v čokoládě",
+    "brand": "orion",
+    "per100g": {
+      "kcal": 448,
+      "protein": 6.5,
+      "carbs": 59,
+      "fats": 19
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893110540",
+    "name": "Fandíme našim bílá",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 560,
+      "protein": 8.2,
+      "carbs": 54,
+      "fats": 34
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893300040",
+    "name": "Kočičí jazýčky",
+    "brand": "Nestlé",
+    "per100g": {
+      "kcal": 565,
+      "protein": 5.1,
+      "carbs": 56.3,
+      "fats": 35
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593893310094",
     "name": "Lentilky MEGA",
     "brand": "Orion",
@@ -8455,6 +12331,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593893721944",
+    "name": "studentská pečeť mléčná s chutí hrušek",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 511,
+      "protein": 6.9,
+      "carbs": 56,
+      "fats": 28
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893729735",
+    "name": "Studentská pečeť mléčná",
+    "brand": "Nestlé",
+    "per100g": {
+      "kcal": 518,
+      "protein": 6.8,
+      "carbs": 54,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593893738201",
     "name": "kyselé žížalky",
     "brand": "Jojo",
@@ -8463,6 +12363,18 @@
       "protein": 3.62,
       "carbs": 85.5,
       "fats": 0.0725
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893740501",
+    "name": "Mixle Pixle Kyselé",
+    "brand": "Jojo",
+    "per100g": {
+      "kcal": 356,
+      "protein": 4.4,
+      "carbs": 84,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -8491,6 +12403,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593893757240",
+    "name": "Studentská pečeť hořká čokoláda arašídy a želé s příchutí vanilky",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 512,
+      "protein": 7.6,
+      "carbs": 51,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593893761988",
     "name": "Čokoláda krémová oříšková",
     "brand": "Orion",
@@ -8503,6 +12427,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8593893767003",
+    "name": "Sójové řezy brusinka",
+    "brand": "Nestlé",
+    "per100g": {
+      "kcal": 411,
+      "protein": 13,
+      "carbs": 51,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8593893768208",
     "name": "Margot s kokosem bílá",
     "brand": "Orion",
@@ -8511,6 +12447,30 @@
       "protein": 8.6,
       "carbs": 59,
       "fats": 20
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893769229",
+    "name": "Studentská pečeť mléčno hořká",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 515,
+      "protein": 6.4,
+      "carbs": 55,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893770256",
+    "name": "Želé s ovocnými a zeleninovými šťávami",
+    "brand": "Jojo",
+    "per100g": {
+      "kcal": 332,
+      "protein": 0.5,
+      "carbs": 81,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -8571,6 +12531,30 @@
       "protein": 3.5,
       "carbs": 75.7,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593893902312",
+    "name": "BeBe rodinné kakaové",
+    "brand": "Opavia",
+    "per100g": {
+      "kcal": 430,
+      "protein": 6.9,
+      "carbs": 71,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8593894803823",
+    "name": "Breakfast  Hazelnut & Honey",
+    "brand": "Belvita",
+    "per100g": {
+      "kcal": 446,
+      "protein": 7.5,
+      "carbs": 67,
+      "fats": 15
     },
     "schemaVersion": 1
   },
@@ -8659,6 +12643,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594000092322",
+    "name": "Chlebíčky rýžové celozrnné",
+    "brand": "RACIO",
+    "per100g": {
+      "kcal": 387,
+      "protein": 8.2,
+      "carbs": 79.5,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594000092360",
     "name": "Chlebíčky rýžové se sójou",
     "brand": "Racio",
@@ -8679,6 +12675,18 @@
       "protein": 7,
       "carbs": 62.2,
       "fats": 24
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594000097525",
+    "name": "Špaldové chlebíčky",
+    "brand": "Billa",
+    "per100g": {
+      "kcal": 370,
+      "protein": 15,
+      "carbs": 69,
+      "fats": 2.09999990463257
     },
     "schemaVersion": 1
   },
@@ -8731,6 +12739,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594000771333",
+    "name": "kremžská hořčice",
+    "brand": "Interfood",
+    "per100g": {
+      "kcal": 7,
+      "protein": 0,
+      "carbs": 0.8,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594000784456",
     "name": "Jaroměřický strouhaný tvaroh",
     "brand": "Jaroměřická mlékárna",
@@ -8763,6 +12783,18 @@
       "protein": 13,
       "carbs": 68,
       "fats": 6.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594000940227",
+    "name": "nealkoholické šumivé víno",
+    "brand": "bohemia sekt",
+    "per100g": {
+      "kcal": 26,
+      "protein": 0.5,
+      "carbs": 6,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -8803,6 +12835,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594001030132",
+    "name": "Gurmán ostrý kečup",
+    "brand": "Otma",
+    "per100g": {
+      "kcal": 150,
+      "protein": 1.6,
+      "carbs": 34.4,
+      "fats": 0.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001040100",
+    "name": "Mrož jahodový s tvarohem v bílé polevě",
+    "brand": "Prima zmrzlina",
+    "per100g": {
+      "kcal": 245,
+      "protein": 2.4,
+      "carbs": 25.9,
+      "fats": 14.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594001041497",
     "name": "Jahodový sorbet Mrož",
     "brand": "Prima",
@@ -8827,6 +12883,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594001048434",
+    "name": "Pegas zmrzlina smetanová Almond",
+    "brand": "Bidfood",
+    "per100g": {
+      "kcal": 381,
+      "protein": 4.5,
+      "carbs": 32.4,
+      "fats": 25.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594001049882",
     "name": "Premium Caramel Glazed Hazelnut",
     "brand": "Prima",
@@ -8835,6 +12903,18 @@
       "protein": 3.6,
       "carbs": 34,
       "fats": 24
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001130030",
+    "name": "Graham tyčinky",
+    "brand": "Pekárna Král",
+    "per100g": {
+      "kcal": 389,
+      "protein": 14,
+      "carbs": 61,
+      "fats": 7
     },
     "schemaVersion": 1
   },
@@ -8875,6 +12955,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594001174461",
+    "name": "BIO selský jogurt bílý",
+    "brand": "Hollandia",
+    "per100g": {
+      "kcal": 63.3365200665,
+      "protein": 3.5,
+      "carbs": 3.8,
+      "fats": 3.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594001174836",
     "name": "BIO selský jogurt jahody",
     "brand": "Hollandia",
@@ -8882,6 +12974,30 @@
       "kcal": 91,
       "protein": 2.9,
       "carbs": 13
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001174843",
+    "name": "BIO selský jogurt borůvky",
+    "brand": "Hollandia",
+    "per100g": {
+      "kcal": 86,
+      "protein": 2.9,
+      "carbs": 12,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001176182",
+    "name": "BIO selský jogurt meruňka",
+    "brand": "Hollandia",
+    "per100g": {
+      "kcal": 88,
+      "protein": 2.9,
+      "carbs": 12,
+      "fats": 3.1
     },
     "schemaVersion": 1
   },
@@ -8970,6 +13086,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594001178469",
+    "name": "Selský jogurt švestky se skořicí",
+    "brand": "Hollandia",
+    "per100g": {
+      "kcal": 89,
+      "protein": 3.1,
+      "carbs": 12,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594001213733",
     "name": "Crispy pillows",
     "brand": "dexi",
@@ -9030,6 +13158,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594001407347",
+    "name": "meduňka neperlivá",
+    "brand": "Dobrá voda",
+    "per100g": {
+      "kcal": 16,
+      "protein": 0,
+      "carbs": 3.9,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594001562039",
     "name": "Obilné mušličky s kakaem",
     "brand": "Bonavita",
@@ -9050,6 +13190,18 @@
       "protein": 5.5,
       "carbs": 36,
       "fats": 2.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594001696482",
+    "name": "Kečup sladký",
+    "brand": "Hamé",
+    "per100g": {
+      "kcal": 126,
+      "protein": 0.8,
+      "carbs": 29.9,
+      "fats": 0.4
     },
     "schemaVersion": 1
   },
@@ -9102,6 +13254,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594002210199",
+    "name": "Eskymo",
+    "brand": "Algida",
+    "per100g": {
+      "kcal": 300,
+      "protein": 2.5,
+      "carbs": 27,
+      "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594002278823",
     "name": "Fusilli Celozrnné",
     "brand": "Adriana",
@@ -9138,6 +13302,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594002311926",
+    "name": "Müsli tyčinka meruňka",
+    "brand": "Fit",
+    "per100g": {
+      "kcal": 360,
+      "protein": 4.8,
+      "carbs": 67,
+      "fats": 6.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594002313500",
     "name": "Křupavé müsli s čokoládou a lískovým ořechem",
     "brand": "Fit",
@@ -9146,6 +13322,18 @@
       "protein": 7.9,
       "carbs": 64,
       "fats": 17
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594002314590",
+    "name": "Natural energy Smoothie Hazelnut, Chocolate and Green tea",
+    "brand": "Fit",
+    "per100g": {
+      "kcal": 398,
+      "protein": 11,
+      "carbs": 51,
+      "fats": 15
     },
     "schemaVersion": 1
   },
@@ -9270,6 +13458,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594003022715",
+    "name": "Smetanový jogurt čokoláda",
+    "brand": "Z Valašska",
+    "per100g": {
+      "kcal": 129,
+      "protein": 2.7,
+      "carbs": 11.3,
+      "fats": 8.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594003022937",
     "name": "Valašská kyška 1,5%",
     "brand": "Z Valašska",
@@ -9330,6 +13530,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594003029042",
+    "name": "BIO Jogurt bílý",
+    "brand": "Z Valašska",
+    "per100g": {
+      "kcal": 64,
+      "protein": 4.4,
+      "carbs": 4.2,
+      "fats": 3.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003029585",
+    "name": "Kefírové mléko citron bezový květ",
+    "brand": "Z Valašska",
+    "per100g": {
+      "kcal": 56,
+      "protein": 2.70000004768372,
+      "carbs": 9.39999961853027,
+      "fats": 0.800000011920929
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594003211034",
     "name": "Choceňský smetanový jogurt",
     "brand": "Choceňská mlékárna",
@@ -9338,6 +13562,30 @@
       "protein": 3.5,
       "carbs": 3.8,
       "fats": 10.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003212031",
+    "name": "tradiční pomazánkové s česnekem a bylinami",
+    "brand": "Choceňská mlékárna",
+    "per100g": {
+      "kcal": 314,
+      "protein": 3.3,
+      "carbs": 5.5,
+      "fats": 31
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003218521",
+    "name": "Smetanový jogurt borůvkový",
+    "brand": "Ranko",
+    "per100g": {
+      "kcal": 136,
+      "protein": 3,
+      "carbs": 12,
+      "fats": 8.4
     },
     "schemaVersion": 1
   },
@@ -9354,6 +13602,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594003420603",
+    "name": "Seitan guláš",
+    "brand": "Sunfood",
+    "per100g": {
+      "kcal": 77,
+      "protein": 6.8,
+      "carbs": 6.6,
+      "fats": 2.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594003420672",
     "name": "Svíčková omáčka se seitanem",
     "brand": "Sunfood",
@@ -9362,6 +13622,30 @@
       "protein": 7.1,
       "carbs": 6.1,
       "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003421808",
+    "name": "Karbanátky",
+    "brand": "Sunfood",
+    "per100g": {
+      "kcal": 207,
+      "protein": 14,
+      "carbs": 13,
+      "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003421921",
+    "name": "Bio polenta",
+    "brand": "Sunfood",
+    "per100g": {
+      "kcal": 84,
+      "protein": 2.2,
+      "carbs": 18,
+      "fats": 0.51
     },
     "schemaVersion": 1
   },
@@ -9398,6 +13682,18 @@
       "protein": 0.3,
       "carbs": 81.7,
       "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594003463488",
+    "name": "Zátkova vaječná kolínka malá",
+    "brand": "Europasta",
+    "per100g": {
+      "kcal": 364,
+      "protein": 12,
+      "carbs": 72,
+      "fats": 2.3
     },
     "schemaVersion": 1
   },
@@ -9546,6 +13842,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594004471109",
+    "name": "Tudlee chedar style",
+    "brand": "Tudlee",
+    "per100g": {
+      "kcal": 300,
+      "protein": 3.6,
+      "carbs": 13,
+      "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594004471178",
     "name": "Tudlee plátky originál",
     "brand": "Tudlee",
@@ -9590,6 +13898,18 @@
       "protein": 2.6,
       "carbs": 13,
       "fats": 5.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594004491305",
+    "name": "Indiánská rýže",
+    "brand": "Lagris",
+    "per100g": {
+      "kcal": 347,
+      "protein": 12,
+      "carbs": 68,
+      "fats": 1.1
     },
     "schemaVersion": 1
   },
@@ -9654,6 +13974,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594004770189",
+    "name": "Zde žije jogurt borůvkový",
+    "brand": "Agrola",
+    "per100g": {
+      "kcal": 96,
+      "protein": 5.5,
+      "carbs": 12,
+      "fats": 2.79999995231628
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594004770714",
+    "name": "Borůvkový jogurt",
+    "brand": "Agrola",
+    "per100g": {
+      "kcal": 400,
+      "protein": 5.5,
+      "carbs": 12,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594004772503",
     "name": "Jogurt meruňka",
     "brand": "Agrola",
@@ -9662,6 +14006,42 @@
       "protein": 5.5,
       "carbs": 12,
       "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594004999382",
+    "name": "Majestic Tea",
+    "brand": "BioGena",
+    "per100g": {
+      "kcal": 50,
+      "protein": 0.2,
+      "carbs": 0.4,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594005164642",
+    "name": "Královské oplatky - ananasové",
+    "brand": "Petr Havránek",
+    "per100g": {
+      "kcal": 417,
+      "protein": 8.5,
+      "carbs": 78.8,
+      "fats": 6.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594005430327",
+    "name": "Kopečková zmrzlina čokoláda",
+    "brand": "Pinko",
+    "per100g": {
+      "kcal": 89,
+      "protein": 1.8,
+      "carbs": 10.3,
+      "fats": 4.7
     },
     "schemaVersion": 1
   },
@@ -9712,6 +14092,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594005790032",
+    "name": "Kokosový banánový",
+    "brand": "Kalma",
+    "per100g": {
+      "kcal": 90,
+      "protein": 0.4,
+      "carbs": 11.7,
+      "fats": 4.7
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594005790049",
     "name": "Lískooříškový dezert",
     "brand": "Kalma",
@@ -9720,6 +14112,18 @@
       "protein": 0.9,
       "carbs": 14,
       "fats": 6.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594005790469",
+    "name": "Ďobáčky",
+    "brand": "Kalma",
+    "per100g": {
+      "kcal": 243,
+      "protein": 22,
+      "carbs": 9.2,
+      "fats": 13
     },
     "schemaVersion": 1
   },
@@ -9856,6 +14260,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594006840019",
+    "name": "Zahuštěné neslazené mléko GRAND",
+    "brand": "Tatra",
+    "per100g": {
+      "kcal": 158,
+      "protein": 7.9,
+      "carbs": 11,
+      "fats": 9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594006840842",
     "name": "Farmářské máslo",
     "brand": "Tatra",
@@ -9911,6 +14327,30 @@
       "kcal": 63,
       "protein": 11,
       "carbs": 3.4,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594006880046",
+    "name": "Poleva s Balzamikovým octem z Modeny",
+    "brand": "Burg Ocet",
+    "per100g": {
+      "kcal": 236,
+      "protein": 1,
+      "carbs": 55,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594006880091",
+    "name": "kvasný jablečný",
+    "brand": "Bzenecký ocet",
+    "per100g": {
+      "kcal": 18,
+      "protein": 0.5,
+      "carbs": 0.8,
       "fats": 0.5
     },
     "schemaVersion": 1
@@ -10000,6 +14440,40 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594008047416",
+    "name": "Pomerančový džus",
+    "brand": "Toma",
+    "per100g": {
+      "kcal": 44,
+      "carbs": 10
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594008161068",
+    "name": "Naturka Caribic",
+    "brand": "Natural Bars",
+    "per100g": {
+      "kcal": 616,
+      "protein": 7,
+      "carbs": 36,
+      "fats": 46
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594008165134",
+    "name": "Hero - banán v čokoládě",
+    "brand": "Natural Bars",
+    "per100g": {
+      "kcal": 410,
+      "protein": 7,
+      "carbs": 56,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594008270012",
     "name": "Originál",
     "brand": "Sedlčanský hermelín",
@@ -10044,6 +14518,18 @@
       "protein": 5.5,
       "carbs": 4.2,
       "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594008272023",
+    "name": "S nasekanou pažitkou",
+    "brand": "Lučina",
+    "per100g": {
+      "kcal": 242,
+      "protein": 6.4,
+      "carbs": 4.6,
+      "fats": 22
     },
     "schemaVersion": 1
   },
@@ -10167,6 +14653,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594008351988",
+    "name": "Kakao",
+    "brand": "Pribinacek",
+    "per100g": {
+      "kcal": 235,
+      "protein": 7,
+      "carbs": 16,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594008352015",
     "name": "Hermelín lahůdková paprika",
     "brand": "Král sýrů",
@@ -10215,6 +14713,17 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594008916149",
+    "name": "Javorový sirup",
+    "brand": "pro-bio",
+    "per100g": {
+      "kcal": 360,
+      "carbs": 89,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594008986425",
     "name": "Extra vlaknina jablečná",
     "brand": "Vitto Vital",
@@ -10251,6 +14760,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594009165188",
+    "name": "Perník bez lepku",
+    "brand": "Labeta",
+    "per100g": {
+      "kcal": 365,
+      "protein": 3.3,
+      "carbs": 85,
+      "fats": 0.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594009165751",
     "name": "Kakaové muffiny s kousky čokolády",
     "brand": "Labeta",
@@ -10280,6 +14801,18 @@
     "brand": "Krušovice",
     "per100g": {
       "kcal": 44
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594010190162",
+    "name": "cereální kaše Nomina pohanková",
+    "brand": "Nominal",
+    "per100g": {
+      "kcal": 370,
+      "protein": 14,
+      "carbs": 70,
+      "fats": 2.6
     },
     "schemaVersion": 1
   },
@@ -10400,6 +14933,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594010512254",
+    "name": "Konšpenátek s konopným semínkem a špenátem",
+    "brand": "Veto",
+    "per100g": {
+      "kcal": 245,
+      "protein": 9.2,
+      "carbs": 9.8,
+      "fats": 18.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594010512278",
     "name": "Hmm...burger",
     "brand": "Vegi steak",
@@ -10408,6 +14953,30 @@
       "protein": 11.9,
       "carbs": 4.7,
       "fats": 6.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594010512292",
+    "name": "Veganské rostlinné klobásy",
+    "brand": "Veto",
+    "per100g": {
+      "kcal": 156,
+      "protein": 6.7,
+      "carbs": 5.2,
+      "fats": 11.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594010512315",
+    "name": "Rostlinná alternativa sýru halloumi",
+    "brand": "Veto",
+    "per100g": {
+      "kcal": 162,
+      "protein": 4.4,
+      "carbs": 5.5,
+      "fats": 13.3
     },
     "schemaVersion": 1
   },
@@ -10580,6 +15149,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594012981621",
+    "name": "Robi plátky",
+    "brand": "Eurobi",
+    "per100g": {
+      "kcal": 138,
+      "protein": 24,
+      "carbs": 5.9,
+      "fats": 2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594012981638",
     "name": "Robi nudličky",
     "brand": "Eurobi",
@@ -10676,6 +15257,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594014861877",
+    "name": "Carbosnack zelené jablko gel",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 175,
+      "protein": 1.3,
+      "carbs": 42.1,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014862102",
+    "name": "Fat Direct Shot 2 in 1",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594014863581",
     "name": "HIGH PROTEIN CHIPS, chipsy, slané",
     "brand": "Nutrend",
@@ -10700,6 +15305,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594014864816",
+    "name": "Evoq  chocolate and black currant",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 353,
+      "protein": 35,
+      "carbs": 19,
+      "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594014864847",
     "name": "Evoq  - slaný karamel",
     "brand": "Nutrend",
@@ -10708,6 +15325,18 @@
       "protein": 35,
       "carbs": 18.5,
       "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014864861",
+    "name": "Protein porridge čokoláda",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 363,
+      "protein": 30,
+      "carbs": 45.1,
+      "fats": 4.7
     },
     "schemaVersion": 1
   },
@@ -10724,6 +15353,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594014866797",
+    "name": "Premium protein bar - cookies cream",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 391,
+      "protein": 50,
+      "carbs": 21,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594014866803",
     "name": "PREMIUM PROTEIN BAR, čokoláda",
     "brand": "nutrend",
@@ -10736,6 +15377,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594014866810",
+    "name": "Premium protein bar - Kokos",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 392,
+      "protein": 50,
+      "carbs": 21.299999237061,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594014867695",
     "name": "De-nuts pack mix příchutí",
     "brand": "Nutrend",
@@ -10744,6 +15397,18 @@
       "protein": 19.1,
       "carbs": 17.5,
       "fats": 42.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014867763",
+    "name": "BE SLIM 30% čokoláda + kokos",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 358,
+      "protein": 30,
+      "carbs": 24,
+      "fats": 15
     },
     "schemaVersion": 1
   },
@@ -10779,6 +15444,40 @@
       "kcal": 376,
       "protein": 84,
       "carbs": 5.19999980926514,
+      "fats": 2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014868524",
+    "name": "ISO Whey Prozero čokoládové brownies",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 375,
+      "protein": 84
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014868531",
+    "name": "ISO WHEY PROZERO, jahodový cheesecake",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 94,
+      "protein": 21,
+      "carbs": 1.29999995231628,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014868548",
+    "name": "ISO Whey prozero pudinková vanilka",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 375,
+      "protein": 84,
+      "carbs": 5,
       "fats": 2
     },
     "schemaVersion": 1
@@ -10820,6 +15519,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594014869408",
+    "name": "100% Whey Protein cookies cream",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 383,
+      "protein": 76,
+      "carbs": 8,
+      "fats": 5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014869712",
+    "name": "100% WHEY protein, mango+vanilka",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 373,
+      "protein": 73,
+      "carbs": 3.33,
+      "fats": 5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594014869835",
     "name": "Delicious Vegan 60% Protein latte macchiato",
     "brand": "Nutrend",
@@ -10851,6 +15574,18 @@
       "kcal": 479,
       "protein": 13,
       "carbs": 54,
+      "fats": 23
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594014992175",
+    "name": "Makovky",
+    "brand": "Vest",
+    "per100g": {
+      "kcal": 493,
+      "protein": 10,
+      "carbs": 59,
       "fats": 23
     },
     "schemaVersion": 1
@@ -10904,6 +15639,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594019382100",
+    "name": "Proteinová kaše jahodová",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 378.461538461539,
+      "protein": 20,
+      "carbs": 49.2307692307692,
+      "fats": 6.15384615384616
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594019384265",
     "name": "Müsli srdíčka",
     "brand": "Semix",
@@ -10940,6 +15687,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594020973502",
+    "name": "Sendvič tuňák a vejce",
+    "brand": "Simply fresh",
+    "per100g": {
+      "kcal": 268,
+      "protein": 11.9,
+      "carbs": 29.4,
+      "fats": 11.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594020973533",
     "name": "Sendvič šunka a syr",
     "brand": "Simply Fresh",
@@ -10964,6 +15723,29 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594022692005",
+    "name": "Švestkové ovocné knedlíky",
+    "brand": "Václav Nedvěd",
+    "per100g": {
+      "kcal": 226,
+      "protein": 5.3,
+      "carbs": 50.1,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594022692036",
+    "name": "Borůvkové knedlíky",
+    "per100g": {
+      "kcal": 225,
+      "protein": 5.3,
+      "carbs": 49.6,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594022692067",
     "name": "Ovocné knedlíky jahodové",
     "per100g": {
@@ -10971,6 +15753,18 @@
       "protein": 5.3,
       "carbs": 49.6,
       "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594024490104",
+    "name": "Jogurt bílý",
+    "brand": "La Formaggeria",
+    "per100g": {
+      "kcal": 72.3,
+      "protein": 5.7,
+      "carbs": 4.5,
+      "fats": 3.5
     },
     "schemaVersion": 1
   },
@@ -11083,6 +15877,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594025572427",
+    "name": "BIO bezlepková tyčinka s čočkou",
+    "brand": "cereabar",
+    "per100g": {
+      "kcal": 509,
+      "protein": 13,
+      "carbs": 42,
+      "fats": 32
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594025572847",
+    "name": "FLAPJACK banán a karamel",
+    "brand": "Cerea",
+    "per100g": {
+      "kcal": 411,
+      "protein": 7.7,
+      "carbs": 56,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594025572960",
     "name": "New Bar tyčinka tvaroh & citron",
     "brand": "Cerea",
@@ -11167,6 +15985,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594026510299",
+    "name": "Bezvaječné těstoviny",
+    "brand": "Gašpo",
+    "per100g": {
+      "kcal": 372,
+      "protein": 11.42,
+      "carbs": 78.8,
+      "fats": 1.26
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594027770517",
     "name": "Energy bar, coconut & caffeine",
     "brand": "MIG 21",
@@ -11227,6 +16057,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594028192431",
+    "name": "Ovesný Nápoj sušený",
+    "brand": "TOPNATUR",
+    "per100g": {
+      "kcal": 469,
+      "protein": 2.9,
+      "carbs": 63,
+      "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594028193766",
     "name": "Probio kaše banán s čokoládou",
     "brand": "Topnatur",
@@ -11259,6 +16101,18 @@
       "protein": 4.1,
       "carbs": 60,
       "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594028194077",
+    "name": "Probio kaše kokos s belgickou čokoládou",
+    "brand": "TOPNATUR",
+    "per100g": {
+      "kcal": 423,
+      "protein": 4,
+      "carbs": 58,
+      "fats": 18
     },
     "schemaVersion": 1
   },
@@ -11319,6 +16173,30 @@
       "protein": 3.28,
       "carbs": 66.8,
       "fats": 12.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594032600243",
+    "name": "Jablečný mošt s dužinou",
+    "brand": "Moštovna Lažany",
+    "per100g": {
+      "kcal": 49,
+      "protein": 0.4,
+      "carbs": 10.9,
+      "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594032990788",
+    "name": "Rumcajs Korbáčik sýr pařený",
+    "brand": "Milkeffekt",
+    "per100g": {
+      "kcal": 257,
+      "protein": 26.9,
+      "carbs": 1.8,
+      "fats": 15.8
     },
     "schemaVersion": 1
   },
@@ -11395,6 +16273,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594035222657",
+    "name": "Sedlácká polévka se zeleninou",
+    "brand": "Simply fresh",
+    "per100g": {
+      "kcal": 64,
+      "protein": 2.7,
+      "carbs": 9.4,
+      "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594036020634",
+    "name": "Vídeňské párky lahodné chuti jemně kořeněné",
+    "brand": "Ponnath",
+    "per100g": {
+      "kcal": 257,
+      "protein": 12.5,
+      "carbs": 0.4,
+      "fats": 22.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594038132014",
     "name": "Bramborový knedlík",
     "brand": "Lef",
@@ -11414,6 +16316,54 @@
       "protein": 7.1,
       "carbs": 66,
       "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594038912876",
+    "name": "Kukuřičné lupínky",
+    "brand": "Rej",
+    "per100g": {
+      "kcal": 390,
+      "protein": 7.5,
+      "carbs": 82.5,
+      "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594038915716",
+    "name": "Lískooříškové sušenky",
+    "brand": "Rej",
+    "per100g": {
+      "kcal": 436,
+      "protein": 7,
+      "carbs": 56.6,
+      "fats": 18.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594038915754",
+    "name": "Celozrnné čokoládové sušenky",
+    "brand": "Rej",
+    "per100g": {
+      "kcal": 436,
+      "protein": 7,
+      "carbs": 56.6,
+      "fats": 18.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594038975956",
+    "name": "KRUPKY Soufflé de maïs",
+    "brand": "Krupky",
+    "per100g": {
+      "kcal": 508,
+      "protein": 5.5,
+      "carbs": 55,
+      "fats": 27
     },
     "schemaVersion": 1
   },
@@ -11438,6 +16388,18 @@
       "protein": 11,
       "carbs": 76,
       "fats": 4.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594042910141",
+    "name": "Staročeské brambůrky",
+    "brand": "Golden Snack",
+    "per100g": {
+      "kcal": 554,
+      "protein": 5.8,
+      "carbs": 46.6,
+      "fats": 37
     },
     "schemaVersion": 1
   },
@@ -11571,6 +16533,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594046600543",
+    "name": "Avokádový olej",
+    "brand": "Health Link",
+    "per100g": {
+      "kcal": 805,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 91
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594046842271",
     "name": "Hrachový snack",
     "brand": "Family snack",
@@ -11643,6 +16617,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594052880212",
+    "name": "Hořká čokoláda pecičky",
+    "brand": "Bio nebio",
+    "per100g": {
+      "kcal": 551,
+      "protein": 7.2,
+      "carbs": 45,
+      "fats": 36
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594052881165",
     "name": "Bílá moruše",
     "brand": "Bio nebio",
@@ -11651,6 +16637,30 @@
       "protein": 11,
       "carbs": 60,
       "fats": 2.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594052881530",
+    "name": "Moje sušenky čokoládové",
+    "brand": "bio nebio",
+    "per100g": {
+      "kcal": 460,
+      "protein": 8.1,
+      "carbs": 57.9,
+      "fats": 20.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594052881547",
+    "name": "Moje sušenky špaldové s kokosem",
+    "brand": "Bio nebio",
+    "per100g": {
+      "kcal": 498,
+      "protein": 7,
+      "carbs": 52,
+      "fats": 28
     },
     "schemaVersion": 1
   },
@@ -11675,6 +16685,18 @@
       "protein": 17,
       "carbs": 57,
       "fats": 3.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594057630898",
+    "name": "Tonic",
+    "brand": "River",
+    "per100g": {
+      "kcal": 34,
+      "protein": 0,
+      "carbs": 8,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -11715,6 +16737,78 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594060004723",
+    "name": "Protein Pizza",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 292,
+      "protein": 32,
+      "carbs": 15.9,
+      "fats": 10.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060005560",
+    "name": "Zero Hero 31% Protein Bar, Peanut-Butter-Cake",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 395,
+      "protein": 33,
+      "carbs": 31,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060005751",
+    "name": "ZeroPro Protein, Bílá čokoláda",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 381,
+      "protein": 90,
+      "carbs": 3.6,
+      "fats": 0.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060006383",
+    "name": "Dunky Zero  Hazelnut Cream",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 364,
+      "protein": 12.5,
+      "carbs": 39.3,
+      "fats": 17.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060007595",
+    "name": "SLIM ISO WHEY PROTEIN",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 75,
+      "protein": 90,
+      "carbs": 1,
+      "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060910062",
+    "name": "Jemná krupička dehydratovaná",
+    "brand": "Ramill",
+    "per100g": {
+      "kcal": 343,
+      "protein": 11,
+      "carbs": 71,
+      "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594060910185",
     "name": "Mouka hladká pšeničná",
     "brand": "Babiččina volba",
@@ -11723,6 +16817,30 @@
       "protein": 12,
       "carbs": 69,
       "fats": 1.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594060910246",
+    "name": "Jemná krupička",
+    "brand": "Babiččina volba",
+    "per100g": {
+      "kcal": 343,
+      "protein": 11,
+      "carbs": 71,
+      "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594061398999",
+    "name": "Sweet mix",
+    "brand": "Polabská zelenina",
+    "per100g": {
+      "kcal": 26,
+      "protein": 1.2,
+      "carbs": 3.3,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -11775,6 +16893,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594063294237",
+    "name": "Sušená červená řepa",
+    "brand": "Fruiko",
+    "per100g": {
+      "kcal": 327,
+      "protein": 10.9,
+      "carbs": 74.7,
+      "fats": 1.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594064471095",
+    "name": "Ovesná svačinka s belgickou čokoládou",
+    "brand": "FAMMILKY s.r.o.",
+    "per100g": {
+      "kcal": 506,
+      "protein": 5.3,
+      "carbs": 65.3,
+      "fats": 24.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594064471200",
+    "name": "Ovesná svačinka s kokosem",
+    "brand": "FAMMILKY s.r.o.",
+    "per100g": {
+      "kcal": 501,
+      "protein": 5.11,
+      "carbs": 60.92,
+      "fats": 25.46
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594065062780",
     "name": "Cibule smažená",
     "brand": "Dafo",
@@ -11795,6 +16949,18 @@
       "protein": 1,
       "carbs": 1,
       "fats": 82
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594067540033",
+    "name": "Originální hospodské brambůrky česnekové",
+    "brand": "Jan Zykmund",
+    "per100g": {
+      "kcal": 532,
+      "protein": 6.9,
+      "carbs": 51.9,
+      "fats": 32.2
     },
     "schemaVersion": 1
   },
@@ -11835,6 +17001,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594068262194",
+    "name": "Bio ovocná tyčinka",
+    "brand": "Bombus",
+    "per100g": {
+      "kcal": 401,
+      "protein": 5,
+      "carbs": 48.2,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594068262200",
     "name": "Raw bio energy black currant and cocoa",
     "brand": "Bombus",
@@ -11843,6 +17021,18 @@
       "protein": 3.6,
       "carbs": 51,
       "fats": 17.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594068262224",
+    "name": "Raw bio energy peanuts & cocoa",
+    "brand": "Bombus",
+    "per100g": {
+      "kcal": 428,
+      "protein": 12.4,
+      "carbs": 42.2,
+      "fats": 21.2
     },
     "schemaVersion": 1
   },
@@ -11925,6 +17115,54 @@
       "protein": 3.70000004768372,
       "carbs": 13,
       "fats": 1.79999995231628
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594071210144",
+    "name": "Čoko-kokosky s fair trade čokoládou",
+    "brand": "Bio zemanka",
+    "per100g": {
+      "kcal": 510,
+      "protein": 6,
+      "carbs": 49,
+      "fats": 32
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594071210960",
+    "name": "Čokoládové hrudky s pohankou",
+    "brand": "Bio Zemanka",
+    "per100g": {
+      "kcal": 442,
+      "protein": 7.2,
+      "carbs": 53,
+      "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594071211349",
+    "name": "Kávové sušenky s kokosem",
+    "brand": "Bio Zemanka",
+    "per100g": {
+      "kcal": 492,
+      "protein": 6.3,
+      "carbs": 52,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594071213138",
+    "name": "Lollipopz kakaové bio sušenky",
+    "brand": "Bio Zemanka",
+    "per100g": {
+      "kcal": 418,
+      "protein": 5.2,
+      "carbs": 44,
+      "fats": 25
     },
     "schemaVersion": 1
   },
@@ -12060,6 +17298,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594071651183",
+    "name": "Ořechové medové kuličky",
+    "brand": "Marlenka",
+    "per100g": {
+      "kcal": 577,
+      "protein": 8,
+      "carbs": 44,
+      "fats": 41
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594072663413",
     "name": "Tradiční české nudle",
     "brand": "Dobšické těstoviny",
@@ -12068,6 +17318,18 @@
       "protein": 12,
       "carbs": 78,
       "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594073170613",
+    "name": "Carnitine activity drink with caffeine  - červený pomeranč",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -12156,6 +17418,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594073173379",
+    "name": "De-Nuts tyčinka pistácie, slunečnice",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 554,
+      "protein": 19.1,
+      "carbs": 17.5,
+      "fats": 42.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594073177032",
     "name": "Carnitine Activity Drink  s kofeinem lesní směs",
     "brand": "Nutrend",
@@ -12176,6 +17450,18 @@
       "protein": 32,
       "carbs": 26,
       "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594073178572",
+    "name": "UNISPORT Zero - hořký citrón",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 49,
+      "protein": 1.5,
+      "carbs": 0.4,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -12204,6 +17490,54 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594073179999",
+    "name": "Flap Jack Gluten Free Čokoláda, kokos",
+    "brand": "Nutrend",
+    "per100g": {
+      "kcal": 401,
+      "protein": 5.4,
+      "carbs": 58.3,
+      "fats": 14.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594155023318",
+    "name": "Crispins Cizrnové lívanečky",
+    "brand": "extrudo",
+    "per100g": {
+      "kcal": 359,
+      "protein": 10,
+      "carbs": 71,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594155031641",
+    "name": "Crispins křupavá tyčinka s příchutí pizza",
+    "brand": "extrudo",
+    "per100g": {
+      "kcal": 344,
+      "protein": 8,
+      "carbs": 66,
+      "fats": 4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594155032945",
+    "name": "Rýžová mouka",
+    "brand": "Extrudo",
+    "per100g": {
+      "kcal": 351,
+      "protein": 9,
+      "carbs": 74,
+      "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594155035106",
     "name": "Rice crisps",
     "brand": "Knuspi",
@@ -12212,6 +17546,18 @@
       "protein": 9.89999961853027,
       "carbs": 59.5,
       "fats": 1.39999997615814
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594155344031",
+    "name": "Čočkový salát s cukrem a s",
+    "brand": "Mr. Grico",
+    "per100g": {
+      "kcal": 137,
+      "protein": 7.8,
+      "carbs": 20.8,
+      "fats": 3.5
     },
     "schemaVersion": 1
   },
@@ -12288,6 +17634,114 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594158981110",
+    "name": "oplatky s karamelovou náplní",
+    "brand": "ps bohemia",
+    "per100g": {
+      "kcal": 458,
+      "protein": 4.1,
+      "carbs": 26,
+      "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159532557",
+    "name": "FlapJack Oat Bar Double Chocolate",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 467,
+      "protein": 5.5,
+      "carbs": 52.8,
+      "fats": 25.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159532892",
+    "name": "Whey Pro Fusion Protein, Jahoda",
+    "brand": "amix",
+    "per100g": {
+      "kcal": 373,
+      "protein": 75,
+      "carbs": 7.8,
+      "fats": 4.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159533615",
+    "name": "McPro protein bar",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 380,
+      "protein": 26.1,
+      "carbs": 42.1,
+      "fats": 11.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159533714",
+    "name": "Protein bread with seeds",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 230,
+      "protein": 22.7,
+      "carbs": 8.4,
+      "fats": 11.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159537422",
+    "name": "CFM Nitro Protein Isolate, Double Chocolate",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 379,
+      "protein": 90,
+      "carbs": 2.1,
+      "fats": 1.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159537439",
+    "name": "CFM Nitro Protein Isolate, mléčná vanilka",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 379,
+      "protein": 90,
+      "carbs": 2.1,
+      "fats": 1.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159538061",
+    "name": "Oat Mash Bílá čokoláda",
+    "brand": "Amix",
+    "per100g": {
+      "kcal": 339.60000610352,
+      "protein": 8.8000001907349,
+      "carbs": 59,
+      "fats": 5.5999999046326
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159720275",
+    "name": "Rýže kulatozrnná loupaná",
+    "brand": "Arax",
+    "per100g": {
+      "kcal": 361,
+      "protein": 7.4,
+      "carbs": 78,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594159720732",
     "name": "Kuskus celozrnný",
     "brand": "arax",
@@ -12308,6 +17762,18 @@
       "protein": 13.9,
       "carbs": 50,
       "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594159721647",
+    "name": "Bulgur drcená pšenice",
+    "brand": "Arax",
+    "per100g": {
+      "kcal": 328,
+      "protein": 12.3,
+      "carbs": 57.6,
+      "fats": 1.4
     },
     "schemaVersion": 1
   },
@@ -12360,6 +17826,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594162160396",
+    "name": "Farmářský jogurt slazený s jahodami",
+    "brand": "Farma rodiny Němcovy",
+    "per100g": {
+      "kcal": 90,
+      "protein": 2.9,
+      "carbs": 12.5,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594162160419",
+    "name": "Farmářský jogurt slazený s meruňkami",
+    "brand": "Farma rodiny Němcovy",
+    "per100g": {
+      "kcal": 90,
+      "protein": 2.9,
+      "carbs": 12.5,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594162160457",
     "name": "Tvarohový krém slazený borůvkami",
     "brand": "Farma rodiny Němcovy",
@@ -12368,6 +17858,18 @@
       "protein": 6.1,
       "carbs": 14,
       "fats": 7.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594162855490",
+    "name": "Krekry skořice",
+    "brand": "Kompek",
+    "per100g": {
+      "kcal": 477,
+      "protein": 23,
+      "carbs": 31,
+      "fats": 26
     },
     "schemaVersion": 1
   },
@@ -12384,6 +17886,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594164030703",
+    "name": "Bio ovčí jogurt",
+    "brand": "Farma Pěnčín",
+    "per100g": {
+      "kcal": 80,
+      "protein": 4.8,
+      "carbs": 3.9,
+      "fats": 5.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594165352033",
     "name": "Bio sirup rakytník",
     "brand": "Koldokol",
@@ -12392,6 +17906,18 @@
       "protein": 0.4,
       "carbs": 58,
       "fats": 0.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594165690111",
+    "name": "Tofu bez příchutě",
+    "brand": "golden soya",
+    "per100g": {
+      "kcal": 86,
+      "protein": 8.4,
+      "carbs": 0.09,
+      "fats": 5.65
     },
     "schemaVersion": 1
   },
@@ -12466,6 +17992,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594174360067",
+    "name": "kyslikova voda",
+    "brand": "Oxylife Water",
+    "per100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594174610247",
     "name": "Jogurtový koktejl kakao",
     "brand": "Bio Vavřinec",
@@ -12490,6 +18028,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594174612203",
+    "name": "Farmářský jogurt jahoda",
+    "brand": "Bio Vavřinec",
+    "per100g": {
+      "kcal": 80,
+      "protein": 2.7,
+      "carbs": 10.3,
+      "fats": 3.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594175100037",
+    "name": "Frische Soja Vollm*lch Carob",
+    "brand": "Soyka",
+    "per100g": {
+      "kcal": 51,
+      "protein": 3.2,
+      "carbs": 5.2,
+      "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594175100204",
     "name": "Čerstvý sójový jog*rt natural",
     "brand": "Soyka",
@@ -12498,6 +18060,18 @@
       "protein": 3.1,
       "carbs": 3.3,
       "fats": 1.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594175100273",
+    "name": "Bio soyky kus kokosový",
+    "brand": "Soyka",
+    "per100g": {
+      "kcal": 353,
+      "protein": 7.8,
+      "carbs": 56.5,
+      "fats": 10.7
     },
     "schemaVersion": 1
   },
@@ -12622,6 +18196,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594180070172",
+    "name": "Ovocná tyčinka s mrkví",
+    "brand": "Pharmind",
+    "per100g": {
+      "kcal": 308,
+      "protein": 3.4,
+      "carbs": 76.2,
+      "fats": 0.39
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594180070219",
+    "name": "Ovocná tyčinka s rakytníkem",
+    "brand": "Pharmind",
+    "per100g": {
+      "kcal": 266,
+      "protein": 2.6,
+      "carbs": 65.1,
+      "fats": 0.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594180070226",
     "name": "Ovocná tyčinka s klikvou a malinami",
     "brand": "Pharmind",
@@ -12630,6 +18228,18 @@
       "protein": 2.6,
       "carbs": 65.9,
       "fats": 0.57
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594180070578",
+    "name": "Ovocné kostičky WOW Fruit mix 3 chutí",
+    "brand": "Pharmind",
+    "per100g": {
+      "kcal": 328,
+      "protein": 3.2,
+      "carbs": 69,
+      "fats": 2.9
     },
     "schemaVersion": 1
   },
@@ -12658,6 +18268,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594180920019",
+    "name": "Asijské tofu ve vlastní šťávě",
+    "brand": "Dang long",
+    "per100g": {
+      "kcal": 101,
+      "protein": 10.4,
+      "carbs": 2.4,
+      "fats": 5.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594181280013",
     "name": "Hummus Original",
     "brand": "I love Hummus",
@@ -12666,6 +18288,18 @@
       "protein": 6.8,
       "carbs": 5.1,
       "fats": 11.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594181280037",
+    "name": "Tahini",
+    "brand": "I love hummus",
+    "per100g": {
+      "kcal": 686.5,
+      "protein": 24.1,
+      "carbs": 1.6,
+      "fats": 63.1
     },
     "schemaVersion": 1
   },
@@ -12814,6 +18448,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594184271070",
+    "name": "Bezlepkový banana bread",
+    "brand": "Koláčkova pekárna",
+    "per100g": {
+      "kcal": 261,
+      "protein": 4.1,
+      "carbs": 35.2,
+      "fats": 11.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594184273005",
     "name": "Žitné crackers",
     "brand": "řemeslná koláčkova pekárna",
@@ -12834,6 +18480,18 @@
       "protein": 8.6,
       "carbs": 45.9,
       "fats": 41.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594184670477",
+    "name": "Zeleninový vývar",
+    "brand": "Living spoon",
+    "per100g": {
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fats": 0.1
     },
     "schemaVersion": 1
   },
@@ -12896,6 +18554,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594187890032",
+    "name": "Mražený krém mango",
+    "brand": "Fresca Paleta",
+    "per100g": {
+      "kcal": 77,
+      "protein": 0.3,
+      "carbs": 17,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594187890100",
     "name": "Mražený krém - malina",
     "brand": "Fresca paleta",
@@ -12904,6 +18574,30 @@
       "protein": 0.5,
       "carbs": 19,
       "fats": 0.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594188130182",
+    "name": "kešu 100 % pražené mělněné",
+    "brand": "šufánek",
+    "per100g": {
+      "kcal": 574,
+      "protein": 15,
+      "carbs": 33,
+      "fats": 46
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594188130380",
+    "name": "granola butter",
+    "brand": "šufánek",
+    "per100g": {
+      "kcal": 617,
+      "protein": 16,
+      "carbs": 35,
+      "fats": 45
     },
     "schemaVersion": 1
   },
@@ -12928,6 +18622,42 @@
       "protein": 10.3999996185,
       "carbs": 44.2,
       "fats": 30.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594188250033",
+    "name": "Čerstvý mandlový nápoj vanilka",
+    "brand": "Optimistic",
+    "per100g": {
+      "kcal": 58,
+      "protein": 1.7,
+      "carbs": 4.6,
+      "fats": 3.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594188250040",
+    "name": "Ledová káva",
+    "brand": "Optimistic",
+    "per100g": {
+      "kcal": 58,
+      "protein": 1.7,
+      "carbs": 4.6,
+      "fats": 3.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594188250101",
+    "name": "Probiotický mandlový dezert natural",
+    "brand": "Optimistic",
+    "per100g": {
+      "kcal": 129,
+      "protein": 4.3,
+      "carbs": 5.2,
+      "fats": 10.2
     },
     "schemaVersion": 1
   },
@@ -13028,6 +18758,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594188450839",
+    "name": "Bio opékané mořské řasy",
+    "brand": "sense coco",
+    "per100g": {
+      "kcal": 500,
+      "protein": 20,
+      "carbs": 20,
+      "fats": 40
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594189140333",
     "name": "Houbová omáčka s tymiánem",
     "brand": "Seneb",
@@ -13036,6 +18778,18 @@
       "protein": 2.1,
       "carbs": 5.5,
       "fats": 3.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594189231024",
+    "name": "white Marion",
+    "brand": "delikomat",
+    "per100g": {
+      "kcal": 442,
+      "protein": 9,
+      "carbs": 57,
+      "fats": 19
     },
     "schemaVersion": 1
   },
@@ -13096,6 +18850,30 @@
       "protein": 19,
       "carbs": 4.8,
       "fats": 10
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594191740231",
+    "name": "Sójové mini párečky",
+    "brand": "Well Well",
+    "per100g": {
+      "kcal": 194,
+      "protein": 18,
+      "carbs": 3.8,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594191742433",
+    "name": "Soya Sausages barbecue",
+    "brand": "Well Well",
+    "per100g": {
+      "kcal": 216,
+      "protein": 13.8,
+      "carbs": 7.9,
+      "fats": 13.4
     },
     "schemaVersion": 1
   },
@@ -13208,6 +18986,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594193390083",
+    "name": "Sirup meduňka lékařská",
+    "brand": "Bartonik",
+    "per100g": {
+      "kcal": 164,
+      "protein": 0.3,
+      "carbs": 52,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594193390090",
+    "name": "Sirup černý bez - květ",
+    "brand": "Bartonik",
+    "per100g": {
+      "kcal": 164,
+      "protein": 0.3,
+      "carbs": 52,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594193390106",
+    "name": "Sirup černý bez - plod",
+    "brand": "Bartonik",
+    "per100g": {
+      "kcal": 247,
+      "protein": 0.1,
+      "carbs": 53,
+      "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594193390205",
     "name": "Malinový sirup",
     "brand": "Bartonik",
@@ -13234,6 +19048,18 @@
   {
     "ean": "8594194010027",
     "name": "100% přírodní jablečné hranolky",
+    "brand": "Vitaman",
+    "per100g": {
+      "kcal": 364,
+      "protein": 2,
+      "carbs": 82.68,
+      "fats": 0.89
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594194010041",
+    "name": "Bio jablečné hranolky sušené",
     "brand": "Vitaman",
     "per100g": {
       "kcal": 364,
@@ -13280,12 +19106,72 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594196810229",
+    "name": "Rizz rýs zelený pepř",
+    "brand": "Rýsárna",
+    "per100g": {
+      "kcal": 287,
+      "protein": 3.2,
+      "carbs": 24,
+      "fats": 19.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594197510043",
+    "name": "Smažené bramborové lupínky s červenou řepou a mátou",
+    "brand": "Enjoy chips",
+    "per100g": {
+      "kcal": 483,
+      "protein": 3.1,
+      "carbs": 50,
+      "fats": 29
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594197510050",
+    "name": "Smažené bramborové lupínky s červenou paprikou a jarní cibulkou",
+    "brand": "via degli alberia",
+    "per100g": {
+      "kcal": 473,
+      "protein": 3.3,
+      "carbs": 53,
+      "fats": 27
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594197510081",
+    "name": "Chipsy se špenátem a česnekem",
+    "brand": "Enjoy Chips",
+    "per100g": {
+      "kcal": 373,
+      "protein": 5.9,
+      "carbs": 78,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594197600010",
     "name": "kombucha GingeraVe",
     "brand": "Magu",
     "per100g": {
       "kcal": 25,
       "carbs": 5.30000019073486
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594199371635",
+    "name": "Protein Bar",
+    "brand": "Vilgain",
+    "per100g": {
+      "kcal": 364,
+      "protein": 31,
+      "carbs": 13,
+      "fats": 19
     },
     "schemaVersion": 1
   },
@@ -13350,6 +19236,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8594202020017",
+    "name": "Super green pizza",
+    "brand": "Pizza natura",
+    "per100g": {
+      "kcal": 225,
+      "protein": 2.83,
+      "carbs": 38.5,
+      "fats": 5.92
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8594207020555",
     "name": "trojhránky rajče a bazalka",
     "brand": "Snakk",
@@ -13379,6 +19277,16 @@
     "brand": "Plzeňský prazdroj",
     "per100g": {
       "kcal": 40
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8594404008639",
+    "name": "pivo 10",
+    "brand": "Gambrinus",
+    "per100g": {
+      "kcal": 37,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -13463,6 +19371,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595002108806",
+    "name": "Bio sójový dezert s vanilkovou příchutí",
+    "brand": "Provamel",
+    "per100g": {
+      "kcal": 91,
+      "protein": 3,
+      "carbs": 15.5,
+      "fats": 1.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595002109537",
     "name": "Gou! Mandle  bez cukru",
     "brand": "Danone",
@@ -13499,6 +19419,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595003412810",
+    "name": "ketchup natur",
+    "brand": "Spak",
+    "per100g": {
+      "kcal": 113,
+      "protein": 1.33,
+      "carbs": 24,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595003415477",
+    "name": "Vegan Mayo",
+    "brand": "Spak",
+    "per100g": {
+      "kcal": 470,
+      "protein": 0.5,
+      "carbs": 4.8,
+      "fats": 50
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595003415491",
+    "name": "Tatarská omáčka bez vajec",
+    "brand": "Spak",
+    "per100g": {
+      "kcal": 380,
+      "protein": 0.5,
+      "carbs": 5.1,
+      "fats": 40
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595003416870",
     "name": "Kečup se sušenými rajčaty",
     "brand": "Spak",
@@ -13507,6 +19463,18 @@
       "protein": 1.8,
       "carbs": 25,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595006323649",
+    "name": "Kuřecí šunka",
+    "brand": "clever",
+    "per100g": {
+      "kcal": 96,
+      "protein": 20,
+      "carbs": 0,
+      "fats": 1.7
     },
     "schemaVersion": 1
   },
@@ -13547,6 +19515,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595008111800",
+    "name": "Maliny kompot",
+    "brand": "Caballero",
+    "per100g": {
+      "kcal": 90,
+      "protein": 0.36,
+      "carbs": 21,
+      "fats": 0.29
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595008112616",
     "name": "Jahodový kompot",
     "brand": "Alibona",
@@ -13579,6 +19559,18 @@
       "protein": 7,
       "carbs": 8.1,
       "fats": 8.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595008847334",
+    "name": "máslo z Vysočiny",
+    "brand": "Lacrum",
+    "per100g": {
+      "kcal": 738,
+      "protein": 0.6,
+      "carbs": 0.7,
+      "fats": 63
     },
     "schemaVersion": 1
   },
@@ -13619,6 +19611,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595016516383",
+    "name": "Tofu burger s BIO pečivem",
+    "brand": "Country life",
+    "per100g": {
+      "kcal": 222,
+      "protein": 9.7,
+      "carbs": 22,
+      "fats": 9.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595016544577",
     "name": "Karbanátky se slunečnicovými semínky",
     "brand": "Country Life",
@@ -13627,6 +19631,18 @@
       "protein": 5,
       "carbs": 26,
       "fats": 5.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595016552640",
+    "name": "bujón zeleninový",
+    "brand": "country life",
+    "per100g": {
+      "kcal": 6,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fats": 0.4
     },
     "schemaVersion": 1
   },
@@ -13651,6 +19667,18 @@
       "protein": 6,
       "carbs": 37,
       "fats": 43
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595019904415",
+    "name": "Ruská zmrzlina extra smetanová",
+    "brand": "Tipafrost",
+    "per100g": {
+      "kcal": 213,
+      "protein": 2.1,
+      "carbs": 20,
+      "fats": 14
     },
     "schemaVersion": 1
   },
@@ -13691,6 +19719,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595021605720",
+    "name": "Emmental strouhaný",
+    "brand": "Président",
+    "per100g": {
+      "kcal": 368,
+      "protein": 29,
+      "carbs": 0,
+      "fats": 28
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595021607847",
+    "name": "Emmental dlouhá doba zrání",
+    "brand": "Président",
+    "per100g": {
+      "kcal": 369,
+      "protein": 27,
+      "carbs": 0.5,
+      "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595021607854",
     "name": "Cheddar",
     "brand": "Président",
@@ -13723,6 +19775,30 @@
       "protein": 0.1,
       "carbs": 91,
       "fats": 0.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595043303284",
+    "name": "Maxi Nuta kešu a ořechy",
+    "brand": "Rupa",
+    "per100g": {
+      "kcal": 814,
+      "protein": 14,
+      "carbs": 42,
+      "fats": 36
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595043304809",
+    "name": "Bluberries muesli bar with yoghurt coating",
+    "brand": "Penny",
+    "per100g": {
+      "kcal": 403,
+      "protein": 3.3,
+      "carbs": 72,
+      "fats": 10
     },
     "schemaVersion": 1
   },
@@ -13775,6 +19851,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595072600255",
+    "name": "Originál Puding",
+    "brand": "Dr.Oetker",
+    "per100g": {
+      "kcal": 100,
+      "protein": 3.2,
+      "carbs": 17,
+      "fats": 1.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595072600477",
     "name": "Naturamyl Puding vanilkový",
     "brand": "Dr.Oetker",
@@ -13783,6 +19871,18 @@
       "protein": 2.9,
       "carbs": 15,
       "fats": 1.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595072603942",
+    "name": "Créme Olé",
+    "brand": "Dr. Oetker",
+    "per100g": {
+      "kcal": 95,
+      "protein": 2.8,
+      "carbs": 18,
+      "fats": 1.3
     },
     "schemaVersion": 1
   },
@@ -13943,6 +20043,15 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595122335076",
+    "name": "Raspberry Cup - Scented Fruit Tea",
+    "brand": "Valdemar Grešík",
+    "per100g": {
+      "kcal": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595139787868",
     "name": "Tuňák se zeleninou pomazánka",
     "brand": "EASY Sandwich",
@@ -14011,6 +20120,18 @@
       "protein": 0.69,
       "carbs": 14.53,
       "fats": 0.34
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595139798284",
+    "name": "Veggie kuskusové karbanátky se šťouchanými karbanátky",
+    "brand": "Simply fresh",
+    "per100g": {
+      "kcal": 153,
+      "protein": 5.7,
+      "carbs": 21.7,
+      "fats": 4.4
     },
     "schemaVersion": 1
   },
@@ -14134,6 +20255,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595190710355",
+    "name": "Hummus chilli",
+    "brand": "Gastro",
+    "per100g": {
+      "kcal": 206,
+      "protein": 4.5,
+      "carbs": 14,
+      "fats": 15
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595190711123",
     "name": "Pařížský salát",
     "brand": "Gastro",
@@ -14182,6 +20315,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595190711222",
+    "name": "Pomazánka s červenou řepou",
+    "brand": "Gastro",
+    "per100g": {
+      "kcal": 139,
+      "protein": 4.3,
+      "carbs": 4,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595190711246",
     "name": "Česneková pomazánka",
     "brand": "Gastro",
@@ -14206,6 +20351,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595190711284",
+    "name": "Budapešťská pomazánka",
+    "brand": "Gastro",
+    "per100g": {
+      "kcal": 235,
+      "protein": 7.5,
+      "carbs": 4.3,
+      "fats": 22
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595190712700",
     "name": "Rybí salát s jogurtem",
     "brand": "Gran mare",
@@ -14226,6 +20383,30 @@
       "protein": 4.2,
       "carbs": 7.5,
       "fats": 28
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595199901266",
+    "name": "Těstoviny na lasagne",
+    "brand": "Cano",
+    "per100g": {
+      "kcal": 357,
+      "protein": 12,
+      "carbs": 71,
+      "fats": 1.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595206500062",
+    "name": "Frankfurter Vegandeli",
+    "brand": "Salva natura",
+    "per100g": {
+      "kcal": 216,
+      "protein": 18.8,
+      "carbs": 8.97,
+      "fats": 11.5
     },
     "schemaVersion": 1
   },
@@ -14302,6 +20483,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595229916215",
+    "name": "Ovesná kaše s malinami",
+    "brand": "Emco",
+    "per100g": {
+      "kcal": 375,
+      "protein": 12,
+      "carbs": 67,
+      "fats": 4.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595229916376",
     "name": "100% ovoce s višněmi",
     "brand": "emco",
@@ -14350,6 +20543,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595229917762",
+    "name": "Müsli mrkev a jablko",
+    "brand": "Emco",
+    "per100g": {
+      "kcal": 351,
+      "protein": 11,
+      "carbs": 63,
+      "fats": 3.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595229917809",
     "name": "Mysli křupavé kousky karamelu",
     "brand": "Emco",
@@ -14374,6 +20579,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595229918653",
+    "name": "Super kaše chia semínka a jahody",
+    "brand": "Emco",
+    "per100g": {
+      "kcal": 372,
+      "protein": 14,
+      "carbs": 62,
+      "fats": 5.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595229919254",
+    "name": "Super kaše - chia semínka a jahody",
+    "brand": "Emco",
+    "per100g": {
+      "kcal": 372,
+      "protein": 14,
+      "carbs": 62,
+      "fats": 5.6
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595229921554",
     "name": "prémiové sušené maso sriracha",
     "brand": "Jim Jerky",
@@ -14382,6 +20611,18 @@
       "protein": 42,
       "carbs": 9.1,
       "fats": 9.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595229921677",
+    "name": "Super dortík s malinami",
+    "brand": "Emco",
+    "per100g": {
+      "kcal": 394,
+      "protein": 8,
+      "carbs": 27,
+      "fats": 27
     },
     "schemaVersion": 1
   },
@@ -14506,6 +20747,16 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595231208629",
+    "name": "Royal Crown Cola",
+    "brand": "Kofola",
+    "per100g": {
+      "kcal": 45.2,
+      "carbs": 11.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595231209220",
     "name": "Koktejl sirup hřejivé srdce",
     "brand": "Jupí",
@@ -14513,6 +20764,17 @@
       "kcal": 334,
       "protein": 0.5,
       "carbs": 82,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595231209329",
+    "name": "Royal crown cola",
+    "per100g": {
+      "kcal": 186,
+      "protein": 5,
+      "carbs": 11,
       "fats": 0.5
     },
     "schemaVersion": 1
@@ -14624,6 +20886,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595240908572",
+    "name": "Medvědí česnek s avokádem",
+    "brand": "Druid",
+    "per100g": {
+      "kcal": 260,
+      "protein": 2.6,
+      "carbs": 5.8,
+      "fats": 23.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595241506449",
     "name": "Jahody ve sladkém nálevu",
     "brand": "Marinna",
@@ -14636,6 +20910,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595241510347",
+    "name": "Sardine în suc propriu și ulei vegetal",
+    "brand": "SeaSide",
+    "per100g": {
+      "kcal": 209,
+      "protein": 24,
+      "carbs": 0.8,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595241515083",
+    "name": "Tuňák",
+    "brand": "Giana",
+    "per100g": {
+      "kcal": 97,
+      "protein": 21,
+      "carbs": 1,
+      "fats": 1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595241515205",
     "name": "Tuňák kousky v rajčatové omáčce",
     "brand": "Giana",
@@ -14644,6 +20942,18 @@
       "protein": 15,
       "carbs": 1.9,
       "fats": 5.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595241515281",
+    "name": "Tuňák steak v pikantním oleji",
+    "brand": "Gaston",
+    "per100g": {
+      "kcal": 372,
+      "protein": 20,
+      "carbs": 1,
+      "fats": 32
     },
     "schemaVersion": 1
   },
@@ -14680,6 +20990,18 @@
       "protein": 1.3,
       "carbs": 5.8,
       "fats": 3.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595241522746",
+    "name": "Kokosový krém",
+    "brand": "Asia Time",
+    "per100g": {
+      "kcal": 210,
+      "protein": 2.2,
+      "carbs": 5.2,
+      "fats": 20
     },
     "schemaVersion": 1
   },
@@ -14768,6 +21090,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595245312350",
+    "name": "Erythritol sladidlo",
+    "brand": "4slim",
+    "per100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 99,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595245318079",
     "name": "Čekankový topping s čokoládovu příchutí",
     "brand": "4Slim",
@@ -14839,6 +21173,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595564503392",
+    "name": "Zapékané křupavé müsli White Chocolate&Keks",
+    "brand": "Bona Vita",
+    "per100g": {
+      "kcal": 464,
+      "protein": 7.7,
+      "carbs": 65,
+      "fats": 18
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595564503613",
+    "name": "Crunchy musli s jahodami",
+    "brand": "Bonavita",
+    "per100g": {
+      "kcal": 458,
+      "protein": 7.5,
+      "carbs": 68,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595564505099",
     "name": "Zapékané müsli s malinami a příchutěmi vanilky",
     "brand": "Bonavita",
@@ -14871,6 +21229,18 @@
       "protein": 6.4,
       "carbs": 64,
       "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595564509103",
+    "name": "Jeníkův lup",
+    "brand": "Bona Vita",
+    "per100g": {
+      "kcal": 435,
+      "protein": 8.3,
+      "carbs": 63,
+      "fats": 15
     },
     "schemaVersion": 1
   },
@@ -14919,6 +21289,18 @@
       "protein": 11,
       "carbs": 67,
       "fats": 2.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595564513674",
+    "name": "křupavé MÜSLI tři druhy čokolády CELOZRNNÉ",
+    "brand": "CRIP CROP",
+    "per100g": {
+      "kcal": 470,
+      "protein": 7.6,
+      "carbs": 64,
+      "fats": 19
     },
     "schemaVersion": 1
   },
@@ -15007,6 +21389,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595573400187",
+    "name": "Kukuřičné cornies s hořkou čokoládou",
+    "brand": "Racio",
+    "per100g": {
+      "kcal": 478,
+      "protein": 6.8,
+      "carbs": 58.8,
+      "fats": 22.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595582425010",
     "name": "Zeleninové špaldoto",
     "brand": "Probio",
@@ -15015,6 +21409,18 @@
       "protein": 15,
       "carbs": 58,
       "fats": 3.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595588202493",
+    "name": "Oatjogu pure banan gruszka mango + zboża",
+    "brand": "Go vege",
+    "per100g": {
+      "kcal": 78,
+      "protein": 0.8,
+      "carbs": 12.5,
+      "fats": 2.4
     },
     "schemaVersion": 1
   },
@@ -15115,6 +21521,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595612180087",
+    "name": "metro dezert",
+    "brand": "Michelské pekárny",
+    "per100g": {
+      "kcal": 438,
+      "protein": 2.5,
+      "carbs": 70,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595617902295",
     "name": "Kus-kus rýžový",
     "brand": "Natural Jihlava",
@@ -15123,6 +21541,18 @@
       "protein": 8.8,
       "carbs": 80,
       "fats": 1.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595617908419",
+    "name": "ČOXY - hořká čokoláda",
+    "brand": "Natural Jihlava",
+    "per100g": {
+      "kcal": 526.9,
+      "protein": 7.7,
+      "carbs": 33.5,
+      "fats": 43.6
     },
     "schemaVersion": 1
   },
@@ -15175,6 +21605,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595624799918",
+    "name": "Rybí prsty předsmažené",
+    "brand": "Nowaco",
+    "per100g": {
+      "kcal": 230,
+      "protein": 13,
+      "carbs": 19,
+      "fats": 11
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595627307424",
     "name": "Tapioka malina",
     "brand": "Zdravé stravování",
@@ -15207,6 +21649,18 @@
       "protein": 0.4,
       "carbs": 24,
       "fats": 3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595627310356",
+    "name": "Lasagne se šmakounem",
+    "brand": "Zdravé stravování",
+    "per100g": {
+      "kcal": 122,
+      "protein": 6.8,
+      "carbs": 9.8,
+      "fats": 5.8
     },
     "schemaVersion": 1
   },
@@ -15471,11 +21925,47 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595646204728",
+    "name": "Pyré ovoce zelenina",
+    "brand": "Relax",
+    "per100g": {
+      "kcal": 75,
+      "protein": 0.8,
+      "carbs": 16,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595646208276",
     "name": "Vital",
     "brand": "Drwit",
     "per100g": {
       "kcal": 2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595648614013",
+    "name": "Sušené hovězí maso",
+    "brand": "Adventure menu",
+    "per100g": {
+      "kcal": 310,
+      "protein": 64,
+      "carbs": 0,
+      "fats": 4.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595648614020",
+    "name": "Sušené krůtí maso jerky",
+    "brand": "Adventure Menu",
+    "per100g": {
+      "kcal": 379,
+      "protein": 76.8,
+      "carbs": 0,
+      "fats": 3.1
     },
     "schemaVersion": 1
   },
@@ -15528,6 +22018,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595657101795",
+    "name": "LIFEBAR  Ořechy a vanilka",
+    "brand": "Lifefood",
+    "per100g": {
+      "kcal": 366,
+      "protein": 21,
+      "carbs": 44,
+      "fats": 10
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595657102426",
     "name": "Lifebar in choco Plum",
     "brand": "Lifefood",
@@ -15536,6 +22038,18 @@
       "protein": 7.9,
       "carbs": 26,
       "fats": 23
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595657102457",
+    "name": "Lifebar Orange in Choco",
+    "brand": "lifefood",
+    "per100g": {
+      "kcal": 477,
+      "protein": 12,
+      "carbs": 32,
+      "fats": 31
     },
     "schemaVersion": 1
   },
@@ -15588,6 +22102,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8595674632777",
+    "name": "Sójový granulát",
+    "brand": "Allnature",
+    "per100g": {
+      "kcal": 412,
+      "protein": 41,
+      "carbs": 7,
+      "fats": 21
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8595674634962",
     "name": "Arašídové máslo Hořká čokoláda",
     "brand": "Allnature",
@@ -15608,6 +22134,90 @@
       "protein": 24.4,
       "carbs": 21.3,
       "fats": 49.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674900395",
+    "name": "Staročeský žitný perník",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 282,
+      "protein": 5.2,
+      "carbs": 51,
+      "fats": 5.1
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674901514",
+    "name": "Ovesný hrníček",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 408,
+      "protein": 14,
+      "carbs": 51,
+      "fats": 14
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674904317",
+    "name": "Proteinová kaše vanilková",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 386,
+      "protein": 26,
+      "carbs": 52,
+      "fats": 6.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674905888",
+    "name": "Klíčené ovesné vločky",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 388,
+      "protein": 16,
+      "carbs": 63,
+      "fats": 6.3
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674908100",
+    "name": "Kaše z klíčeného ovsa a quinoy s jablkem a skořicí",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 365,
+      "protein": 15.2,
+      "carbs": 69.2,
+      "fats": 5.38
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674908124",
+    "name": "Ovsánek natural",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 90,
+      "protein": 4.2,
+      "carbs": 13,
+      "fats": 1.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8595674908162",
+    "name": "Ovsánek meruňka",
+    "brand": "Semix",
+    "per100g": {
+      "kcal": 108,
+      "protein": 3.6,
+      "carbs": 19,
+      "fats": 1.3
     },
     "schemaVersion": 1
   },
@@ -15864,6 +22474,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "85957282",
+    "name": "Margot tropical mojito",
+    "brand": "Orion",
+    "per100g": {
+      "kcal": 434,
+      "protein": 4.9,
+      "carbs": 66,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "85959804",
+    "name": "Můj Skyr bílý",
+    "brand": "Milko",
+    "per100g": {
+      "kcal": 67,
+      "protein": 12,
+      "carbs": 4,
+      "fats": 0.3
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8596172000112",
     "name": "Mana",
     "brand": "Heaven Labs",
@@ -15872,6 +22506,18 @@
       "protein": 6.3,
       "carbs": 10.7,
       "fats": 6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8596172002161",
+    "name": "ManaBurger",
+    "brand": "Mana",
+    "per100g": {
+      "kcal": 231,
+      "protein": 15,
+      "carbs": 3,
+      "fats": 17
     },
     "schemaVersion": 1
   },
@@ -15888,6 +22534,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8596172002192",
+    "name": "Mark 6 RTD",
+    "brand": "Mana",
+    "per100g": {
+      "kcal": 100,
+      "protein": 5.1,
+      "carbs": 8.4,
+      "fats": 4.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8596172003434",
     "name": "origin",
     "brand": "Heaven labs",
@@ -15896,6 +22554,18 @@
       "protein": 5.1,
       "carbs": 8.4,
       "fats": 4.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8596299007414",
+    "name": "Granolove lesní plody",
+    "brand": "Natu",
+    "per100g": {
+      "kcal": 430,
+      "protein": 13,
+      "carbs": 46,
+      "fats": 20
     },
     "schemaVersion": 1
   },
@@ -15972,6 +22642,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8690526065953",
+    "name": "Adicto Go Prăjitură cu cremă de cacao și glazură de cacao",
+    "brand": "Eti",
+    "per100g": {
+      "kcal": 432,
+      "protein": 4.8,
+      "carbs": 59,
+      "fats": 20.1
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8690635151561",
     "name": "Tat Acılı Ketçap",
     "brand": "Tat",
@@ -16008,6 +22690,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8710604758710",
+    "name": "Červená čočka po indicku s rýží a ječmenem",
+    "brand": "Knorr",
+    "per100g": {
+      "kcal": 154,
+      "protein": 4.2,
+      "carbs": 16,
+      "fats": 7.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8711200398539",
+    "name": "Ketchup",
+    "brand": "Hellmann's",
+    "per100g": {
+      "kcal": 107,
+      "protein": 4,
+      "carbs": 24,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8711200477319",
     "name": "Mayonesa pimienta rosa",
     "brand": "Hellmann's",
@@ -16028,6 +22734,18 @@
       "protein": 1.3,
       "carbs": 27,
       "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8711327331075",
+    "name": "White Chocolate Almond",
+    "brand": "Magnum",
+    "per100g": {
+      "kcal": 339,
+      "protein": 4.5,
+      "carbs": 32,
+      "fats": 21
     },
     "schemaVersion": 1
   },
@@ -16068,6 +22786,42 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8711327488427",
+    "name": "Zmrzlina na bázi rostlinných složek s vanilkovou příchutí, mandlovou pastou",
+    "brand": "Unilever",
+    "per100g": {
+      "kcal": 176,
+      "protein": 1.2,
+      "carbs": 28,
+      "fats": 6.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8712100392221",
+    "name": "Jemně pálivý kečup",
+    "brand": "Hellmann's",
+    "per100g": {
+      "kcal": 5,
+      "protein": 6,
+      "carbs": 5,
+      "fats": 5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8712566055098",
+    "name": "Polévka s liškami",
+    "brand": "Knorr",
+    "per100g": {
+      "kcal": 62,
+      "protein": 0.9,
+      "carbs": 5.6,
+      "fats": 3.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8712566118854",
     "name": "Žampionová polévka",
     "brand": "Knorr",
@@ -16076,6 +22830,18 @@
       "protein": 0.5,
       "carbs": 3.6,
       "fats": 1.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8712566205912",
+    "name": "Bohatý zeleninový bujón",
+    "brand": "Knorr",
+    "per100g": {
+      "kcal": 6,
+      "protein": 0.5,
+      "carbs": 0.5,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -16104,6 +22870,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8717624004438",
+    "name": "Korean rice cake",
+    "brand": "NBH",
+    "per100g": {
+      "kcal": 211,
+      "protein": 3.3,
+      "carbs": 48.9,
+      "fats": 0.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8717703638578",
     "name": "Glasnudeln",
     "brand": "longkou",
@@ -16112,6 +22890,18 @@
       "protein": 0,
       "carbs": 86,
       "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8718300877384",
+    "name": "Vegánsky &quot;Schwarna Kebab&quot; na báze sójového proteínu",
+    "brand": "Vivera",
+    "per100g": {
+      "kcal": 150,
+      "protein": 15,
+      "carbs": 5.3,
+      "fats": 6.9
     },
     "schemaVersion": 1
   },
@@ -16148,6 +22938,18 @@
       "protein": 9.4,
       "carbs": 23,
       "fats": 55
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8718692789760",
+    "name": "Veganské mleté",
+    "brand": "Unilever",
+    "per100g": {
+      "kcal": 125,
+      "protein": 24,
+      "carbs": 2.9,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -16196,6 +22998,18 @@
       "protein": 5.2,
       "carbs": 14,
       "fats": 3.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8718907117029",
+    "name": "Soja ongezoet vleuglje kokos",
+    "brand": "Albert Heijn",
+    "per100g": {
+      "kcal": 50,
+      "protein": 4.5,
+      "carbs": 0,
+      "fats": 3.5
     },
     "schemaVersion": 1
   },
@@ -16284,6 +23098,17 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8719326427058",
+    "name": "Crispy lemon shrimpz",
+    "per100g": {
+      "kcal": 139,
+      "protein": 4.5,
+      "carbs": 16,
+      "fats": 6.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8719992994106",
     "name": "Vegan losos",
     "brand": "ZEASTAR",
@@ -16292,6 +23117,18 @@
       "protein": 0.2,
       "carbs": 13,
       "fats": 0.6
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8720181140778",
+    "name": "Písmenková polévka",
+    "brand": "Knorr",
+    "per100g": {
+      "kcal": 39,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fats": 0.5
     },
     "schemaVersion": 1
   },
@@ -16340,6 +23177,18 @@
       "protein": 2.1,
       "carbs": 29,
       "fats": 7.4
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8801056024727",
+    "name": "Aloe vera kiwi",
+    "brand": "Lotte",
+    "per100g": {
+      "kcal": 37,
+      "protein": 0,
+      "carbs": 9,
+      "fats": 0
     },
     "schemaVersion": 1
   },
@@ -16402,6 +23251,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8847195688727",
+    "name": "Long grain jasmine rice",
+    "brand": "Lo Lan",
+    "per100g": {
+      "kcal": 353,
+      "protein": 7,
+      "carbs": 79,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8850206070084",
     "name": "Healthy Boy Sweet Soy Sauce",
     "brand": "Dek Som Boon",
@@ -16414,6 +23275,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8850206110124",
+    "name": "Sweet chilli sauce",
+    "brand": "Healthy boy",
+    "per100g": {
+      "kcal": 162,
+      "protein": 1.25,
+      "carbs": 40,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8851011221456",
     "name": "Green jackfruit in salt water",
     "brand": "Twin elephants & Earth brand",
@@ -16421,6 +23294,18 @@
       "kcal": 20,
       "protein": 1.2,
       "carbs": 1.4,
+      "fats": 0
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8851011222279",
+    "name": "Banánový květ ve slaném nálevu",
+    "brand": "Twin elephants & earth brand",
+    "per100g": {
+      "kcal": 11,
+      "protein": 0.8,
+      "carbs": 0.7,
       "fats": 0
     },
     "schemaVersion": 1
@@ -16462,6 +23347,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "8858713001041",
+    "name": "Tapiokový pudink s kokosovým mlékem",
+    "brand": "Sipso",
+    "per100g": {
+      "kcal": 112,
+      "protein": 1.6,
+      "carbs": 11,
+      "fats": 6.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "8858713001393",
     "name": "Pudink s černou lepkavou rýží",
     "brand": "Sipso",
@@ -16470,6 +23367,18 @@
       "protein": 1.6,
       "carbs": 17.5,
       "fats": 6.7
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8858713001676",
+    "name": "Coconut rice pudding sea salted caramel",
+    "brand": "Sipso",
+    "per100g": {
+      "kcal": 136,
+      "protein": 1.3,
+      "carbs": 15.2,
+      "fats": 7.79
     },
     "schemaVersion": 1
   },
@@ -16494,6 +23403,18 @@
       "protein": 11.2,
       "carbs": 73.5,
       "fats": 1.47
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "8935311110365",
+    "name": "Hoàng Gia phô thįt bò",
+    "brand": "Vifon",
+    "per100g": {
+      "kcal": 295,
+      "protein": 10.5,
+      "carbs": 56,
+      "fats": 3.25
     },
     "schemaVersion": 1
   },
@@ -16546,6 +23467,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9000331612485",
+    "name": "Mléčná čokoláda",
+    "brand": "Manner",
+    "per100g": {
+      "kcal": 543,
+      "protein": 6,
+      "carbs": 58,
+      "fats": 32
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "9000331628301",
     "name": "Bratapfel-Zimt",
     "brand": "Manner",
@@ -16577,6 +23510,18 @@
       "kcal": 38,
       "protein": 0.5,
       "carbs": 9.4,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9001400103699",
+    "name": "Sirup třešeň a levandule",
+    "brand": "Yo",
+    "per100g": {
+      "kcal": 31,
+      "protein": 0.5,
+      "carbs": 7.5,
       "fats": 0.5
     },
     "schemaVersion": 1
@@ -16618,6 +23563,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9001536011660",
+    "name": "Lístkové cesto",
+    "brand": "Wewalka",
+    "per100g": {
+      "kcal": 393,
+      "protein": 5.8,
+      "carbs": 38,
+      "fats": 24
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9001536019666",
+    "name": "PIZZA",
+    "brand": "Wewalka",
+    "per100g": {
+      "kcal": 277,
+      "protein": 8.4,
+      "carbs": 47,
+      "fats": 4.9
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "9001538144052",
     "name": "BIO Kyslá kapusta",
     "brand": "Seeburger",
@@ -16626,6 +23595,66 @@
       "protein": 1.4,
       "carbs": 0.6,
       "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9003740095238",
+    "name": "pizza",
+    "brand": "Clever",
+    "per100g": {
+      "kcal": 249,
+      "protein": 9.2,
+      "carbs": 34,
+      "fats": 7.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9004145009707",
+    "name": "Gumové bonbóny",
+    "brand": "Sonnentor",
+    "per100g": {
+      "kcal": 325,
+      "protein": 0.5,
+      "carbs": 79,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9004998004539",
+    "name": "Organic pocket snack",
+    "brand": "Landgarten",
+    "per100g": {
+      "kcal": 404,
+      "protein": 5.8,
+      "carbs": 65,
+      "fats": 12
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9005182004137",
+    "name": "Bio schlagobers 36% fett",
+    "brand": "Ja! Natürlich.",
+    "per100g": {
+      "kcal": 345,
+      "protein": 2.3,
+      "carbs": 3,
+      "fats": 36
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9005300011542",
+    "name": "Toast wheat",
+    "brand": "Ölz",
+    "per100g": {
+      "kcal": 266,
+      "protein": 7.9,
+      "carbs": 49,
+      "fats": 3.7
     },
     "schemaVersion": 1
   },
@@ -16650,6 +23679,18 @@
       "protein": 8.5,
       "carbs": 41,
       "fats": 3.7000000476837
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9006403051602",
+    "name": "Osterschoki",
+    "brand": "Zotter",
+    "per100g": {
+      "kcal": 540,
+      "protein": 6.8,
+      "carbs": 39,
+      "fats": 38
     },
     "schemaVersion": 1
   },
@@ -16762,6 +23803,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9008684020919",
+    "name": "Organic Oat cookies",
+    "brand": "Billa",
+    "per100g": {
+      "kcal": 504,
+      "protein": 7.1,
+      "carbs": 59,
+      "fats": 26
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "9008684025464",
     "name": "ICE lollies",
     "brand": "Clever",
@@ -16806,6 +23859,18 @@
       "protein": 3.4,
       "carbs": 11,
       "fats": 3.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9008684028212",
+    "name": "Bio mandlový fermentovaný dezert",
+    "brand": "Billa",
+    "per100g": {
+      "kcal": 64,
+      "protein": 1.2,
+      "carbs": 7.1,
+      "fats": 3.3
     },
     "schemaVersion": 1
   },
@@ -16870,6 +23935,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9010179000115",
+    "name": "Kokos Mango Maracuja",
+    "brand": "My Love My Life",
+    "per100g": {
+      "kcal": 100,
+      "protein": 1.2,
+      "carbs": 10,
+      "fats": 5.9
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9010179000191",
+    "name": "Kokos Cappuccino",
+    "brand": "My Love My Life",
+    "per100g": {
+      "kcal": 68,
+      "protein": 0.8,
+      "carbs": 4.2,
+      "fats": 5.2
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "9010179000245",
     "name": "OAT HAFER NATUR",
     "brand": "MY LOVE MY LIVE",
@@ -16882,6 +23971,18 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9010179000269",
+    "name": "Dezert s ovesnou moukou, jablky a müsli",
+    "brand": "My Love My Life",
+    "per100g": {
+      "kcal": 101,
+      "protein": 0.9,
+      "carbs": 18,
+      "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "9010437006415",
     "name": "Bio debrecínské párky",
     "brand": "Ja Natürlich",
@@ -16890,6 +23991,18 @@
       "protein": 16,
       "carbs": 0.7,
       "fats": 32
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9020200016596",
+    "name": "Soia Vaniglia",
+    "brand": "Joya",
+    "per100g": {
+      "kcal": 54,
+      "protein": 3,
+      "carbs": 6.5,
+      "fats": 1.7
     },
     "schemaVersion": 1
   },
@@ -16930,6 +24043,30 @@
     "schemaVersion": 1
   },
   {
+    "ean": "9020200320327",
+    "name": "Kokosový dezert s čokoládovou příchutí",
+    "brand": "Dream&Joya",
+    "per100g": {
+      "kcal": 104,
+      "protein": 1,
+      "carbs": 12.9,
+      "fats": 5.2
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "90426292",
+    "name": "Portocale orange",
+    "brand": "Pfanner",
+    "per100g": {
+      "kcal": 29,
+      "protein": 0.5,
+      "carbs": 6.5,
+      "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
     "ean": "90426520",
     "name": "Bio zázvorový shot",
     "brand": "Pfanner",
@@ -16938,6 +24075,30 @@
       "protein": 0.5,
       "carbs": 7.9,
       "fats": 0.5
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9120073484093",
+    "name": "Nugetky",
+    "brand": "Vegini",
+    "per100g": {
+      "kcal": 278,
+      "protein": 19,
+      "carbs": 13,
+      "fats": 16
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "9120082271523",
+    "name": "Saturo Banane",
+    "brand": "saturo foods gmbh",
+    "per100g": {
+      "kcal": 100,
+      "protein": 4.85,
+      "carbs": 8.79,
+      "fats": 4.85
     },
     "schemaVersion": 1
   },
@@ -16962,6 +24123,18 @@
       "protein": 1.6,
       "carbs": 22.9,
       "fats": 2.8
+    },
+    "schemaVersion": 1
+  },
+  {
+    "ean": "98147861",
+    "name": "Wok omáčka Pangang",
+    "brand": "Vitasia",
+    "per100g": {
+      "kcal": 79,
+      "protein": 0.8,
+      "carbs": 16.5,
+      "fats": 0.9
     },
     "schemaVersion": 1
   }
