@@ -1,6 +1,6 @@
-// scripts/seed-lint.js
+// scripts/seed-lint.cjs
 // Validační skript pro data/seed/pack-1.json (+ volitelně pack-2.json)
-// Spusť: node scripts/seed-lint.js
+// Spusť: node scripts/seed-lint.cjs
 
 const path = require('path');
 const fs = require('fs');
@@ -42,10 +42,11 @@ function validateRow(r) {
     }
     if (!isNumber(p[f]) || p[f] < 0) errors.push(`bad_${f}`);
   }
-  if (isNumber(p.kcal) && p.kcal > 900) errors.push('kcal_gt_900');
-  if (isNumber(p.protein) && p.protein > 60) errors.push('protein_gt_60');
-  if (isNumber(p.carbs) && p.carbs > 100) errors.push('carbs_gt_100');
-  if (isNumber(p.fats) && p.fats > 100) errors.push('fats_gt_100');
+
+  if (isNumber(p.kcal)    && p.kcal    > 900) errors.push('kcal_gt_900');
+  if (isNumber(p.protein) && p.protein > 100) errors.push('protein_gt_100'); // ← zvýšeno z 60
+  if (isNumber(p.carbs)   && p.carbs   > 100) errors.push('carbs_gt_100');
+  if (isNumber(p.fats)    && p.fats    > 100) errors.push('fats_gt_100');
 
   return { ok: errors.length === 0, errors, ean };
 }
@@ -91,4 +92,5 @@ function validateRow(r) {
   const sample = Array.from(seen).slice(0, 5);
   console.log('Sample EANs for manual test:', sample);
 })();
+
 

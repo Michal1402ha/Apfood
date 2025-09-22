@@ -125,8 +125,8 @@ function mapReason(reason) {
   if (reason.startsWith('limit:')) {
     const lim = reason.replace('limit:', '');
     if (lim.startsWith('kcal>'))      return { message: 'Kalorie musí být ≤ 900 /100 g.', field: 'kcal' };
-    if (lim.startsWith('protein_g>')) return { message: 'Bílkoviny musí být ≤ 60 g /100 g.', field: 'protein_g' };
-    if (lim.startsWith('carbs_g>'))   return { message: 'Sacharidy musí být ≤ 100 g /100 g.', field: 'carbs_g' }; // ← upraveno z 95 na 100
+    if (lim.startsWith('protein_g>')) return { message: 'Bílkoviny musí být ≤ 100 g /100 g.', field: 'protein_g' }; // ← aktualizováno
+    if (lim.startsWith('carbs_g>'))   return { message: 'Sacharidy musí být ≤ 100 g /100 g.', field: 'carbs_g' };
     if (lim.startsWith('fat_g>'))     return { message: 'Tuky musí být ≤ 100 g /100 g.', field: 'fat_g' };
   }
   return { message: 'Uložení se nezdařilo.', field: null };
@@ -213,6 +213,10 @@ export default function FoodDetailScreen() {
   const [loadingSave, setLoadingSave] = useState(false);
   const [errField, setErrField] = useState(null);
   const [errText, setErrText] = useState('');
+
+  // --- OFF prefill stav ---
+  const [offLoading, setOffLoading] = useState(false);
+  const currentEAN = useMemo(() => String(ean || '').trim(), [ean]);
 
   // 🔁 Resync formuláře při změně výsledku/eanu (např. po úspěšném upsertu → nový lookup)
   useEffect(() => {
@@ -402,7 +406,12 @@ export default function FoodDetailScreen() {
       const res = await addExtraToToday(payload);
       if (res?.ok) {
         try { await Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success); } catch {}
-        navigation.goBack(); // zpět na „Můj den“
+        // D1.8: když míříme do volných položek dne, vrať rovnou na Můj den kvůli refetch
+        if (target === 'dayExtras') {
+          navigation.navigate('MyDay');
+        } else {
+          navigation.goBack();
+        }
       } else {
         try { await Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning); } catch {}
         Alert.alert('Chyba', 'Nepodařilo se přidat položku do dne.');
@@ -412,6 +421,71 @@ export default function FoodDetailScreen() {
       Alert.alert('Chyba', 'Nepodařilo se přidat položku do dne.');
     }
   };
+
+  // ---------- OFF prefill (edit-only) ----------
+  async function onPrefillFromOFF() {
+    if (!currentEAN) {
+      Alert.alert('Nelze načíst', 'EAN není k dispozici.');
+      return;
+    }
+    try {
+      setOffLoading(true);
+      console.log('[off:prefill] start', { ean: currentEAN });
+      const fields = 'product_name,brands,nutriments';
+      const url = `https://world.openfoodfacts.org/cgi/search.pl?search_simple=1&action=process&json=1&code=${encodeURIComponent(currentEAN)}&fields=${fields}`;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+
+      const products = Array.isArray(json?.products) ? json.products : [];
+      const p = products[0] || null;
+      if (!p) {
+        console.log('[off:prefill] fail', { reason: 'not_found' });
+        Alert.alert('Nenalezeno', 'Pro tento EAN nebyla nalezena položka v OFF.');
+        return;
+      }
+
+      const nutr = p.nutriments || {};
+
+      // Primární mapování + fallbacky
+      let kcal_OFF = nutr['energy-kcal_100g'];
+      if (kcal_OFF == null && nutr.energy_100g != null && nutr['energy-kj_100g'] == null) {
+        kcal_OFF = nutr.energy_100g;
+      }
+      if (kcal_OFF == null && nutr['energy-kj_100g'] != null) {
+        kcal_OFF = Number(nutr['energy-kj_100g']) / 4.184;
+      }
+
+      const protein_g_OFF = nutr['proteins_100g'];
+      const carbs_g_OFF   = nutr['carbohydrates_100g'];
+      const fat_g_OFF     = nutr['fat_100g'];
+
+      const firstBrand = (brands) => {
+        if (!brands) return '';
+        const s = String(brands).split(',')[0].trim();
+        return s || '';
+      };
+
+      const nextName  = String(p.product_name || '').trim();
+      const nextBrand = firstBrand(p.brands);
+
+      // Předvyplň (přepíšeme klidně vše; kde OFF nemá hodnotu, necháme původní)
+      if (nextName)  setName(nextName);
+      if (nextBrand) setBrand(nextBrand);
+      if (kcal_OFF != null)      setKcal(String(Math.round(Number(kcal_OFF) || 0)));
+      if (protein_g_OFF != null) setProtein(String(Number(protein_g_OFF) || 0));
+      if (carbs_g_OFF != null)   setCarbs(String(Number(carbs_g_OFF) || 0));
+      if (fat_g_OFF != null)     setFat(String(Number(fat_g_OFF) || 0));
+
+      console.log('[off:prefill] ok', { ean: currentEAN });
+      Alert.alert('Načteno', 'Hodnoty z OFF byly doplněny.');
+    } catch (e) {
+      console.log('[off:prefill] fail', { ean: currentEAN, error: e?.message || String(e) });
+      Alert.alert('Síťová chyba', 'Nepodařilo se načíst data z OFF.');
+    } finally {
+      setOffLoading(false);
+    }
+  }
 
   // ------- UI: EDIT / CREATE FORM -------
   if (editing) {
@@ -425,7 +499,20 @@ export default function FoodDetailScreen() {
             </View>
             <Text style={styles.brand}>EAN: {ean || '—'}</Text>
 
-            <Text style={[ui.textDark, { marginTop: 8, marginBottom: 6 }]}>
+            {/* OFF prefill CTA */}
+            <View style={{ flexDirection: 'row', alignItems: 'center', marginTop: 6, marginBottom: 8, gap: 10 }}>
+              <TouchableOpacity
+                onPress={onPrefillFromOFF}
+                style={[styles.ctaSmall, (offLoading || !currentEAN) && { opacity: 0.6 }]}
+                activeOpacity={0.9}
+                disabled={offLoading || !currentEAN}
+              >
+                <Text style={styles.ctaText}>Načíst z OFF</Text>
+              </TouchableOpacity>
+              {offLoading && <ActivityIndicator />}
+            </View>
+
+            <Text style={[ui.textDark, { marginBottom: 6 }]}>
               Hodnoty uváděj na 100 g.
             </Text>
 
@@ -717,6 +804,7 @@ const styles = StyleSheet.create({
   name: { fontSize: 22, fontWeight: '800', marginBottom: 4, color: '#fff', flex: 1, paddingRight: 12 },
   brand: { fontSize: 14, color: 'rgba(255,255,255,0.9)', marginBottom: 12 },
   cta: { backgroundColor: '#EC6408', borderRadius: 12, paddingVertical: 14 },
+  ctaSmall: { backgroundColor: '#111', borderRadius: 10, paddingVertical: 10, paddingHorizontal: 12 },
   ctaText: { color: '#fff', textAlign: 'center', fontWeight: '700' },
 
   // Badge
@@ -759,6 +847,7 @@ const ui = StyleSheet.create({
   satLabel: { color: '#EC6408' },
   descDark: { fontSize: 15, color: '#333' },
 });
+
 
 
 
