@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "key": "Apfood.AutoBalance.Day",
+      "area": "Phase2/AutoBalance",
+      "since": "4.1.0",
+      "status": "in-progress",
+      "owner": "Thread-1",
+      "entrypoints": [
+        "utils/autobalance.ts"
+      ],
+      "tests": [
+        "__tests__/autobalance.core.spec.ts"
+      ],
+      "dod": [
+        "determinismus, locks, C-spread, kcal tuner, ≤12 iterací"
+      ]
+    },
+    {
+      "key": "Apfood.Crowdsourcing.UserItems",
+      "area": "Phase1/Crowd",
+      "since": "3.9.0",
+      "status": "in-progress",
+      "owner": "Thread-2",
+      "entrypoints": [
+        "screens/MyDayScreen.js",
+        "components/foods/ExtraEditor.tsx"
+      ],
+      "dod": [
+        "Uložení USER položek",
+        "Limity /100 g"
+      ],
+      "notes": "Chybí foto obalu a QA kolečko (cílem ≥ 90 % pokrytí)."
+    },
+    {
+      "key": "Apfood.Energy.Expenditure",
+      "area": "Phase4/Energy",
+      "since": "4.0.0",
+      "status": "in-progress",
+      "owner": "Thread-3",
+      "entrypoints": [
+        "utils/energy/core.ts",
+        "components/activities/EnergyGalaxyNative.tsx"
+      ],
+      "dod": [
+        "BMR (FFM-aware) + PAL_base",
+        {
+          "Aktivity": "Model/MET s guards"
+        },
+        "TEE = BMR*PAL + ΣEEE"
+      ]
+    },
+    {
+      "key": "Apfood.Imports.Dedupe",
+      "area": "Phase1/Imports",
+      "since": "3.8.0",
+      "status": "in-progress",
+      "owner": "Thread-1",
+      "entrypoints": [
+        "scripts/retailer-metrics.ps1",
+        "utils/imports/dedupe.ts"
+      ],
+      "dod": [
+        "dedupe/lint/prune pro seed-packy (pack-2 ≈ 2020)",
+        "report Retailer Count & % (Lidl, Coop, …)"
+      ],
+      "notes": "Oddělit „Nalezeno v Apfood“ vs. „Online“."
+    },
+    {
+      "key": "Apfood.MyDay.Activities.EnergyGalaxy",
+      "area": "Phase4/Energy",
+      "since": "4.0.0",
+      "status": "in-progress",
+      "owner": "Thread-2",
+      "entrypoints": [
+        "components/activities/EnergyGalaxyGateway.tsx",
+        "components/activities/EnergyGalaxyNative.tsx"
+      ],
+      "tests": [],
+      "dod": [
+        "Fullscreen tapeta (native) = cover",
+        "Ring + planety + quick-bar",
+        "Hvězdy tabů stále viditelné"
+      ]
+    },
+    {
+      "key": "Apfood.MyDay.FoodsScreen",
+      "area": "MyDay",
+      "since": "3.9.0",
+      "status": "shipped",
+      "owner": "Thread-2",
+      "entrypoints": [
+        "screens/MyDayScreen.js"
+      ],
+      "tests": [],
+      "dod": [
+        {
+          "„Jídla“": "čistý ScrollView, bez měřicí mezivrstvy"
+        },
+        "Souhrn bílá karta, žádné mezery nahoře",
+        "Text položek bíle (#FFFFFF)"
+      ]
+    },
+    {
+      "key": "Apfood.ScanFood",
+      "area": "Phase1/Reader",
+      "since": "3.2.0",
+      "status": "shipped",
+      "owner": "Thread-1",
+      "entrypoints": [
+        "screens/ScanFoodScreen.tsx",
+        "utils/ean/lookup.ts"
+      ],
+      "tests": [
+        "__tests__/scanfood.spec.ts"
+      ],
+      "dod": [
+        "EAN → lookup → detail → ruční doplnění",
+        "Badge zdrojů OFX/USER/SEED",
+        "Offline fallback"
+      ],
+      "notes": "Stále chybí napojení reálných e-shopů (Tesco/Rohlík/Billa/Kaufland)."
+    }
+  ]
+}
