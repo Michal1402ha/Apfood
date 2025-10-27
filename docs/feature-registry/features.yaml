@@ -6,10 +6,16 @@ features:
     owner: Thread-1
     entrypoints:
       - utils/autobalance.ts
+      - __tests__/autobalance.core.spec.ts
     tests:
       - __tests__/autobalance.core.spec.ts
     dod:
       - determinismus, locks, C-spread, kcal tuner, ≤12 iterací
+    notes: Determinismus, locks, C-spread, kcal tuner.
+    confidence: 0.8
+    provenance:
+      source: docs\legacy\seed-from-protocols.json
+      last_verified: 2025-10-27
   - key: Apfood.Crowdsourcing.UserItems
     area: Phase1/Crowd
     since: 3.9.0
@@ -46,6 +52,11 @@ features:
       - dedupe/lint/prune pro seed-packy (pack-2 ≈ 2020)
       - report Retailer Count & % (Lidl, Coop, …)
     notes: Oddělit „Nalezeno v Apfood“ vs. „Online“.
+    tests: []
+    confidence: 0.8
+    provenance:
+      source: docs\legacy\seed-from-protocols.json
+      last_verified: 2025-10-27
   - key: Apfood.MyDay.Activities.EnergyGalaxy
     area: Phase4/Energy
     since: 4.0.0
@@ -59,6 +70,11 @@ features:
       - Fullscreen tapeta (native) = cover
       - Ring + planety + quick-bar
       - Hvězdy tabů stále viditelné
+    notes: Fullscreen tapeta, ring, planety, quick-bar.
+    confidence: 0.8
+    provenance:
+      source: docs\legacy\seed-from-protocols.json
+      last_verified: 2025-10-27
   - key: Apfood.MyDay.FoodsScreen
     area: MyDay
     since: 3.9.0
@@ -71,6 +87,11 @@ features:
       - „Jídla“: čistý ScrollView, bez měřicí mezivrstvy
       - Souhrn bílá karta, žádné mezery nahoře
       - Text položek bíle (#FFFFFF)
+    notes: "Jídla: čistý ScrollView, žádné měření mimo 'Aktivity'."
+    confidence: 0.9
+    provenance:
+      source: docs\legacy\seed-from-protocols.json
+      last_verified: 2025-10-27
   - key: Apfood.ScanFood
     area: Phase1/Reader
     since: 3.2.0
@@ -86,3 +107,7 @@ features:
       - Badge zdrojů OFX/USER/SEED
       - Offline fallback
     notes: Stále chybí napojení reálných e-shopů (Tesco/Rohlík/Billa/Kaufland).
+    confidence: 0.9
+    provenance:
+      source: docs\legacy\seed-from-protocols.json
+      last_verified: 2025-10-27
