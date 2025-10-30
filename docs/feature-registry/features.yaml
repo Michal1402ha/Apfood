@@ -1,8 +1,8 @@
-features:
+﻿features:
   - key: Apfood.AutoBalance.Day
     area: Phase2/AutoBalance
     since: 4.1.0
-    status: in-progress
+    status: superseded
     owner: Thread-1
     entrypoints:
       - utils/autobalance.ts
@@ -10,12 +10,80 @@ features:
     tests:
       - __tests__/autobalance.core.spec.ts
     dod:
-      - determinismus, locks, C-spread, kcal tuner, ≤12 iterací
-    notes: Determinismus, locks, C-spread, kcal tuner.
-    confidence: 0.8
+      - determinismus, locks, C-spread, kcal tuner, â‰¤12 iteracĂ­
+    notes: >
+      PĹŻvodnĂ­ poloĹľka pro AutoBalance; nahrazeno kombinacĂ­
+      Apfood.AutoBalance.RouterSplit + Apfood.AutoBalance.CoreV2.StrongKcal+DCF.
+    confidence: 0.7
     provenance:
       source: docs\legacy\seed-from-protocols.json
-      last_verified: 2025-10-27
+      last_verified: '2025-10-29'
+
+  - key: Apfood.AutoBalance.RouterSplit
+    area: Phase2/AutoBalance
+    since: 4.1.0
+    status: shipped
+    owner: Thread-1
+    entrypoints:
+      - utils/mealPlanSession.js
+      - utils/mealPlanSession.v2.js
+      - utils/mealPlanSession.legacy.js
+      - __tests__/mealPlanSession.spec.js
+    tests:
+      - __tests__/mealPlanSession.spec.js
+    dod:
+      - Router zachovĂˇvĂˇ veĹ™ejnĂ© API (load/init/upsert/getPlanTotals/getPlanDelta/applyAutoBalance)
+      - Feature-flag: globalThis.__APFOOD_FLAGS__.AUTO_BALANCE_V2 nebo env APFOOD_AUTOBALANCE_V2="true"
+      - V2: applyBaselinePortions() + benignĂ­ fallback v legacy
+      - DEFAULT_ANCHOR_SLOTS exportovĂˇno (preferuj V2, fallback legacy)
+    notes: App.js aktivuje V2 globĂˇlnĂ­m flagem; ĹľĂˇdnĂ© UI zmÄ›ny nejsou nutnĂ©.
+    confidence: 0.95
+    provenance:
+      source: W1 handover (Router split + V2), App.js flag
+      last_verified: '2025-10-29'
+
+  - key: Apfood.AutoBalance.CoreV2.StrongKcal+DCF
+    area: Phase2/AutoBalance
+    since: 4.1.0
+    status: shipped
+    owner: Thread-1
+    entrypoints:
+      - utils/mealPlanSession.v2.js
+      - __tests__/mealPlanSession.spec.js
+    tests:
+      - __tests__/mealPlanSession.spec.js
+    dod:
+      - strongKcalTuner() pĹ™itaĹľenĂ­ kcal k cĂ­li s fatFloor guardy
+      - distributedCarbFinish() multi-zdrojovĂ© dorovnĂˇnĂ­ C + kompenzace pĹ™es F
+      - respekt lockĹŻ, idempotence, promĂ­tnutĂ­ porcĂ­ do session
+      - kvantizace 10 g end-to-end (persistSnapped)
+      - must-touch pĹ™es primarySlots (testovÄ› [0,1])
+    notes: 11/11 Jest zelenĂ©; V2 jĂˇdro doruÄŤeno bez zmÄ›ny veĹ™ejnĂ˝ch API.
+    confidence: 0.95
+    provenance:
+      source: Master pĹ™edĂˇvacĂ­ protokol â€” Autobalance V2
+      last_verified: '2025-10-29'
+
+  - key: Apfood.AutoBalance.Baseline+PrimarySlots
+    area: Phase2/AutoBalance
+    since: 4.1.0
+    status: in-progress
+    owner: Thread-1
+    entrypoints:
+      - utils/mealPlanSession.v2.js
+      - screens/MyDayScreen.js
+    tests:
+      - __tests__/mealPlanSession.spec.js
+    dod:
+      - Baseline planner pro B/L/V porce; snacky dorovnajĂ­ zbytek
+      - UI pĹ™edĂˇvĂˇ primarySlots pro B/L/V do applyAutoBalance(..., { primarySlots })
+      - pĹ™epĂ­naÄŤ â€žAuto-balanceâ€ś v UI (konzistentnĂ­ s RouterSplit)
+    notes: PĹ™epnout na shipped po integraci baseline do UI (VlĂˇkno 2).
+    confidence: 0.8
+    provenance:
+      source: Master pĹ™edĂˇvacĂ­ protokol â€” Autobalance V2 (doporuÄŤenĂ­)
+      last_verified: '2025-10-29'
+
   - key: Apfood.Crowdsourcing.UserItems
     area: Phase1/Crowd
     since: 3.9.0
@@ -25,9 +93,10 @@ features:
       - screens/MyDayScreen.js
       - components/foods/ExtraEditor.tsx
     dod:
-      - Uložení USER položek
+      - UloĹľenĂ­ USER poloĹľek
       - Limity /100 g
-    notes: Chybí foto obalu a QA kolečko (cílem ≥ 90 % pokrytí).
+    notes: ChybĂ­ foto obalu a QA koleÄŤko (cĂ­lem â‰Ą 90 % pokrytĂ­).
+
   - key: Apfood.Energy.Expenditure
     area: Phase4/Energy
     since: 4.0.0
@@ -39,7 +108,8 @@ features:
     dod:
       - BMR (FFM-aware) + PAL_base
       - Aktivity: Model/MET s guards
-      - TEE = BMR*PAL + ΣEEE
+      - TEE = BMR*PAL + ÎŁEEE
+
   - key: Apfood.Imports.Dedupe
     area: Phase1/Imports
     since: 3.8.0
@@ -49,14 +119,14 @@ features:
       - scripts/retailer-metrics.ps1
       - utils/imports/dedupe.ts
     dod:
-      - dedupe/lint/prune pro seed-packy (pack-2 ≈ 2020)
-      - report Retailer Count & % (Lidl, Coop, …)
-    notes: Oddělit „Nalezeno v Apfood“ vs. „Online“.
+      - dedupe/lint/prune pro seed-packy (pack-2 â‰ 2020)
+      - report Retailer Count & % (Lidl, Coop, â€¦)
+    notes: OddÄ›lit â€žNalezeno v Apfoodâ€ś vs. â€žOnlineâ€ś.
     tests: []
     confidence: 0.8
     provenance:
       source: docs\legacy\seed-from-protocols.json
-      last_verified: 2025-10-27
+      last_verified: '2025-10-27'
   - key: Apfood.MyDay.Activities.EnergyGalaxy
     area: Phase4/Energy
     since: 4.0.0
@@ -65,16 +135,22 @@ features:
     entrypoints:
       - components/activities/EnergyGalaxyGateway.tsx
       - components/activities/EnergyGalaxyNative.tsx
-    tests: []
+    tests:
+      - 'manual/device: SM-X200 â€“ background cover FAIL (2025-10-29)'
     dod:
       - Fullscreen tapeta (native) = cover
       - Ring + planety + quick-bar
-      - Hvězdy tabů stále viditelné
-    notes: Fullscreen tapeta, ring, planety, quick-bar.
+      - HvÄ›zdy tabĹŻ stĂˇle viditelnĂ©
+    notes: >
+      Fullscreen tapeta, ring, planety, quick-bar.
+      Test 2025-10-29: full-bleed star background v tabu â€žAktivityâ€ś FAILED na zaĹ™Ă­zenĂ­
+      (cover/clipping). Priorita: native cover fix v EnergyGalaxyNative + host sizing
+      v MyDayScreen.
     confidence: 0.8
     provenance:
       source: docs\legacy\seed-from-protocols.json
-      last_verified: 2025-10-27
+      last_verified: '2025-10-29'
+
   - key: Apfood.MyDay.FoodsScreen
     area: MyDay
     since: 3.9.0
@@ -84,14 +160,14 @@ features:
       - screens/MyDayScreen.js
     tests: []
     dod:
-      - „Jídla“: čistý ScrollView, bez měřicí mezivrstvy
-      - Souhrn bílá karta, žádné mezery nahoře
-      - Text položek bíle (#FFFFFF)
-    notes: "Jídla: čistý ScrollView, žádné měření mimo 'Aktivity'."
+      - â€žJĂ­dlaâ€ś: ÄŤistĂ˝ ScrollView, bez mÄ›Ĺ™icĂ­ mezivrstvy
+      - Souhrn bĂ­lĂˇ karta, ĹľĂˇdnĂ© mezery nahoĹ™e
+      - Text poloĹľek bĂ­le (#FFFFFF)
+    notes: 'JĂ­dla: ÄŤistĂ˝ ScrollView, ĹľĂˇdnĂ© mÄ›Ĺ™enĂ­ mimo "Aktivity".'
     confidence: 0.9
     provenance:
       source: docs\legacy\seed-from-protocols.json
-      last_verified: 2025-10-27
+      last_verified: '2025-10-27'
   - key: Apfood.ScanFood
     area: Phase1/Reader
     since: 3.2.0
@@ -103,11 +179,53 @@ features:
     tests:
       - __tests__/scanfood.spec.ts
     dod:
-      - EAN → lookup → detail → ruční doplnění
-      - Badge zdrojů OFX/USER/SEED
+      - EAN â†’ lookup â†’ detail â†’ ruÄŤnĂ­ doplnÄ›nĂ­
+      - Badge zdrojĹŻ OFX/USER/SEED
       - Offline fallback
-    notes: Stále chybí napojení reálných e-shopů (Tesco/Rohlík/Billa/Kaufland).
+    notes: StĂˇle chybĂ­ napojenĂ­ reĂˇlnĂ˝ch e-shopĹŻ (Tesco/RohlĂ­k/Billa/Kaufland).
     confidence: 0.9
     provenance:
       source: docs\legacy\seed-from-protocols.json
-      last_verified: 2025-10-27
+      last_verified: '2025-10-27'
+- key: Apfood.MyDay.Activities.EnergyGalaxy.BackgroundMode
+  area: Phase4/Energy
+  since: 4.1.0
+  status: shipped
+  owner: Thread-2
+  entrypoints:
+    - components/activities/EnergyGalaxyGateway.tsx
+    - screens/MyDayScreen.js
+  tests: []
+  dod:
+    - Gateway podporuje prop backgroundMode ("internal" | "external")
+    - external: žádný vlastní ImageBackground, pouze transparentní wrapper
+    - Full-bleed pozadí delegováno na ScreenBackground (host screen)
+    - Zpětná kompatibilita: bezpečný no-op, když není dostupná impl.
+  notes: >
+    Aktivní v MyDay/„Aktivity“ — host je měřen pouze v tabu 'acts',
+    hvězdné pozadí je řešeno externě (fullBleed). Background cover
+    issue je v EnergyGalaxyNative, ne v gateway.
+  confidence: 0.9
+  provenance:
+    source: W2 handover (EnergyGalaxy gateway update)
+    last_verified: '2025-10-29'
+
+  - key: Apfood.MyDay.UI.BlurFallback
+    area: MyDay
+    since: 4.1.0
+    status: shipped
+    owner: Thread-2
+    entrypoints:
+      - screens/MyDayScreen.js
+    tests: []
+    dod:
+      - â€žVolnĂ© poloĹľky dneâ€ś: BlurView s fallbackem na View (bez tvrdĂ©ho importu expo-blur)
+      - 'StarTabs: popisky se neĹ™eĹľou (overflow: visible, lineHeight, includeFontPadding)'
+      - 'â€žAktivityâ€ś: vnitĹ™nĂ­ host width:"100%" + position:"relative"'
+      - ScreenBackground podporuje fullBleed
+    notes: P0/P1 hotfix balĂ­ÄŤek pro stabilnĂ­ UI bez zĂˇvislosti na expo-blur.
+    confidence: 0.95
+    provenance:
+      source: W2 hotfix (MyDayScreen UI fixes)
+      last_verified: '2025-10-28'
+
