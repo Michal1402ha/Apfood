@@ -209,7 +209,6 @@
   provenance:
     source: W2 handover (EnergyGalaxy gateway update)
     last_verified: '2025-10-29'
-
   - key: Apfood.MyDay.UI.BlurFallback
     area: MyDay
     since: 4.1.0
